@@ -1,0 +1,109 @@
+INFO Connection to SQLite database closed
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                 points   R-squared (uncentered):                   0.819
+Model:                            OLS   Adj. R-squared (uncentered):              0.818
+Method:                 Least Squares   F-statistic:                              1504.
+Date:                Sun, 18 May 2025   Prob (F-statistic):                        0.00
+Time:                        14:10:45   Log-Likelihood:                         -4713.6
+No. Observations:                1336   AIC:                                      9435.
+Df Residuals:                    1332   BIC:                                      9456.
+Df Model:                           4                                                  
+Covariance Type:            nonrobust                                                  
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+forced_drop_outs    -1.6639      0.116    -14.289      0.000      -1.892      -1.435
+kick_meters          0.0352      0.001     23.504      0.000       0.032       0.038
+line_breaks          1.7937      0.089     20.252      0.000       1.620       1.967
+meters_gained        0.0319      0.001     33.146      0.000       0.030       0.034
+==============================================================================
+Omnibus:                        0.353   Durbin-Watson:                   2.051
+Prob(Omnibus):                  0.838   Jarque-Bera (JB):                0.433
+Skew:                           0.002   Prob(JB):                        0.805
+Kurtosis:                       2.912   Cond. No.                         201.
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+            home        away  points   residual  predicted
+1366  Sea Eagles        Eels      14 -13.333785  27.333785
+1367      Tigers    Warriors      -2   8.370086 -10.370086
+1368     Raiders      Sharks       4   2.218947   1.781053
+1369    Panthers     Cowboys      -4 -15.255415  11.255415
+1370   Rabbitohs    Roosters       6   5.448857   0.551143
+1371        Eels     Dragons       1  -1.386264   2.386264
+1372      Titans    Dolphins     -26  -5.279270 -20.720730
+1373     Broncos      Tigers      22  18.219432   3.780568
+1374  Sea Eagles       Storm     -24 -15.148695  -8.851305
+1375    Bulldogs     Knights      20   0.445406  19.554594
+1376    Dolphins    Panthers      18  15.261484   2.738516
+1377     Dragons      Titans      22   0.498247  21.501753
+1378     Broncos    Roosters     -10  -2.622180  -7.377820
+1379      Sharks  Sea Eagles       6   3.388381   2.611619
+1380   Rabbitohs     Cowboys      -8   0.080873  -8.080873
+1381        Eels     Raiders     -38  -6.180707 -31.819293
+1382       Storm    Warriors      28   1.245776  26.754224
+1383     Knights      Tigers     -16   7.798824 -23.798824
+1384  Sea Eagles     Dragons      -2  -2.658202   0.658202
+1385    Bulldogs   Rabbitohs      32  -2.234353  34.234353
+1386    Dolphins       Storm      20   3.469655  16.530345
+1387    Warriors     Broncos       2  -7.447008   9.447008
+1388    Roosters    Panthers     -28 -14.469176 -13.530824
+1389      Titans     Raiders     -10  -9.830977  -0.169023
+1390     Knights      Sharks     -20  -7.987295 -12.012705
+1391      Tigers        Eels     -16  -2.743166 -13.256834
+1392     Broncos    Bulldogs      24   7.860307  16.139693
+1393    Roosters     Dragons      28  -1.828024  29.828024
+1394    Warriors     Knights      14  -3.709854  17.709854
+1395       Storm   Rabbitohs       8  -3.666171  11.666171
+1396     Cowboys      Titans      32   2.336388  29.663612
+1397    Panthers  Sea Eagles     -16  -2.512490 -13.487510
+1398     Raiders    Dolphins      12   0.208483  11.791517
+1399      Tigers      Sharks       2  -4.370731   6.370731
+1400      Sharks        Eels      10   1.262617   8.737383
+1401    Roosters    Dolphins      10  -7.475879  17.475879
+1402   Rabbitohs     Knights     -26  -3.835735 -22.164265
+1403    Warriors     Cowboys       4   0.439349   3.560651
+1404      Tigers     Dragons       6  26.230448 -20.230448
+1405      Titans    Bulldogs     -20   5.515915 -25.515915
+1406    Panthers     Broncos      24   6.162093  17.837907
+1407       Storm     Raiders      -2  -4.190720   2.190720
+1408        Eels    Dolphins      -4  -3.539929  -0.460071
+1409     Knights      Titans      -4   9.605339 -13.605339
+1410   Rabbitohs     Broncos       8  16.605880  -8.605880
+1411     Raiders    Bulldogs     -12   2.177223 -14.177223
+1412     Dragons    Warriors      -1   9.471991 -10.471991
+1413     Cowboys    Panthers       0   1.824673  -1.824673
+1414       Storm      Tigers      64  18.484631  45.515369
+1415  Sea Eagles      Sharks     -16  -5.749873 -10.250127
+team
+Storm         4.211107
+Rabbitohs     4.056200
+Raiders       3.940484
+Dolphins      3.601501
+Cowboys       2.643637
+Sharks        1.361111
+Broncos       0.757283
+Knights       0.117099
+Eels         -0.399265
+Titans       -0.615446
+Tigers       -0.846315
+Dragons      -1.205450
+Bulldogs     -1.595996
+Warriors     -2.213397
+Panthers     -3.828207
+Sea Eagles   -5.036609
+Roosters     -5.952409
+Name: residual, dtype: float64
+count    80.000
+mean      1.068
+std       7.935
+min     -15.255
+25%      -3.677
+50%       0.812
+75%       5.677
+max      26.230
+Name: residual, dtype: float64
+/home/paul/Projects/NRLAnalysis/models/2018_2025.json

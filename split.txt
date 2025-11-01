@@ -1,0 +1,18 @@
+Storm,4.211107
+Rabbitohs,4.056200
+Raiders,3.940484
+Dolphins,3.601501
+Cowboys,2.643637
+Sharks,1.361111
+Broncos,0.757283
+Knights,0.117099
+Eels,-0.399265
+Titans,-0.615446
+Tigers,-0.846315
+Dragons,-1.205450
+Bulldogs,-1.595996
+Warriors,-2.213397
+Panthers,-3.828207
+Sea Eagles,-5.036609
+Roosters,-5.952409
+

@@ -1,0 +1,309 @@
+{
+    "19": {
+        "name": "Campbelltown Sports Stadium",
+        "latitude": -34.050375,
+        "longitude": 150.8337,
+        "ffid": "500056"
+    },
+    "393": {
+        "name": "Barlow Park",
+        "latitude": -16.930365001720357,
+        "longitude": 145.7672906788477,
+        "ffid": "500029"
+    },
+    "309": {
+        "name": "Lavington Sports Ground",
+        "latitude": -36.035098785756766,
+        "longitude": 146.91319598276368
+    },
+    "399": {
+        "name": "Clive Berghofer Stadium",
+        "latitude": -27.55898339162071,
+        "longitude": 151.9659674699272
+    },
+    "1092": {
+        "name": "Salter Oval",
+        "latitude": -24.87534842552344,
+        "longitude": 152.3304763935663,
+        "ffid": "500189"
+    },
+    "4": {
+        "name": "GIO Stadium",
+        "latitude": -35.250031,
+        "longitude": 149.102674,
+        "ffid": "500071"
+    },
+    "134": {
+        "name": "Apollo Projects Stadium",
+        "latitude": -43.543806,
+        "longitude": 172.604046
+    },
+    "70": {
+        "name": "FMG Stadium Waikato",
+        "latitude": -37.781111,
+        "longitude": 175.268324
+    },
+    "20": {
+        "name": "Accor Stadium",
+        "latitude": -33.847104,
+        "longitude": 151.063397,
+        "ffid": "500448"
+    },
+    "190": {
+        "name": "FMG Stadium",
+        "latitude": -40.35669077411444,
+        "longitude": 175.6011190567458
+    },
+    "21": {
+        "name": "WIN Stadium",
+        "latitude": -34.427894,
+        "longitude": 150.902583,
+        "ffid": "500019"
+    },
+    "438": {
+        "name": "BB Print Stadium",
+        "latitude": -21.16363833429893,
+        "longitude": 149.18442682413013,
+        "ffid": "500210"
+    },
+    "498": {
+        "name": "McDonalds Park",
+        "latitude": -35.13158274774532,
+        "longitude": 147.39469659687364,
+        "ffid": "500164"
+    },
+    "713": {
+        "name": "Yarrow Stadium",
+        "latitude": -39.070271241654424,
+        "longitude": 174.0651560225236
+    },
+    "198": {
+        "name": "Browne Park",
+        "latitude": -23.376571211876122,
+        "longitude": 150.50179541553544
+    },
+    "23": {
+        "name": "Jubilee Stadium",
+        "latitude": -33.971911,
+        "longitude": 151.129235,
+        "ffid": "500073"
+    },
+    "27": {
+        "name": "Belmore Sports Ground",
+        "latitude": -33.916582,
+        "longitude": 151.094707,
+        "ffid": "500042"
+    },
+    "803": {
+        "name": "Marley Brown Oval",
+        "latitude": -23.878365704976193,
+        "longitude": 151.2244742807677,
+        "ffid": "500103"
+    },
+    "3": {
+        "name": "BlueBet Stadium",
+        "latitude": -33.758518,
+        "longitude": 150.687674,
+        "ffid": "500040"
+    },
+    "130": {
+        "name": "C.ex Coffs International Stadium",
+        "latitude": -30.322773,
+        "longitude": 153.094985,
+        "ffid": "500571"
+    },
+    "30": {
+        "name": "Marvel Stadium",
+        "latitude": -37.816478,
+        "longitude": 144.947586,
+        "ffid": "50000"
+    },
+    "149": {
+        "name": "Cbus Super Stadium",
+        "latitude": -28.066806,
+        "longitude": 153.378818,
+        "ffid": "500046"
+    },
+    "423": {
+        "name": "TIO Stadium",
+        "latitude": -12.39915,
+        "longitude": 130.887299,
+        "ffid": "500115"
+    },
+    "97": {
+        "name": "Apex Oval",
+        "latitude": -32.254793973414266,
+        "longitude": 148.62264144797132,
+        "ffid": "500079"
+    },
+    "409": {
+        "name": "Scully Park",
+        "latitude": -31.101973637936858,
+        "longitude": 150.91882596029933,
+        "ffid": "500178"
+    },
+    "7": {
+        "name": "Leichhardt Oval",
+        "latitude": -33.868662,
+        "longitude": 151.154699,
+        "ffid": "500069"
+    },
+    "108": {
+        "name": "Carrington Park",
+        "latitude": -33.41939242482324,
+        "longitude": 149.5852421360402,
+        "ffid": "500118"
+    },
+    "14": {
+        "name": "Willows Sports Complex",
+        "latitude": -19.315955,
+        "longitude": 146.711848,
+        "ffid": "500003"
+    },
+    "18": {
+        "name": "Sky Stadium",
+        "latitude": -41.272999,
+        "longitude": 174.785859,
+        "ffid": "500062"
+    },
+    "11": {
+        "name": "McDonald Jones Stadium",
+        "latitude": -32.918816,
+        "longitude": 151.726557,
+        "ffid": "500024"
+    },
+    "968": {
+        "name": "Kayo Stadium",
+        "latitude": -27.218832,
+        "longitude": 153.097257,
+        "ffid": "500037"
+    },
+    "167": {
+        "name": "Eden Park",
+        "latitude": -36.874964166703556,
+        "longitude": 174.7447764331939
+    },
+    "24": {
+        "name": "Sydney Cricket Ground",
+        "latitude": -33.891633,
+        "longitude": 151.224846,
+        "ffid": "500722"
+    },
+    "1096": {
+        "name": "Allianz Stadium",
+        "latitude": -33.889098,
+        "longitude": 151.225372,
+        "ffid": "500001"
+    },
+    "1": {
+        "name": "Sydney Football Stadium (Old)",
+        "latitude": -33.889098,
+        "longitude": 151.225372
+    },
+    "939": {
+        "name": "Sunshine Coast Stadium",
+        "latitude": -26.733782782810557,
+        "longitude": 153.12604777213366,
+        "ffid": "500080"
+    },
+    "5": {
+        "name": "4 Pines Park",
+        "latitude": -33.760058,
+        "longitude": 151.273328,
+        "ffid": "500005"
+    },
+    "9": {
+        "name": "Sharks Stadium",
+        "latitude": -34.038464,
+        "longitude": 151.140732,
+        "ffid": "500007"
+    },
+    "475": {
+        "name": "McLean Park",
+        "latitude": -39.501807682536146,
+        "longitude": 176.91295153863788
+    },
+    "33": {
+        "name": "Adelaide Oval",
+        "latitude": -34.915478,
+        "longitude": 138.596272,
+        "ffid": "500421"
+    },
+    "492": {
+        "name": "Forsyth Barr Stadium",
+        "latitude": -45.86921920794569,
+        "longitude": 170.52435491410114
+    },
+    "47": {
+        "name": "HBF Park",
+        "latitude": -31.945773053056744,
+        "longitude": 115.86988604137412
+    },
+    "119": {
+        "name": "Brisbane Cricket Ground",
+        "latitude": -27.485788,
+        "longitude": 153.038093,
+        "ffid": "500862"
+    },
+    "804": {
+        "name": "Optus Stadium",
+        "latitude": -31.951180991079788,
+        "longitude": 115.8890060105539
+    },
+    "8": {
+        "name": "Parramatta Stadium",
+        "latitude": -33.808028,
+        "longitude": 150.999566
+    },
+    "985": {
+        "name": "Queensland Country Bank Stadium",
+        "latitude": -19.266068,
+        "longitude": 146.816517
+    },
+    "432": {
+        "name": "Glen Willow Oval",
+        "latitude": -32.582364,
+        "longitude": 149.584721,
+        "ffid": "500117"
+    },
+    "26": {
+        "name": "Industree Group Stadium",
+        "latitude": -33.428297,
+        "longitude": 151.338073,
+        "ffid": "500077"
+    },
+    "940": {
+        "name": "CommBank Stadium",
+        "latitude": -33.808549,
+        "longitude": 151.000074,
+        "ffid": "500008"
+    },
+    "45": {
+        "name": "AMI Stadium",
+        "latitude": -43.54382078632203,
+        "longitude": 172.60403645453107,
+        "ffid": "500205"
+    },
+    "1097": {
+        "name": "Suncorp Stadium",
+        "latitude": -27.464821,
+        "longitude": 153.009565,
+        "ffid": "500010"
+    },
+    "6": {
+        "name": "Go Media Stadium",
+        "latitude": -36.918296,
+        "longitude": 174.812405
+    },
+    "1290": {
+        "name": "Allegiant Stadium",
+        "latitude": 36.090931,
+        "longitude": -115.183312
+    },
+    "251": {
+        "name": "AAMI Park",
+        "latitude": -37.825097,
+        "longitude": 144.983735,
+        "ffid": "500023"
+    }
+}

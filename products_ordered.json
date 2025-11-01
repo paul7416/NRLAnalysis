@@ -1,0 +1,603 @@
+{
+    "id": "215469347712346",
+    "conversation_message": {
+        "id": "workflow-intro-0",
+        "sent_at": 1749439697,
+        "created_at": 1749439697,
+        "show_created_at": true,
+        "message_style": 0,
+        "delivery_option": "summary",
+        "blocks": [
+            {
+                "type": "paragraph",
+                "text": "Hi, I&#x27;m Fin, Loaded&#x27;s AI Help Bot",
+                "class": "no-margin"
+            },
+            {
+                "type": "image",
+                "url": "https://downloads.intercomcdn.com/i/o/kse39le3/1535198893/f971478868fee7c0b10f55d7ff9a/1f44b.png?expires=1749441600&signature=c96aea16e16759ee9d3ff0dce6813377af136d9364f8beb9ee004b88230f86cf&req=dSUkE8h3lYlWWvMW1HO4zT2MzgDYUgv%2F3OSem4m5tmw6tltZttrelT0etT5O%0AbemJ%0A",
+                "text": ":wave:"
+            },
+            {
+                "type": "paragraph",
+                "text": "I&#x27;ve been trained up by Rich &amp; the team to give you fast answers to almost any question you&#x27;re likely to have. And if I can&#x27;t help, I&#x27;ll pass you on to one of the team who will get back to you asap (usually within a few hours). So, how can I help?",
+                "class": "no-margin"
+            }
+        ],
+        "attachments": [],
+        "author": {
+            "type": "Admin",
+            "avatar": {
+                "initials": "F",
+                "color": "286efa",
+                "image_urls": {
+                    "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                    "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                    "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                },
+                "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                "shape": "squircle",
+                "label": "Profile image for Fin"
+            },
+            "is_admin": true,
+            "is_self": false,
+            "name": "Fin",
+            "first_name": "Fin",
+            "is_bot": true,
+            "id": "8072216",
+            "initial": "F"
+        },
+        "seen_by_admin": "unseen",
+        "reactions_reply": null,
+        "team_author": null,
+        "reply_type": "text",
+        "form": null,
+        "reply_options": [],
+        "pointer_selector": null,
+        "client_assigned_uuid": null,
+        "google_analytics_identifier": null,
+        "ux_style": {
+            "container": "bubble"
+        },
+        "metadata": {
+            "avatars": [
+                {
+                    "initials": "F",
+                    "color": "286efa",
+                    "image_urls": {
+                        "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                        "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                        "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                    },
+                    "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                    "shape": "squircle",
+                    "label": "Profile image for Fin"
+                }
+            ],
+            "title": "Fin",
+            "suffix": "AI Agent",
+            "timestamp": null
+        }
+    },
+    "conversation_parts": [
+        {
+            "id": "2936419479",
+            "client_assigned_uuid": "184c7a28-347a-4d1d-b6e6-1edd00723c5b",
+            "created_at": 1749439697,
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "text": "How do I export a csv of all ordered products"
+                }
+            ],
+            "attachments": [],
+            "author": {
+                "type": "widget_user",
+                "avatar": {
+                    "initials": "R",
+                    "color": "b8e65c",
+                    "image_urls": {
+                        "square_25": null,
+                        "square_50": null,
+                        "square_128": null
+                    },
+                    "image_url": null,
+                    "shape": "circle",
+                    "label": "Profile image for Rachael"
+                },
+                "is_admin": false,
+                "is_self": true,
+                "name": "Rachael Inta",
+                "first_name": "Rachael",
+                "is_bot": false,
+                "id": "682eb222c8aa8e861a4dd04b",
+                "initial": "R"
+            },
+            "seen_by_admin": null,
+            "part_type": "comment",
+            "event_data": {},
+            "reply_options": [],
+            "form": null,
+            "mood": null,
+            "sources": null,
+            "cmr": false,
+            "ux_style": {
+                "container": "bubble"
+            },
+            "metadata": null,
+            "fin_response_type": null,
+            "fin_error_type": null,
+            "fin_significant_response": false
+        },
+        {
+            "id": "24450548175",
+            "client_assigned_uuid": "e7c5fc9ff013453b9016356b4010849e",
+            "created_at": 1749439712,
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "text": "Currently, we don't have a direct feature to export reports to CSV or Excel. However, there are two ways you can get your ordered products data:"
+                },
+                {
+                    "type": "orderedList",
+                    "items": [
+                        "For most reports, including the Products report which shows all products sold (ranked by sales percentage), you can copy the data and paste it into Excel where it will maintain its formatting.",
+                        "Alternatively, you can right-click anywhere on the page, select Print, and save as a PDF. In Google Chrome, you can adjust scaling settings in the Print Preview to capture more data or remove borders."
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "To view your ordered products, head to Reports &gt; Products where you'll find comprehensive data on all items sold, including quantities, dollar values, and percentages of total sales.<a class=\"inline-citation\" data-entity-id=\"130912150\" data-entity-type=\"external\" data-source-index=\"2\" href=\"https://support.loadedhub.com/hc/en-us/articles/360025493332-Products-Reports-Overview\" title=\"Products Reports Overview \u2013 Loaded Support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"></a><a class=\"inline-citation\" data-entity-id=\"130912148\" data-entity-type=\"external\" data-source-index=\"3\" href=\"https://support.loadedhub.com/hc/en-us/articles/360028875732-How-to-navigate-the-products-report\" title=\"How to navigate the products report \u2013 Loaded Support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"></a>"
+                }
+            ],
+            "attachments": [],
+            "author": {
+                "type": "Admin",
+                "avatar": {
+                    "initials": "F",
+                    "color": "286efa",
+                    "image_urls": {
+                        "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                        "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                        "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                    },
+                    "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                    "shape": "squircle",
+                    "label": "Profile image for Fin"
+                },
+                "is_admin": true,
+                "is_self": false,
+                "name": "Fin",
+                "first_name": "Fin",
+                "is_bot": true,
+                "id": "8072216",
+                "initial": "F"
+            },
+            "seen_by_admin": null,
+            "part_type": "fin_answer",
+            "event_data": {},
+            "reply_options": [],
+            "form": null,
+            "mood": null,
+            "sources": [
+                {
+                    "id": "",
+                    "title": "Products Reports Overview \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/360025493332-Products-Reports-Overview"
+                },
+                {
+                    "id": "",
+                    "title": "How to copy reports and data to excel and sheets \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/4408671729549-How-to-copy-reports-and-data-to-excel-and-sheets"
+                },
+                {
+                    "id": "",
+                    "title": "How to navigate the products report \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/360028875732-How-to-navigate-the-products-report"
+                }
+            ],
+            "cmr": false,
+            "ux_style": {
+                "container": "bubble"
+            },
+            "metadata": {
+                "avatars": [
+                    {
+                        "initials": "F",
+                        "color": "286efa",
+                        "image_urls": {
+                            "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                            "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                            "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                        },
+                        "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                        "shape": "squircle",
+                        "label": "Profile image for Fin"
+                    }
+                ],
+                "title": "Fin",
+                "suffix": "AI Agent",
+                "timestamp": null
+            },
+            "fin_response_type": "inline_answer",
+            "fin_error_type": null,
+            "fin_significant_response": true
+        },
+        {
+            "id": "24450548281",
+            "client_assigned_uuid": "7d267537-f9f2-4e60-9ccd-bc0ce581f8e2",
+            "created_at": 1749439712,
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "text": "Did that answer your question?"
+                }
+            ],
+            "attachments": [],
+            "author": {
+                "type": "Admin",
+                "avatar": {
+                    "initials": "F",
+                    "color": "286efa",
+                    "image_urls": {
+                        "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                        "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                        "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                    },
+                    "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                    "shape": "squircle",
+                    "label": "Profile image for Fin"
+                },
+                "is_admin": true,
+                "is_self": false,
+                "name": "Fin",
+                "first_name": "Fin",
+                "is_bot": true,
+                "id": "8072216",
+                "initial": "F"
+            },
+            "seen_by_admin": null,
+            "part_type": "comment",
+            "event_data": {},
+            "reply_options": [],
+            "form": null,
+            "mood": "positive",
+            "sources": null,
+            "cmr": false,
+            "ux_style": {
+                "container": "bubble"
+            },
+            "metadata": null,
+            "fin_response_type": "feedback_part",
+            "fin_error_type": null,
+            "fin_significant_response": false
+        },
+        {
+            "id": "24450606178",
+            "client_assigned_uuid": "34f72625-7439-42ff-8098-3786bb8d8ddd",
+            "created_at": 1749439871,
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "text": "Ok, how do I find a list of exactly how much of every single product we have ordered over the last 3 months"
+                }
+            ],
+            "attachments": [],
+            "author": {
+                "type": "widget_user",
+                "avatar": {
+                    "initials": "R",
+                    "color": "b8e65c",
+                    "image_urls": {
+                        "square_25": null,
+                        "square_50": null,
+                        "square_128": null
+                    },
+                    "image_url": null,
+                    "shape": "circle",
+                    "label": "Profile image for Rachael"
+                },
+                "is_admin": false,
+                "is_self": true,
+                "name": "Rachael Inta",
+                "first_name": "Rachael",
+                "is_bot": false,
+                "id": "682eb222c8aa8e861a4dd04b",
+                "initial": "R"
+            },
+            "seen_by_admin": "unseen",
+            "part_type": "comment",
+            "event_data": {},
+            "reply_options": [],
+            "form": null,
+            "mood": null,
+            "sources": null,
+            "cmr": false,
+            "ux_style": {
+                "container": "bubble"
+            },
+            "metadata": null,
+            "fin_response_type": null,
+            "fin_error_type": null,
+            "fin_significant_response": false
+        },
+        {
+            "id": "24450610417",
+            "client_assigned_uuid": "8bc6bbbaaad445229f52be34b6b4e5e9",
+            "created_at": 1749439882,
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "text": "To see exactly how much of every product you've ordered over the last 3 months, you'll want to use the Orders By Item report:"
+                },
+                {
+                    "type": "orderedList",
+                    "items": [
+                        "Go to Stock &gt; Reports &gt; Orders By Item",
+                        "Click \"Select\" to edit the date view",
+                        "Choose \"Custom\" as the period type",
+                        "Set your start and end dates to cover the last 3 months",
+                        "Click \"Apply\"<a class=\"inline-citation\" data-entity-id=\"130898591\" data-entity-type=\"external\" data-source-index=\"1\" href=\"https://support.loadedhub.com/hc/en-us/articles/360028506852-How-to-navigate-the-orders-by-item-page\" title=\"How to navigate the orders by item page \u2013 Loaded Support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"></a>"
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The report will update to show all stock items received via purchase orders during your selected timeframe, with quantities for each item."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "For more detail, click \"Expand All\" to see the specific purchase orders associated with each item."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Alternatively, you can use the Order History page (Stock &gt; Order History) and filter by date range to see all orders placed during that period.<a class=\"inline-citation\" data-entity-id=\"130905044\" data-entity-type=\"external\" data-source-index=\"2\" href=\"https://support.loadedhub.com/hc/en-us/articles/360028808931-How-to-navigate-the-Order-History-page\" title=\"How to navigate the Order History page \u2013 Loaded Support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"></a>"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Need anything else about tracking your ordered products?"
+                }
+            ],
+            "attachments": [],
+            "author": {
+                "type": "Admin",
+                "avatar": {
+                    "initials": "F",
+                    "color": "286efa",
+                    "image_urls": {
+                        "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                        "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                        "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                    },
+                    "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                    "shape": "squircle",
+                    "label": "Profile image for Fin"
+                },
+                "is_admin": true,
+                "is_self": false,
+                "name": "Fin",
+                "first_name": "Fin",
+                "is_bot": true,
+                "id": "8072216",
+                "initial": "F"
+            },
+            "seen_by_admin": null,
+            "part_type": "fin_answer",
+            "event_data": {},
+            "reply_options": [],
+            "form": null,
+            "mood": null,
+            "sources": [
+                {
+                    "id": "",
+                    "title": "How to navigate the orders by supplier page \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/360028507092-How-to-navigate-the-orders-by-supplier-page"
+                },
+                {
+                    "id": "",
+                    "title": "How to navigate the orders by item page \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/360028506852-How-to-navigate-the-orders-by-item-page"
+                },
+                {
+                    "id": "",
+                    "title": "How to navigate the Order History page \u2013 Loaded Support",
+                    "type": "external",
+                    "url": "https://support.loadedhub.com/hc/en-us/articles/360028808931-How-to-navigate-the-Order-History-page"
+                }
+            ],
+            "cmr": false,
+            "ux_style": {
+                "container": "bubble"
+            },
+            "metadata": {
+                "avatars": [
+                    {
+                        "initials": "F",
+                        "color": "286efa",
+                        "image_urls": {
+                            "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                            "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                            "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                        },
+                        "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                        "shape": "squircle",
+                        "label": "Profile image for Fin"
+                    }
+                ],
+                "title": "Fin",
+                "suffix": "AI Agent",
+                "timestamp": null
+            },
+            "fin_response_type": "inline_answer",
+            "fin_error_type": null,
+            "fin_significant_response": true
+        }
+    ],
+    "read": true,
+    "read_at": 1749439885,
+    "updated_at": 1749439882,
+    "dismissed": false,
+    "last_participating_admin": {
+        "id": "8072216",
+        "type": "Admin",
+        "avatar": {
+            "initials": "F",
+            "color": "286efa",
+            "image_urls": {
+                "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+            },
+            "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+            "shape": "squircle",
+            "label": "Profile image for Fin"
+        },
+        "name": null,
+        "is_admin": true,
+        "first_name": "Fin",
+        "last_active_at": null,
+        "is_active": true,
+        "is_bot": true,
+        "is_self": false,
+        "intro": null,
+        "job_title": null,
+        "location": {},
+        "social_accounts": [],
+        "initial": "F",
+        "calendar_url": null
+    },
+    "ux_style": "bot",
+    "participants": [],
+    "intercom_link_solution": "live-chat",
+    "operator_simplified_conditions": [],
+    "decision_state_updated_at": null,
+    "decision_state_version": 0,
+    "composer_state": {
+        "visible": true,
+        "version": 5,
+        "self_serve_suggestions_enabled": false,
+        "custom_bot_active": true,
+        "workflow_active": true,
+        "placeholder": "Message\u2026",
+        "visibility": "visible_and_enabled"
+    },
+    "analytics_metadata": {
+        "custom_bot_id": null
+    },
+    "archived": false,
+    "prevent_end_user_replies": false,
+    "prevent_end_user_replies_timestamp": null,
+    "inbound_conversations_disabled": false,
+    "notification_status": "unknown",
+    "current_channel": "messenger",
+    "state": "state_open",
+    "is_inbound": true,
+    "ticket": null,
+    "eligible_for_recent_conversations": true,
+    "exclude_from_conversation_list": false,
+    "owner_id": "682eb222c8aa8e861a4dd04b",
+    "header": {
+        "use_bot_header": true,
+        "background_color": "#ffffff",
+        "foreground_primary_color": "#222222",
+        "foreground_secondary_color": "#737373",
+        "background_color_dark": "#1c1c1c",
+        "foreground_primary_color_dark": "#f7f7f7",
+        "foreground_secondary_color_dark": "#a5a5a5",
+        "display_active_indicator": false,
+        "expanded": {
+            "title": "Fin",
+            "avatar_details": {
+                "avatar_type": "facepile",
+                "avatars": [
+                    {
+                        "initials": "F",
+                        "color": "286efa",
+                        "image_urls": {
+                            "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                            "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                            "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                        },
+                        "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                        "shape": "squircle",
+                        "label": "Profile image for Fin"
+                    },
+                    {
+                        "initials": "N",
+                        "color": "c701f1",
+                        "image_urls": {
+                            "square_25": "https://static.intercomassets.com/avatars/8072215/square_25/1649131030730-1747783934.jpg",
+                            "square_50": "https://static.intercomassets.com/avatars/8072215/square_50/1649131030730-1747783934.jpg",
+                            "square_128": "https://static.intercomassets.com/avatars/8072215/square_128/1649131030730-1747783934.jpg"
+                        },
+                        "image_url": "https://static.intercomassets.com/avatars/8072215/square_128/1649131030730-1747783934.jpg",
+                        "shape": "circle",
+                        "label": "Profile image for Nav"
+                    },
+                    {
+                        "initials": "R",
+                        "color": "c701f1",
+                        "image_urls": {
+                            "square_25": null,
+                            "square_50": null,
+                            "square_128": null
+                        },
+                        "image_url": null,
+                        "shape": "circle",
+                        "label": "Profile image for Richard"
+                    }
+                ]
+            },
+            "body": [
+                {
+                    "text": "AI Agent answers instantly",
+                    "style": "h1"
+                }
+            ],
+            "social_accounts": [],
+            "calendar_url": null,
+            "footer": [
+                {
+                    "text": "Ask for the team if needed",
+                    "style": "paragraph"
+                }
+            ]
+        },
+        "collapsed": {
+            "title": "Fin",
+            "subtitle": "The team can also help",
+            "avatar_details": {
+                "avatar_type": "facepile",
+                "avatars": [
+                    {
+                        "initials": "F",
+                        "color": "286efa",
+                        "image_urls": {
+                            "square_25": "https://static.intercomassets.com/avatars/8072216/square_25/custom_avatar-1747784653.png",
+                            "square_50": "https://static.intercomassets.com/avatars/8072216/square_50/custom_avatar-1747784653.png",
+                            "square_128": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png"
+                        },
+                        "image_url": "https://static.intercomassets.com/avatars/8072216/square_128/custom_avatar-1747784653.png",
+                        "shape": "squircle",
+                        "label": "Profile image for Fin"
+                    }
+                ]
+            }
+        },
+        "hide_greeting": false
+    },
+    "footer_notice": null,
+    "ui_flags": {
+        "show_last_part_meta": false
+    },
+    "conversation_ended_button": null,
+    "team_intro": null,
+    "special_notice": null,
+    "interaction_mode": "talking_to_fin",
+    "streaming_animation": null,
+    "should_include_in_open_inbound_ids": true
+}

@@ -1,0 +1,1623 @@
+2023 Round11 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks2023 Round12 Brisbane Broncos vs Penrith Panthers2023 Round12 St George Illawarra Dragons vs Sydney Roosters2023 Round12 South Sydney Rabbitohs vs Parramatta Eels2023 Round12 Cronulla Sutherland Sharks vs Newcastle Knights2023 Round12 Wests Tigers vs North Queensland Cowboys2023 Round12 Dolphins vs Melbourne Storm
+2023 Round12 Canterbury Bankstown Bulldogs vs Gold Coast Titans
+2023 Round12 Canberra Raiders vs Manly Warringah Sea Eagles
+2023 Round13 Dolphins vs St George Illawarra Dragons
+2023 Round13 Parramatta Eels vs North Queensland Cowboys
+2023 Round13 Warriors vs Brisbane Broncos
+2023 Round13 South Sydney Rabbitohs vs Canberra Raiders
+2023 Round 13 Newcastle Knights vs Manly Warringah Sea Eagles
+2023 Round 14 Wests Tigers vs Canberra Raiders
+2023 Round 14 Warriors vs Dolphins
+2023 Round 14 Gold Coast Titans vs South Sydney Rabbitohs
+2023 Round 14 Cronulla Sutherland Sharks vs Brisbane Broncos
+2023 Round 14 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2023 Round 14 North Queensland Cowboys vs Melbourne Storm
+2023 Round 14 Penrith Panthers vs St George Illawarra Dragons
+2023 Round 15 Gold Coast Titans vs Wests Tigers
+2023 Round 15 Canberra Raiders vs Warriors
+2023 Round 15 Manly Warringah Sea Eagles vs Dolphins
+2023 Round 15 St George Illawarra Dragons vs South Sydney Rabbitohs
+2023 Round 15 Brisbane Broncos vs Newcastle Knights
+2023 Round 15 Sydney Roosters vs Penrith Panthers
+2023 Round 15 Melbourne Storm vs Cronulla Sutherland Sharks
+2023 Round 15 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2023 Round 16 North Queensland Cowboys vs Penrith Panthers
+2023 Round 16 Newcastle Knights vs Sydney Roosters
+2023 Round 16 Parramatta Eels vs Manly Warringah Sea Eagles
+2023 Round 16 Wests Tigers vs Melbourne Storm
+2023 Round 16 Cronulla Sutherland Sharks vs Canterbury Bankstown Bulldogs
+2023 Round 17 St George Illawarra Dragons vs Warriors
+2023 Round 17 Dolphins vs Parramatta Eels
+2023 Round 17 Penrith Panthers vs Newcastle Knights
+2023 Round 17 Melbourne Storm vs Manly Warringah Sea Eagles
+2023 Round 17 Brisbane Broncos vs Gold Coast Titans
+2023 Round 17 South Sydney Rabbitohs vs North Queensland Cowboys
+2023 Round 17 Sydney Roosters vs Canberra Raiders
+2023 Round 18 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2023 Round 18 Melbourne Storm vs Penrith Panthers
+2023 Round 18 Warriors vs South Sydney Rabbitohs
+2023 Round 18 Canberra Raiders vs Gold Coast Titans
+2023 Round 18 North Queensland Cowboys vs Wests Tigers
+2023 Round 18 Brisbane Broncos vs Dolphins
+2023 Round 18 Canterbury Bankstown Bulldogs vs Newcastle Knights
+2023 Round 18 Manly Warringah Sea Eagles vs Sydney Roosters
+2023 Round 19 Wests Tigers vs Cronulla Sutherland Sharks
+2023 Round 19 St George Illawarra Dragons vs Canberra Raiders
+2023 Round 19 Parramatta Eels vs Warriors
+2023 Round 19 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2023 Round 19 Gold Coast Titans vs Dolphins
+2023 Round 20 Newcastle Knights vs Wests Tigers
+2023 Round 20 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2023 Round 20 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2023 Round 20 Sydney Roosters vs Melbourne Storm
+2023 Round 20 Warriors vs Cronulla Sutherland Sharks
+2023 Round 20 Dolphins vs Penrith Panthers
+2023 Round 20 Parramatta Eels vs Gold Coast Titans
+2023 Round 21 St George Illawarra Dragons vs Wests Tigers
+2023 Round 21 Warriors vs Canberra Raiders
+2023 Round 21 South Sydney Rabbitohs vs Brisbane Broncos
+2023 Round 21 Gold Coast Titans vs Sydney Roosters
+2023 Round 21 Newcastle Knights vs Melbourne Storm
+2023 Round 21 North Queensland Cowboys vs Parramatta Eels
+2023 Round 21 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2023 Round 21 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2023 Round 22 Brisbane Broncos vs Sydney Roosters
+2023 Round 22 Wests Tigers vs South Sydney Rabbitohs
+2023 Round 22 Melbourne Storm vs Parramatta Eels
+2023 Round 22 Canberra Raiders vs Newcastle Knights
+2023 Round 22 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2023 Round 22 Penrith Panthers vs Cronulla Sutherland Sharks
+2023 Round 22 Canterbury Bankstown Bulldogs vs Dolphins
+2023 Round 22 Gold Coast Titans vs North Queensland Cowboys
+2023 Round 23 Sydney Roosters vs Manly Warringah Sea Eagles
+2023 Round 23 Gold Coast Titans vs Warriors
+2023 Round 23 Penrith Panthers vs Melbourne Storm
+2023 Round 23 North Queensland Cowboys vs Brisbane Broncos
+2023 Round 23 Dolphins vs Newcastle Knights
+2023 Round 23 South Sydney Rabbitohs vs Cronulla Sutherland Sharks
+2023 Round 23 Parramatta Eels vs St George Illawarra Dragons
+2023 Round 23 Canberra Raiders vs Wests Tigers
+2023 Round 24 Manly Warringah Sea Eagles vs Penrith Panthers
+2023 Round 24 Cronulla Sutherland Sharks vs Gold Coast Titans
+2023 Round 24 Brisbane Broncos vs Parramatta Eels
+2023 Round 24 South Sydney Rabbitohs vs St George Illawarra Dragons
+2023 Round 24 Wests Tigers vs Warriors
+2023 Round 24 Sydney Roosters vs Dolphins
+2023 Round 24 Melbourne Storm vs Canberra Raiders
+2023 Round 24 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2023 Round 25 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2023 Round 25 Warriors vs Manly Warringah Sea Eagles
+2023 Round 25 Parramatta Eels vs Sydney Roosters
+2023 Round 25 Wests Tigers vs Dolphins
+2023 Round 25 Gold Coast Titans vs Penrith Panthers
+2023 Round 25 St George Illawarra Dragons vs Melbourne Storm
+2023 Round 25 Newcastle Knights vs South Sydney Rabbitohs
+2023 Round 25 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2023 Round 26 Penrith Panthers vs Parramatta Eels
+2023 Round 26 Warriors vs St George Illawarra Dragons
+2023 Round 26 Dolphins vs North Queensland Cowboys
+2023 Round 26 Melbourne Storm vs Gold Coast Titans
+2023 Round 26 Sydney Roosters vs Wests Tigers
+2023 Round 26 Canberra Raiders vs Brisbane Broncos
+2023 Round 26 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2023 Round 26 Newcastle Knights vs Cronulla Sutherland Sharks
+2023 Round 27 Brisbane Broncos vs Melbourne Storm
+2023 Round 27 Manly Warringah Sea Eagles vs Wests Tigers
+2023 Round 27 South Sydney Rabbitohs vs Sydney Roosters
+2023 Round 27 Dolphins vs Warriors
+2023 Round 27 Penrith Panthers vs North Queensland Cowboys
+2023 Round 27 St George Illawarra Dragons vs Newcastle Knights
+2023 Round 27 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2023 Round 27 Cronulla Sutherland Sharks vs Canberra Raiders
+2023 Round Qualif Final Brisbane Broncos vs Melbourne Storm
+2023 Round Qualif Final Penrith Panthers vs Warriors
+2023 Round Elim Qualif Cronulla Sutherland Sharks vs Sydney Roosters
+2023 Round Elim Qualif Newcastle Knights vs Canberra Raiders
+2023 Round Semi Final Melbourne Storm vs Sydney Roosters
+2023 Round Semi Final Warriors vs Newcastle Knights
+2023 Round Prelim Final Penrith Panthers vs Melbourne Storm
+2023 Round Prelim Final Brisbane Broncos vs Warriors
+2023 Round Grand Final Penrith Panthers vs Brisbane Broncos
+2024 Round 18 Parramatta Eels vs South Sydney Rabbitohs
+2024 Round 18 Cronulla Sutherland Sharks vs Gold Coast Titans
+2024 Round 18 Brisbane Broncos vs Penrith Panthers
+2024 Round 18 Canterbury Bankstown Bulldogs vs Warriors
+2024 Round 18 Wests Tigers vs Melbourne Storm
+2024 Round 18 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2024 Round 18 Sydney Roosters vs St George Illawarra Dragons
+2024 Round 18 Canberra Raiders vs Newcastle Knights
+2024 Round 19 Dolphins vs South Sydney Rabbitohs
+2024 Round 19 Cronulla Sutherland Sharks vs Wests Tigers
+2024 Round 19 Gold Coast Titans vs Parramatta Eels
+2024 Round 19 Brisbane Broncos vs St George Illawarra Dragons
+2024 Round 19 Manly Warringah Sea Eagles vs Newcastle Knights
+2024 Round 20 Canberra Raiders vs Warriors
+2024 Round 20 South Sydney Rabbitohs vs Wests Tigers
+2024 Round 20 Newcastle Knights vs Brisbane Broncos
+2024 Round 20 Melbourne Storm vs Sydney Roosters
+2024 Round 20 Penrith Panthers vs Dolphins
+2024 Round 20 Manly Warringah Sea Eagles vs Gold Coast Titans
+2024 Round 20 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2024 Round 21 Warriors vs Wests Tigers
+2024 Round 21 Parramatta Eels vs Melbourne Storm
+2024 Round 21 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2024 Round 21 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2024 Round 21 Sydney Roosters vs Manly Warringah Sea Eagles
+2024 Round 21 St George Illawarra Dragons vs Penrith Panthers
+2024 Round 21 Dolphins vs Gold Coast Titans
+2024 Round 21 Canberra Raiders vs South Sydney Rabbitohs
+2024 Round 22 Wests Tigers vs North Queensland Cowboys
+2024 Round 22 Dolphins vs Sydney Roosters
+2024 Round 22 Warriors vs Parramatta Eels
+2024 Round 22 Gold Coast Titans vs Brisbane Broncos
+2024 Round 22 Melbourne Storm vs St George Illawarra Dragons
+2024 Round 22 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2024 Round 22 Penrith Panthers vs Newcastle Knights
+2024 Round 22 Canterbury Bankstown Bulldogs vs Canberra Raiders
+2024 Round 23 South Sydney Rabbitohs vs Melbourne Storm
+2024 Round 23 Gold Coast Titans vs Cronulla Sutherland Sharks
+2024 Round 23 Parramatta Eels vs Penrith Panthers
+2024 Round 23 Canberra Raiders vs Manly Warringah Sea Eagles
+2024 Round 23 North Queensland Cowboys vs Brisbane Broncos
+2024 Round 23 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2024 Round 23 Dolphins vs Warriors
+2024 Round 23 Newcastle Knights vs Wests Tigers
+2024 Round 24 Penrith Panthers vs Melbourne Storm
+2024 Round 24 Manly Warringah Sea Eagles vs Warriors
+2024 Round 24 Sydney Roosters vs Parramatta Eels
+2024 Round 24 Canterbury Bankstown Bulldogs vs Dolphins
+2024 Round 24 North Queensland Cowboys vs Canberra Raiders
+2024 Round 24 Wests Tigers vs South Sydney Rabbitohs
+2024 Round 24 St George Illawarra Dragons vs Gold Coast Titans
+2024 Round 24 Cronulla Sutherland Sharks vs Newcastle Knights
+2024 Round 25 Wests Tigers vs Manly Warringah Sea Eagles
+2024 Round 25 Warriors vs Canterbury Bankstown Bulldogs
+2024 Round 25 Brisbane Broncos vs Parramatta Eels
+2024 Round 25 Canberra Raiders vs Penrith Panthers
+2024 Round 25 Melbourne Storm vs Dolphins
+2024 Round 25 South Sydney Rabbitohs vs Newcastle Knights
+2024 Round 25 Gold Coast Titans vs Sydney Roosters
+2024 Round 25 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2024 Round 26 North Queensland Cowboys vs Melbourne Storm
+2024 Round 26 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2024 Round 26 Penrith Panthers vs South Sydney Rabbitohs
+2024 Round 26 Parramatta Eels vs St George Illawarra Dragons
+2024 Round 26 Dolphins vs Brisbane Broncos
+2024 Round 26 Cronulla Sutherland Sharks vs Warriors
+2024 Round 26 Newcastle Knights vs Gold Coast Titans
+2024 Round 26 Sydney Roosters vs Canberra Raiders
+2024 Round 27 Brisbane Broncos vs Melbourne Storm
+2024 Round 27 Wests Tigers vs Parramatta Eels
+2024 Round 27 South Sydney Rabbitohs vs Sydney Roosters
+2024 Round 27 St George Illawarra Dragons vs Canberra Raiders
+2024 Round 27 Canterbury Bankstown Bulldogs vs North Queensland Cowboys
+2024 Round 27 Penrith Panthers vs Gold Coast Titans
+2024 Round 27 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2024 Round 27 Newcastle Knights vs Dolphins
+2024 Round Qualif Final Penrith Panthers vs Sydney Roosters
+2024 Round Qualif Final Melbourne Storm vs Cronulla Sutherland Sharks
+2024 Round Elim Final North Queensland Cowboys vs Newcastle Knights
+2024 Round Elim Final Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2024 Round Semi Final Cronulla Sutherland Sharks vs North Queensland Cowboys
+2024 Round Semi Final Sydney Roosters vs Manly Warringah Sea Eagles
+2024 Round Prelim Final Melbourne Storm vs Sydney Roosters
+2024 Round Prelim Final Penrith Panthers vs Cronulla Sutherland Sharks
+2024 Round Grand Final Melbourne Storm vs Penrith Panthers
+2025 Round 1 Penrith Panthers vs Cronulla Sutherland Sharks
+2025 Round 1 Sydney Roosters vs Brisbane Broncos
+2025 Round 1 Wests Tigers vs Newcastle Knights
+2025 Round 1 South Sydney Rabbitohs vs Dolphins
+2025 Round 1 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2025 Round 1 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2025 Round 1 Melbourne Storm vs Parramatta Eels
+2025 Round 2 Newcastle Knights vs Dolphins
+2025 Round 2 Warriors vs Manly Warringah Sea Eagles
+2025 Round 2 Penrith Panthers vs Sydney Roosters
+2025 Round 2 St George Illawarra Dragons vs South Sydney Rabbitohs
+2025 Round 2 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2025 Round 2 Canberra Raiders vs Brisbane Broncos
+2025 Round 2 Parramatta Eels vs Wests Tigers
+2025 Round 2 Canterbury Bankstown Bulldogs vs Gold Coast Titans
+2025 Round 3 Melbourne Storm vs Penrith Panthers
+2025 Round 3 Brisbane Broncos vs North Queensland Cowboys
+2025 Round 3 Warriors vs Sydney Roosters
+2025 Round 3 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2025 Round 3 Dolphins vs Wests Tigers
+2025 Round 3 Gold Coast Titans vs Newcastle Knights
+2025 Round 3 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2025 Round 3 Manly Warringah Sea Eagles vs Canberra Raiders
+2025 Round 4 South Sydney Rabbitohs vs Penrith Panthers
+2025 Round 4 Sydney Roosters vs Gold Coast Titans
+2025 Round 4 Dolphins vs Brisbane Broncos
+2025 Round 4 St George Illawarra Dragons vs Melbourne Storm
+2025 Round 4 North Queensland Cowboys vs Canberra Raiders
+2025 Round 4 Cronulla Sutherland Sharks vs Canterbury Bankstown Bulldogs
+2025 Round 4 Manly Warringah Sea Eagles vs Parramatta Eels
+2025 Round 4 Wests Tigers vs Warriors
+2025 Round 5 Canberra Raiders vs Cronulla Sutherland Sharks
+2025 Round 5 Penrith Panthers vs North Queensland Cowboys
+2025 Round 5 South Sydney Rabbitohs vs Sydney Roosters
+2025 Round 5 Parramatta Eels vs St George Illawarra Dragons
+2025 Round 5 Gold Coast Titans vs Dolphins
+2025 Round 5 Brisbane Broncos vs Wests Tigers
+2025 Round 5 Manly Warringah Sea Eagles vs Melbourne Storm
+2025 Round 5 Canterbury Bankstown Bulldogs vs Newcastle Knights
+2025 Round 6 Dolphins vs Penrith Panthers
+2025 Round 6 St George Illawarra Dragons vs Gold Coast Titans
+2025 Round 6 Brisbane Broncos vs Sydney Roosters
+2025 Round 6 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2025 Round 6 South Sydney Rabbitohs vs North Queensland Cowboys
+2025 Round 6 Parramatta Eels vs Canberra Raiders
+2025 Round 6 Melbourne Storm vs Warriors
+2025 Round 6 Newcastle Knights vs Wests Tigers
+2025 Round 7 Manly Warringah Sea Eagles vs St George Illawarra Dragons
+2025 Round 7 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2025 Round 7 Dolphins vs Melbourne Storm
+2025 Round 7 Warriors vs Brisbane Broncos
+2025 Round 7 Sydney Roosters vs Penrith Panthers
+2025 Round 7 Gold Coast Titans vs Canberra Raiders
+2025 Round 7 Newcastle Knights vs Cronulla Sutherland Sharks
+2025 Round 7 Wests Tigers vs Parramatta Eels
+2025 Round 8 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2025 Round 8 Sydney Roosters vs St George Illawarra Dragons
+2025 Round 8 Warriors vs Newcastle Knights
+2025 Round 8 Melbourne Storm vs South Sydney Rabbitohs
+2025 Round 8 North Queensland Cowboys vs Gold Coast Titans
+2025 Round 8 Penrith Panthers vs Manly Warringah Sea Eagles
+2025 Round 8 Canberra Raiders vs Dolphins
+2025 Round 8 Wests Tigers vs Cronulla Sutherland Sharks
+2025 Round 9 Cronulla Sutherland Sharks vs Parramatta Eels
+2025 Round 9 Sydney Roosters vs Dolphins
+2025 Round 9 South Sydney Rabbitohs vs Newcastle Knights
+2025 Round 9 Warriors vs North Queensland Cowboys
+2025 Round 9 Wests Tigers vs St George Illawarra Dragons
+2025 Round 9 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2025 Round 9 Penrith Panthers vs Brisbane Broncos
+2025 Round 9 Melbourne Storm vs Canberra Raiders
+2025 Round 10 Parramatta Eels vs Dolphins
+2025 Round 10 Newcastle Knights vs Gold Coast Titans
+2025 Round 10 South Sydney Rabbitohs vs Brisbane Broncos
+2025 Round 10 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2025 Round 10 St George Illawarra Dragons vs Warriors
+2025 Round 10 North Queensland Cowboys vs Penrith Panthers
+2025 Round 10 Melbourne Storm vs Wests Tigers
+2025 Round 10 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2025 Round 11 Newcastle Knights vs Parramatta Eels
+2025 Round 11 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2025 Round 11 Dolphins vs Warriors
+2025 Round 11 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2025 Round 11 Cronulla Sutherland Sharks vs Melbourne Storm
+2025 Round 11 Brisbane Broncos vs St George Illawarra Dragons
+2025 Round 11 Canberra Raiders vs Gold Coast Titans
+2025 Round 11 Wests Tigers vs South Sydney Rabbitohs
+2025 Round 12 Canterbury Bankstown Bulldogs vs Dolphins
+2025 Round 12 Parramatta Eels vs Manly Warringah Sea Eagles
+2025 Round 12 Penrith Panthers vs Newcastle Knights
+2025 Round 12 Sydney Roosters vs Cronulla Sutherland Sharks
+2025 Round 12 Warriors vs Canberra Raiders
+2025 Round 13 St George Illawarra Dragons vs Newcastle Knights
+2025 Round 13 Gold Coast Titans vs Melbourne Storm
+2025 Round 13 North Queensland Cowboys vs Wests Tigers
+2025 Round 13 Manly Warringah Sea Eagles vs Brisbane Broncos
+2025 Round 13 South Sydney Rabbitohs vs Warriors
+2025 Round 13 Penrith Panthers vs Parramatta Eels
+2025 Round 13 Sydney Roosters vs Canberra Raiders
+2025 Round 14 Newcastle Knights vs Manly Warringah Sea Eagles
+2025 Round 14 Melbourne Storm vs North Queensland Cowboys
+2025 Round 14 Dolphins vs St George Illawarra Dragons
+2025 Round 14 Cronulla Sutherland Sharks vs Warriors
+2025 Round 14 Brisbane Broncos vs Gold Coast Titans
+2025 Round 14 Canberra Raiders vs South Sydney Rabbitohs
+2025 Round 14 Wests Tigers vs Penrith Panthers
+2025 Round 14 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2025 Round 15 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2025 Round 15 Gold Coast Titans vs Manly Warringah Sea Eagles
+2025 Round 15 Newcastle Knights vs Sydney Roosters
+2025 Round 15 North Queensland Cowboys vs Dolphins
+2025 Round 15 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2025 Round 16 Wests Tigers vs Canberra Raiders
+2025 Round 16 Dolphins vs Newcastle Knights
+2025 Round 16 Warriors vs Penrith Panthers
+2025 Round 16 South Sydney Rabbitohs vs Melbourne Storm
+2025 Round 16 Brisbane Broncos vs Cronulla Sutherland Sharks
+2025 Round 16 Sydney Roosters vs North Queensland Cowboys
+2025 Round 16 Parramatta Eels vs Gold Coast Titans
+2025 Round 17 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2025 Round 17 Manly Warringah Sea Eagles vs Wests Tigers
+2025 Round 17 Newcastle Knights vs Canberra Raiders
+2025 Round 17 Brisbane Broncos vs Warriors
+2025 Round 17 St George Illawarra Dragons vs Parramatta Eels
+2025 Round 17 Dolphins vs South Sydney Rabbitohs
+2025 Round 17 Melbourne Storm vs Cronulla Sutherland Sharks
+2025 Round 17 Gold Coast Titans vs North Queensland Cowboys
+2025 Round 18 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2025 Round 18 Canberra Raiders vs St George Illawarra Dragons
+2025 Round 18 North Queensland Cowboys vs Melbourne Storm
+2025 Round 18 Sydney Roosters vs Wests Tigers
+2025 Round 18 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2025 Round 19 Cronulla Sutherland Sharks vs Dolphins
+2025 Round 19 Newcastle Knights vs Melbourne Storm
+2025 Round 19 St George Illawarra Dragons vs Sydney Roosters
+2025 Round 19 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2025 Round 19 Warriors vs Wests Tigers
+2025 Round 19 Parramatta Eels vs Penrith Panthers
+2025 Round 19 Gold Coast Titans vs Brisbane Broncos
+2025 Round 20 Dolphins vs North Queensland Cowboys
+2025 Round 20 Cronulla Sutherland Sharks vs Sydney Roosters
+2025 Round 20 Penrith Panthers vs South Sydney Rabbitohs
+2025 Round 20 Canberra Raiders vs Parramatta Eels
+2025 Round 20 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2025 Round 20 Melbourne Storm vs Manly Warringah Sea Eagles
+2025 Round 20 Wests Tigers vs Gold Coast Titans
+2025 Round 20 Newcastle Knights vs Warriors
+2025 Round 21 Sydney Roosters vs Melbourne Storm
+2025 Round 21 North Queensland Cowboys vs St George Illawarra Dragons
+2025 Round 21 Brisbane Broncos vs Parramatta Eels
+2025 Round 21 Warriors vs Gold Coast Titans
+2025 Round 21 Penrith Panthers vs Wests Tigers
+2025 Round 21 South Sydney Rabbitohs vs Cronulla Sutherland Sharks
+2025 Round 21 Canberra Raiders vs Newcastle Knights
+2025 Round 21 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2025 Round 22 Parramatta Eels vs Melbourne Storm
+2025 Round 22 Warriors vs Dolphins
+2025 Round 22 Brisbane Broncos vs South Sydney Rabbitohs
+2025 Round 22 Gold Coast Titans vs Penrith Panthers
+2025 Round 22 St George Illawarra Dragons vs Canberra Raiders
+2025 Round 22 Manly Warringah Sea Eagles vs Sydney Roosters
+2025 Round 22 Wests Tigers vs Canterbury Bankstown Bulldogs
+2025 Round 22 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2025 Round 23 Melbourne Storm vs Brisbane Broncos
+2025 Round 23 Newcastle Knights vs Penrith Panthers
+2025 Round 23 Canberra Raiders vs Manly Warringah Sea Eagles
+2025 Round 23 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2025 Round 23 Dolphins vs Sydney Roosters
+2025 Round 23 Canterbury Bankstown Bulldogs vs Warriors
+2025 Round 23 Gold Coast Titans vs South Sydney Rabbitohs
+2025 Round 23 Parramatta Eels vs North Queensland Cowboys
+2025 Round 24 Penrith Panthers vs Melbourne Storm
+2025 Round 24 Warriors vs St George Illawarra Dragons
+2025 Round 24 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2025 Round 24 Cronulla Sutherland Sharks vs Gold Coast Titans
+2025 Round 24 Brisbane Broncos vs Dolphins
+2025 Round 24 South Sydney Rabbitohs vs Parramatta Eels
+2025 Round 24 Wests Tigers vs Manly Warringah Sea Eagles
+2025 Round 24 North Queensland Cowboys vs Newcastle Knights
+2025 Round 25 South Sydney Rabbitohs vs St George Illawarra Dragons
+2025 Round 25 Penrith Panthers vs Canberra Raiders
+2025 Round 25 Melbourne Storm vs Canterbury Bankstown Bulldogs
+2025 Round 25 Manly Warringah Sea Eagles vs Dolphins
+2025 Round 25 Gold Coast Titans vs Warriors
+2025 Round 25 Parramatta Eels vs Sydney Roosters
+2025 Round 25 Newcastle Knights vs Brisbane Broncos
+2025 Round 25 Wests Tigers vs North Queensland Cowboys
+2025 Round 26 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2025 Round 26 Warriors vs Parramatta Eels
+2025 Round 26 Melbourne Storm vs Sydney Roosters
+2025 Round 26 Canberra Raiders vs Wests Tigers
+2025 Round 26 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2025 Round 26 North Queensland Cowboys vs Brisbane Broncos
+2025 Round 26 Cronulla Sutherland Sharks vs Newcastle Knights
+2025 Round 26 Dolphins vs Gold Coast Titans
+2025 Round 27 Brisbane Broncos vs Melbourne Storm
+2025 Round 27 Manly Warringah Sea Eagles vs Warriors
+2025 Round 27 Sydney Roosters vs South Sydney Rabbitohs
+2025 Round 27 St George Illawarra Dragons vs Penrith Panthers
+2025 Round 27 Gold Coast Titans vs Wests Tigers
+2025 Round 27 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2025 Round 27 Dolphins vs Canberra Raiders
+2025 Round 27 Parramatta Eels vs Newcastle Knights
+2025 Round Qualif Final 1st vs 4th
+2025 Round Qualif Final 2nd vs 3rd
+2025 Round Elim Final 5th vs 8th
+2025 Round Elim Final 5th vs 8th
+2025 Round Semi Final Loser of QF1 vs Winner of EF1
+2025 Round Semi Final Loser of QF1 vs Winner of EF1
+2025 Round Prelim Final Winner of QF1 vs Winner of SF2
+2025 Round Prelim Final Winner of QF1 vs Winner of SF2
+2025 Round Grand Final Winner of PF1 vs Winner of PF2
+2014 Round 1 South Sydney Rabbitohs vs Sydney Roosters
+2014 Round 1 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2014 Round 1 Penrith Panthers vs Newcastle Knights
+2014 Round 1 Manly Warringah Sea Eagles vs Melbourne Storm
+2014 Round 1 North Queensland Cowboys vs Canberra Raiders
+2014 Round 1 St George Illawarra Dragons vs Wests Tigers
+2014 Round 1 Parramatta Eels vs Warriors
+2014 Round 1 Cronulla Sutherland Sharks vs Gold Coast Titans
+2014 Round 2 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2014 Round 2 Brisbane Broncos vs North Queensland Cowboys
+2014 Round 2 Warriors vs St George Illawarra Dragons
+2014 Round 2 Melbourne Storm vs Penrith Panthers
+2014 Round 2 Sydney Roosters vs Parramatta Eels
+2014 Round 2 Gold Coast Titans vs Wests Tigers
+2014 Round 2 Newcastle Knights vs Canberra Raiders
+2014 Round 2 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2014 Round 3 Wests Tigers vs South Sydney Rabbitohs
+2014 Round 3 Brisbane Broncos vs Sydney Roosters
+2014 Round 3 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2014 Round 3 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2014 Round 3 North Queensland Cowboys vs Warriors
+2014 Round 3 Manly Warringah Sea Eagles vs Parramatta Eels
+2014 Round 3 Canberra Raiders vs Gold Coast Titans
+2014 Round 3 Melbourne Storm vs Newcastle Knights
+2014 Round 4 Sydney Roosters vs Manly Warringah Sea Eagles
+2014 Round 4 St George Illawarra Dragons vs Brisbane Broncos
+2014 Round 4 Canterbury Bankstown Bulldogs vs Melbourne Storm
+2014 Round 4 Warriors vs Wests Tigers
+2014 Round 4 Parramatta Eels vs Penrith Panthers
+2014 Round 4 South Sydney Rabbitohs vs Canberra Raiders
+2014 Round 4 Newcastle Knights vs Cronulla Sutherland Sharks
+2014 Round 4 Gold Coast Titans vs North Queensland Cowboys
+2014 Round 5 Brisbane Broncos vs Parramatta Eels
+2014 Round 5 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2014 Round 5 Cronulla Sutherland Sharks vs Warriors
+2014 Round 5 Penrith Panthers vs Canberra Raiders
+2014 Round 5 St George Illawarra Dragons vs South Sydney Rabbitohs
+2014 Round 5 Melbourne Storm vs Gold Coast Titans
+2014 Round 5 Wests Tigers vs Manly Warringah Sea Eagles
+2014 Round 5 North Queensland Cowboys vs Newcastle Knights
+2014 Round 6 Penrith Panthers vs South Sydney Rabbitohs
+2014 Round 6 Gold Coast Titans vs Brisbane Broncos
+2014 Round 6 Canberra Raiders vs Newcastle Knights
+2014 Round 6 Parramatta Eels vs Sydney Roosters
+2014 Round 6 Wests Tigers vs North Queensland Cowboys
+2014 Round 6 Warriors vs Canterbury Bankstown Bulldogs
+2014 Round 6 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2014 Round 6 Melbourne Storm vs St George Illawarra Dragons
+2014 Round 7 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2014 Round 7 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2014 Round 7 Newcastle Knights vs Brisbane Broncos
+2014 Round 7 St George Illawarra Dragons vs Warriors
+2014 Round 7 Cronulla Sutherland Sharks vs Sydney Roosters
+2014 Round 7 Canberra Raiders vs Melbourne Storm
+2014 Round 7 Parramatta Eels vs Wests Tigers
+2014 Round 7 Penrith Panthers vs Gold Coast Titans
+2014 Round 8 St George Illawarra Dragons vs Sydney Roosters
+2014 Round 8 Melbourne Storm vs Warriors
+2014 Round 8 Brisbane Broncos vs South Sydney Rabbitohs
+2014 Round 8 Cronulla Sutherland Sharks vs Penrith Panthers
+2014 Round 8 North Queensland Cowboys vs Parramatta Eels
+2014 Round 8 Canterbury Bankstown Bulldogs vs Newcastle Knights
+2014 Round 8 Manly Warringah Sea Eagles vs Canberra Raiders
+2014 Round 8 Wests Tigers vs Gold Coast Titans
+2014 Round 9 North Queensland Cowboys vs Brisbane Broncos
+2014 Round 9 Sydney Roosters vs Wests Tigers
+2014 Round 9 Warriors vs Canberra Raiders
+2014 Round 9 Gold Coast Titans vs South Sydney Rabbitohs
+2014 Round 9 Melbourne Storm vs Manly Warringah Sea Eagles
+2014 Round 9 Newcastle Knights vs Penrith Panthers
+2014 Round 9 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2014 Round 9 Parramatta Eels vs Cronulla Sutherland Sharks
+2014 Round 10 South Sydney Rabbitohs vs Melbourne Storm
+2014 Round 10 Brisbane Broncos vs Gold Coast Titans
+2014 Round 10 Parramatta Eels vs St George Illawarra Dragons
+2014 Round 10 Cronulla Sutherland Sharks vs Wests Tigers
+2014 Round 10 North Queensland Cowboys vs Sydney Roosters
+2014 Round 10 Canberra Raiders vs Penrith Panthers
+2014 Round 10 Canterbury Bankstown Bulldogs vs Warriors
+2014 Round 10 Manly Warringah Sea Eagles vs Newcastle Knights
+2014 Round 11 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2014 Round 11 Gold Coast Titans vs Warriors
+2014 Round 11 Wests Tigers vs Brisbane Broncos
+2014 Round 11 Canberra Raiders vs North Queensland Cowboys
+2014 Round 11 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2014 Round 12 Penrith Panthers vs Parramatta Eels
+2014 Round 12 Sydney Roosters vs Canberra Raiders
+2014 Round 12 North Queensland Cowboys vs Melbourne Storm
+2014 Round 12 Brisbane Broncos vs Manly Warringah Sea Eagles
+2014 Round 12 Warriors vs Newcastle Knights
+2014 Round 12 South Sydney Rabbitohs vs St George Illawarra Dragons
+2014 Round 13 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2014 Round 13 Parramatta Eels vs North Queensland Cowboys
+2014 Round 13 Gold Coast Titans vs Penrith Panthers
+2014 Round 13 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2014 Round 13 South Sydney Rabbitohs vs Warriors
+2014 Round 13 Newcastle Knights vs Wests Tigers
+2014 Round 13 Melbourne Storm vs Sydney Roosters
+2014 Round 13 Canberra Raiders vs Brisbane Broncos
+2014 Round 14 South Sydney Rabbitohs vs Wests Tigers
+2014 Round 14 Penrith Panthers vs St George Illawarra Dragons
+2014 Round 14 Sydney Roosters vs Newcastle Knights
+2014 Round 14 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2014 Round 14 Gold Coast Titans vs Melbourne Storm
+2014 Round 15 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2014 Round 15 Warriors vs Brisbane Broncos
+2014 Round 15 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2014 Round 15 Melbourne Storm vs Parramatta Eels
+2014 Round 15 Gold Coast Titans vs St George Illawarra Dragons
+2014 Round 15 Newcastle Knights vs North Queensland Cowboys
+2014 Round 16 Brisbane Broncos vs Cronulla Sutherland Sharks
+2014 Round 16 Manly Warringah Sea Eagles vs Sydney Roosters
+2014 Round 16 Wests Tigers vs Canberra Raiders
+2014 Round 16 North Queensland Cowboys vs South Sydney Rabbitohs
+2014 Round 16 Parramatta Eels vs Newcastle Knights
+2014 Round 16 Warriors vs Penrith Panthers
+2014 Round 16 St George Illawarra Dragons vs Melbourne Storm
+2014 Round 17 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2014 Round 17 St George Illawarra Dragons vs North Queensland Cowboys
+2014 Round 17 Sydney Roosters vs Cronulla Sutherland Sharks
+2014 Round 17 Wests Tigers vs Penrith Panthers
+2014 Round 17 South Sydney Rabbitohs vs Gold Coast Titans
+2014 Round 18 Manly Warringah Sea Eagles vs Wests Tigers
+2014 Round 18 Warriors vs Parramatta Eels
+2014 Round 18 Melbourne Storm vs Canterbury Bankstown Bulldogs
+2014 Round 18 Gold Coast Titans vs Canberra Raiders
+2014 Round 18 Cronulla Sutherland Sharks vs Newcastle Knights
+2014 Round 18 Penrith Panthers vs Brisbane Broncos
+2014 Round 19 Parramatta Eels vs South Sydney Rabbitohs
+2014 Round 19 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2014 Round 19 Sydney Roosters vs Penrith Panthers
+2014 Round 19 Melbourne Storm vs Canberra Raiders
+2014 Round 19 Brisbane Broncos vs Warriors
+2014 Round 19 Newcastle Knights vs Gold Coast Titans
+2014 Round 19 Wests Tigers vs Canterbury Bankstown Bulldogs
+2014 Round 19 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2014 Round 20 Newcastle Knights vs Sydney Roosters
+2014 Round 20 Brisbane Broncos vs Melbourne Storm
+2014 Round 20 Penrith Panthers vs Cronulla Sutherland Sharks
+2014 Round 20 Gold Coast Titans vs Parramatta Eels
+2014 Round 20 Canterbury Bankstown Bulldogs vs North Queensland Cowboys
+2014 Round 20 Wests Tigers vs St George Illawarra Dragons
+2014 Round 20 Warriors vs Manly Warringah Sea Eagles
+2014 Round 20 Canberra Raiders vs South Sydney Rabbitohs
+2014 Round 21 Manly Warringah Sea Eagles vs Brisbane Broncos
+2014 Round 21 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2014 Round 21 Cronulla Sutherland Sharks vs Parramatta Eels
+2014 Round 21 North Queensland Cowboys vs Gold Coast Titans
+2014 Round 21 Sydney Roosters vs St George Illawarra Dragons
+2014 Round 21 Canberra Raiders vs Warriors
+2014 Round 21 South Sydney Rabbitohs vs Newcastle Knights
+2014 Round 21 Wests Tigers vs Melbourne Storm
+2014 Round 22 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2014 Round 22 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2014 Round 22 Newcastle Knights vs Melbourne Storm
+2014 Round 22 North Queensland Cowboys vs Wests Tigers
+2014 Round 22 Parramatta Eels vs Canberra Raiders
+2014 Round 22 St George Illawarra Dragons vs Penrith Panthers
+2014 Round 22 Warriors vs Cronulla Sutherland Sharks
+2014 Round 22 Sydney Roosters vs Gold Coast Titans
+2014 Round 23 South Sydney Rabbitohs vs Brisbane Broncos
+2014 Round 23 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2014 Round 23 Canberra Raiders vs St George Illawarra Dragons
+2014 Round 23 Melbourne Storm vs Cronulla Sutherland Sharks
+2014 Round 23 Wests Tigers vs Sydney Roosters
+2014 Round 23 Newcastle Knights vs Warriors
+2014 Round 23 Gold Coast Titans vs Manly Warringah Sea Eagles
+2014 Round 23 Penrith Panthers vs North Queensland Cowboys
+2014 Round 24 Canterbury Bankstown Bulldogs vs Wests Tigers
+2014 Round 24 Parramatta Eels vs Manly Warringah Sea Eagles
+2014 Round 24 Brisbane Broncos vs Newcastle Knights
+2014 Round 24 South Sydney Rabbitohs vs North Queensland Cowboys
+2014 Round 24 Warriors vs Sydney Roosters
+2014 Round 24 Cronulla Sutherland Sharks vs Canberra Raiders
+2014 Round 24 St George Illawarra Dragons vs Gold Coast Titans
+2014 Round 24 Penrith Panthers vs Melbourne Storm
+2014 Round 25 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2014 Round 25 Brisbane Broncos vs St George Illawarra Dragons
+2014 Round 25 Newcastle Knights vs Parramatta Eels
+2014 Round 25 Canberra Raiders vs Wests Tigers
+2014 Round 25 Sydney Roosters vs Melbourne Storm
+2014 Round 25 Manly Warringah Sea Eagles vs Penrith Panthers
+2014 Round 25 Warriors vs Gold Coast Titans
+2014 Round 25 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2014 Round 26 Sydney Roosters vs South Sydney Rabbitohs
+2014 Round 26 Melbourne Storm vs Brisbane Broncos
+2014 Round 26 Wests Tigers vs Cronulla Sutherland Sharks
+2014 Round 26 Canberra Raiders vs Parramatta Eels
+2014 Round 26 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2014 Round 26 Newcastle Knights vs St George Illawarra Dragons
+2014 Round 26 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2014 Round 26 Penrith Panthers vs Warriors
+2014 Round Qualif Final Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2014 Round Qualif Final Sydney Roosters vs Penrith Panthers
+2014 Round Qualif Final North Queensland Cowboys vs Brisbane Broncos
+2014 Round Qualif Final Melbourne Storm vs Canterbury Bankstown Bulldogs
+2014 Round Semi Final Sydney Roosters vs North Queensland Cowboys
+2014 Round Semi Final Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2014 Round Prelim Final South Sydney Rabbitohs vs Sydney Roosters
+2014 Round Prelim Final Penrith Panthers vs Canterbury Bankstown Bulldogs
+2014 Round Grand Final South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2015 Round 1 Brisbane Broncos vs South Sydney Rabbitohs
+2015 Round 1 Parramatta Eels vs Manly Warringah Sea Eagles
+2015 Round 1 Newcastle Knights vs Warriors
+2015 Round 1 Gold Coast Titans vs Wests Tigers
+2015 Round 1 North Queensland Cowboys vs Sydney Roosters
+2015 Round 1 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2015 Round 1 Cronulla Sutherland Sharks vs Canberra Raiders
+2015 Round 1 St George Illawarra Dragons vs Melbourne Storm
+2015 Round 2 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2015 Round 2 Cronulla Sutherland Sharks vs Brisbane Broncos
+2015 Round 2 Penrith Panthers vs Gold Coast Titans
+2015 Round 2 Manly Warringah Sea Eagles vs Melbourne Storm
+2015 Round 2 North Queensland Cowboys vs Newcastle Knights
+2015 Round 2 South Sydney Rabbitohs vs Sydney Roosters
+2015 Round 2 Canberra Raiders vs Warriors
+2015 Round 2 Wests Tigers vs St George Illawarra Dragons
+2015 Round 3 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2015 Round 3 Brisbane Broncos vs North Queensland Cowboys
+2015 Round 3 Warriors vs Parramatta Eels
+2015 Round 3 Canberra Raiders vs St George Illawarra Dragons
+2015 Round 3 Melbourne Storm vs Cronulla Sutherland Sharks
+2015 Round 3 South Sydney Rabbitohs vs Wests Tigers
+2015 Round 3 Gold Coast Titans vs Newcastle Knights
+2015 Round 3 Sydney Roosters vs Penrith Panthers
+2015 Round 4 Wests Tigers vs Canterbury Bankstown Bulldogs
+2015 Round 4 Parramatta Eels vs South Sydney Rabbitohs
+2015 Round 4 Newcastle Knights vs Penrith Panthers
+2015 Round 4 Cronulla Sutherland Sharks vs Gold Coast Titans
+2015 Round 4 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2015 Round 4 Warriors vs Brisbane Broncos
+2015 Round 4 Sydney Roosters vs Canberra Raiders
+2015 Round 4 North Queensland Cowboys vs Melbourne Storm
+2015 Round 5 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2015 Round 5 Gold Coast Titans vs Brisbane Broncos
+2015 Round 5 Manly Warringah Sea Eagles vs Canberra Raiders
+2015 Round 5 Newcastle Knights vs St George Illawarra Dragons
+2015 Round 5 Sydney Roosters vs Cronulla Sutherland Sharks
+2015 Round 5 Parramatta Eels vs Wests Tigers
+2015 Round 5 Melbourne Storm vs Warriors
+2015 Round 5 Penrith Panthers vs North Queensland Cowboys
+2015 Round 6 Cronulla Sutherland Sharks vs Newcastle Knights
+2015 Round 6 Brisbane Broncos vs Sydney Roosters
+2015 Round 6 Parramatta Eels vs Gold Coast Titans
+2015 Round 6 Warriors vs Wests Tigers
+2015 Round 6 Penrith Panthers vs Manly Warringah Sea Eagles
+2015 Round 6 Canberra Raiders vs Melbourne Storm
+2015 Round 6 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2015 Round 6 South Sydney Rabbitohs vs North Queensland Cowboys
+2015 Round 7 St George Illawarra Dragons vs Brisbane Broncos
+2015 Round 7 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2015 Round 7 Gold Coast Titans vs Penrith Panthers
+2015 Round 7 North Queensland Cowboys vs Warriors
+2015 Round 7 Melbourne Storm vs Sydney Roosters
+2015 Round 7 Wests Tigers vs Canberra Raiders
+2015 Round 7 Newcastle Knights vs Parramatta Eels
+2015 Round 7 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2015 Round 8 Canterbury Bankstown Bulldogs vs Wests Tigers
+2015 Round 8 Warriors vs Gold Coast Titans
+2015 Round 8 Newcastle Knights vs North Queensland Cowboys
+2015 Round 8 Sydney Roosters vs St George Illawarra Dragons
+2015 Round 8 Melbourne Storm vs Manly Warringah Sea Eagles
+2015 Round 8 Brisbane Broncos vs Parramatta Eels
+2015 Round 8 Penrith Panthers vs Cronulla Sutherland Sharks
+2015 Round 8 South Sydney Rabbitohs vs Canberra Raiders
+2015 Round 9 Brisbane Broncos vs Penrith Panthers
+2015 Round 9 Sydney Roosters vs Wests Tigers
+2015 Round 9 Canberra Raiders vs Gold Coast Titans
+2015 Round 9 Cronulla Sutherland Sharks vs Warriors
+2015 Round 9 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2015 Round 9 Manly Warringah Sea Eagles vs Newcastle Knights
+2015 Round 9 Parramatta Eels vs Melbourne Storm
+2015 Round 9 South Sydney Rabbitohs vs St George Illawarra Dragons
+2015 Round 10 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2015 Round 10 North Queensland Cowboys vs Brisbane Broncos
+2015 Round 10 Parramatta Eels vs Warriors
+2015 Round 10 Gold Coast Titans vs Cronulla Sutherland Sharks
+2015 Round 10 Melbourne Storm vs South Sydney Rabbitohs
+2015 Round 10 St George Illawarra Dragons vs Canberra Raiders
+2015 Round 10 Newcastle Knights vs Wests Tigers
+2015 Round 10 Manly Warringah Sea Eagles vs Penrith Panthers
+2015 Round 11 South Sydney Rabbitohs vs Parramatta Eels
+2015 Round 11 Wests Tigers vs North Queensland Cowboys
+2015 Round 11 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2015 Round 11 Newcastle Knights vs Brisbane Broncos
+2015 Round 12 Penrith Panthers vs Parramatta Eels
+2015 Round 12 Gold Coast Titans vs South Sydney Rabbitohs
+2015 Round 12 Canberra Raiders vs Brisbane Broncos
+2015 Round 12 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2015 Round 12 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2015 Round 12 Warriors vs Newcastle Knights
+2015 Round 12 Sydney Roosters vs Melbourne Storm
+2015 Round 13 Brisbane Broncos vs Manly Warringah Sea Eagles
+2015 Round 13 Wests Tigers vs Gold Coast Titans
+2015 Round 13 Newcastle Knights vs Canberra Raiders
+2015 Round 13 South Sydney Rabbitohs vs Warriors
+2015 Round 13 Penrith Panthers vs Melbourne Storm
+2015 Round 13 Cronulla Sutherland Sharks vs Sydney Roosters
+2015 Round 13 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2015 Round 13 Parramatta Eels vs North Queensland Cowboys
+2015 Round 14 Wests Tigers vs South Sydney Rabbitohs
+2015 Round 14 Warriors vs Sydney Roosters
+2015 Round 14 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2015 Round 14 Melbourne Storm vs Parramatta Eels
+2015 Round 15 Manly Warringah Sea Eagles vs Wests Tigers
+2015 Round 15 Canberra Raiders vs North Queensland Cowboys
+2015 Round 15 Gold Coast Titans vs Warriors
+2015 Round 15 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2015 Round 15 Newcastle Knights vs Cronulla Sutherland Sharks
+2015 Round 15 Melbourne Storm vs Brisbane Broncos
+2015 Round 15 St George Illawarra Dragons vs Sydney Roosters
+2015 Round 16 Brisbane Broncos vs Newcastle Knights
+2015 Round 16 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2015 Round 16 Warriors vs Canberra Raiders
+2015 Round 16 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2015 Round 16 Parramatta Eels vs St George Illawarra Dragons
+2015 Round 16 Sydney Roosters vs Gold Coast Titans
+2015 Round 16 Wests Tigers vs Penrith Panthers
+2015 Round 16 Canterbury Bankstown Bulldogs vs Melbourne Storm
+2015 Round 17 Penrith Panthers vs South Sydney Rabbitohs
+2015 Round 17 St George Illawarra Dragons vs North Queensland Cowboys
+2015 Round 17 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2015 Round 17 Wests Tigers vs Parramatta Eels
+2015 Round 18 Canberra Raiders vs Newcastle Knights
+2015 Round 18 Penrith Panthers vs Sydney Roosters
+2015 Round 18 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2015 Round 18 Warriors vs Melbourne Storm
+2015 Round 18 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2015 Round 18 Gold Coast Titans vs Manly Warringah Sea Eagles
+2015 Round 19 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2015 Round 19 Melbourne Storm vs Penrith Panthers
+2015 Round 19 Canberra Raiders vs Cronulla Sutherland Sharks
+2015 Round 19 Newcastle Knights vs Gold Coast Titans
+2015 Round 19 St George Illawarra Dragons vs South Sydney Rabbitohs
+2015 Round 19 Sydney Roosters vs Warriors
+2015 Round 19 Brisbane Broncos vs Wests Tigers
+2015 Round 19 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2015 Round 20 Wests Tigers vs Sydney Roosters
+2015 Round 20 Brisbane Broncos vs Gold Coast Titans
+2015 Round 20 Warriors vs Manly Warringah Sea Eagles
+2015 Round 20 South Sydney Rabbitohs vs Newcastle Knights
+2015 Round 20 Melbourne Storm vs St George Illawarra Dragons
+2015 Round 20 Penrith Panthers vs Canberra Raiders
+2015 Round 20 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2015 Round 20 North Queensland Cowboys vs Parramatta Eels
+2015 Round 21 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2015 Round 21 Wests Tigers vs Melbourne Storm
+2015 Round 21 Warriors vs Cronulla Sutherland Sharks
+2015 Round 21 North Queensland Cowboys vs Canberra Raiders
+2015 Round 21 Manly Warringah Sea Eagles vs Brisbane Broncos
+2015 Round 21 St George Illawarra Dragons vs Newcastle Knights
+2015 Round 21 South Sydney Rabbitohs vs Penrith Panthers
+2015 Round 21 Gold Coast Titans vs Parramatta Eels
+2015 Round 22 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2015 Round 22 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2015 Round 22 Warriors vs St George Illawarra Dragons
+2015 Round 22 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2015 Round 22 Parramatta Eels vs Penrith Panthers
+2015 Round 22 Melbourne Storm vs Gold Coast Titans
+2015 Round 22 Newcastle Knights vs Sydney Roosters
+2015 Round 22 Canberra Raiders vs Wests Tigers
+2015 Round 23 North Queensland Cowboys vs South Sydney Rabbitohs
+2015 Round 23 Brisbane Broncos vs St George Illawarra Dragons
+2015 Round 23 Wests Tigers vs Newcastle Knights
+2015 Round 23 Penrith Panthers vs Warriors
+2015 Round 23 Sydney Roosters vs Parramatta Eels
+2015 Round 23 Canberra Raiders vs Manly Warringah Sea Eagles
+2015 Round 23 Canterbury Bankstown Bulldogs vs Gold Coast Titans
+2015 Round 23 Cronulla Sutherland Sharks vs Melbourne Storm
+2015 Round 24 St George Illawarra Dragons vs Penrith Panthers
+2015 Round 24 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2015 Round 24 Cronulla Sutherland Sharks vs Wests Tigers
+2015 Round 24 Warriors vs North Queensland Cowboys
+2015 Round 24 Sydney Roosters vs Brisbane Broncos
+2015 Round 24 Gold Coast Titans vs Canberra Raiders
+2015 Round 24 Manly Warringah Sea Eagles vs Parramatta Eels
+2015 Round 24 Melbourne Storm vs Newcastle Knights
+2015 Round 25 South Sydney Rabbitohs vs Brisbane Broncos
+2015 Round 25 Manly Warringah Sea Eagles vs Sydney Roosters
+2015 Round 25 Parramatta Eels vs Cronulla Sutherland Sharks
+2015 Round 25 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2015 Round 25 Melbourne Storm vs North Queensland Cowboys
+2015 Round 25 Wests Tigers vs Warriors
+2015 Round 25 Gold Coast Titans vs St George Illawarra Dragons
+2015 Round 25 Canberra Raiders vs Penrith Panthers
+2015 Round 26 Brisbane Broncos vs Melbourne Storm
+2015 Round 26 Sydney Roosters vs South Sydney Rabbitohs
+2015 Round 26 Penrith Panthers vs Newcastle Knights
+2015 Round 26 St George Illawarra Dragons vs Wests Tigers
+2015 Round 26 North Queensland Cowboys vs Gold Coast Titans
+2015 Round 26 Parramatta Eels vs Canberra Raiders
+2015 Round 26 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2015 Round 26 Canterbury Bankstown Bulldogs vs Warriors
+2015 Round Qualif Final Sydney Roosters vs Melbourne Storm
+2015 Round Qualif Final Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2015 Round Qualif Final Brisbane Broncos vs North Queensland Cowboys
+2015 Round Qualif Final Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2015 Round Semi Final Sydney Roosters vs Canterbury Bankstown Bulldogs
+2015 Round Semi Final North Queensland Cowboys vs Cronulla Sutherland Sharks
+2015 Round Prelim Final Brisbane Broncos vs Sydney Roosters
+2015 Round Prelim Final Melbourne Storm vs North Queensland Cowboys
+2015 Round Grand Final Brisbane Broncos vs North Queensland Cowboys
+2016 Round 1 Parramatta Eels vs Brisbane Broncos
+2016 Round 1 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2016 Round 1 Canberra Raiders vs Penrith Panthers
+2016 Round 1 Wests Tigers vs Warriors
+2016 Round 1 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2016 Round 1 Sydney Roosters vs South Sydney Rabbitohs
+2016 Round 1 Gold Coast Titans vs Newcastle Knights
+2016 Round 1 Melbourne Storm vs St George Illawarra Dragons
+2016 Round 2 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2016 Round 2 Brisbane Broncos vs Warriors
+2016 Round 2 Canberra Raiders vs Sydney Roosters
+2016 Round 2 South Sydney Rabbitohs vs Newcastle Knights
+2016 Round 2 Parramatta Eels vs North Queensland Cowboys
+2016 Round 2 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2016 Round 2 Melbourne Storm vs Gold Coast Titans
+2016 Round 2 Wests Tigers vs Manly Warringah Sea Eagles
+2016 Round 3 North Queensland Cowboys vs Sydney Roosters
+2016 Round 3 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2016 Round 3 Newcastle Knights vs drew with Canberra Raiders
+2016 Round 3 Penrith Panthers vs Brisbane Broncos
+2016 Round 3 Gold Coast Titans vs Wests Tigers
+2016 Round 3 Warriors vs Melbourne Storm
+2016 Round 3 St George Illawarra Dragons vs South Sydney Rabbitohs
+2016 Round 3 Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2016 Round 4 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2016 Round 4 Brisbane Broncos vs North Queensland Cowboys
+2016 Round 4 Canberra Raiders vs Gold Coast Titans
+2016 Round 4 Sydney Roosters vs Manly Warringah Sea Eagles
+2016 Round 4 St George Illawarra Dragons vs Penrith Panthers
+2016 Round 4 Wests Tigers vs Parramatta Eels
+2016 Round 4 Warriors vs Newcastle Knights
+2016 Round 4 Cronulla Sutherland Sharks vs Melbourne Storm
+2016 Round 5 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2016 Round 5 Gold Coast Titans vs Brisbane Broncos
+2016 Round 5 Melbourne Storm vs Newcastle Knights
+2016 Round 5 Wests Tigers vs Cronulla Sutherland Sharks
+2016 Round 5 North Queensland Cowboys vs St George Illawarra Dragons
+2016 Round 5 Sydney Roosters vs Warriors
+2016 Round 5 Parramatta Eels vs Penrith Panthers
+2016 Round 5 Canterbury Bankstown Bulldogs vs Canberra Raiders
+2016 Round 6 Brisbane Broncos vs St George Illawarra Dragons
+2016 Round 6 South Sydney Rabbitohs vs Sydney Roosters
+2016 Round 6 Parramatta Eels vs Canberra Raiders
+2016 Round 6 Warriors vs Manly Warringah Sea Eagles
+2016 Round 6 Penrith Panthers vs North Queensland Cowboys
+2016 Round 6 Cronulla Sutherland Sharks vs Gold Coast Titans
+2016 Round 6 Newcastle Knights vs Wests Tigers
+2016 Round 6 Melbourne Storm vs Canterbury Bankstown Bulldogs
+2016 Round 7 Manly Warringah Sea Eagles vs Parramatta Eels
+2016 Round 7 North Queensland Cowboys vs South Sydney Rabbitohs
+2016 Round 7 Gold Coast Titans vs St George Illawarra Dragons
+2016 Round 7 Brisbane Broncos vs Newcastle Knights
+2016 Round 7 Canterbury Bankstown Bulldogs vs Warriors
+2016 Round 7 Canberra Raiders vs Cronulla Sutherland Sharks
+2016 Round 7 Wests Tigers vs Melbourne Storm
+2016 Round 7 Sydney Roosters vs Penrith Panthers
+2016 Round 8 Brisbane Broncos vs South Sydney Rabbitohs
+2016 Round 8 Canterbury Bankstown Bulldogs vs Gold Coast Titans
+2016 Round 8 Canberra Raiders vs Wests Tigers
+2016 Round 8 North Queensland Cowboys vs Parramatta Eels
+2016 Round 8 Cronulla Sutherland Sharks vs Penrith Panthers
+2016 Round 8 Newcastle Knights vs Manly Warringah Sea Eagles
+2016 Round 8 St George Illawarra Dragons vs Sydney Roosters
+2016 Round 8 Melbourne Storm vs Warriors
+2016 Round 9 South Sydney Rabbitohs vs Wests Tigers
+2016 Round 9 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2016 Round 9 Penrith Panthers vs Canberra Raiders
+2016 Round 9 Sydney Roosters vs Newcastle Knights
+2016 Round 9 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2016 Round 9 Gold Coast Titans vs Melbourne Storm
+2016 Round 9 Warriors vs St George Illawarra Dragons
+2016 Round 9 Cronulla Sutherland Sharks vs Brisbane Broncos
+2016 Round 10 St George Illawarra Dragons vs Canberra Raiders
+2016 Round 10 Parramatta Eels vs South Sydney Rabbitohs
+2016 Round 10 Penrith Panthers vs Warriors
+2016 Round 10 Melbourne Storm vs North Queensland Cowboys
+2016 Round 10 Manly Warringah Sea Eagles vs Brisbane Broncos
+2016 Round 10 Newcastle Knights vs Cronulla Sutherland Sharks
+2016 Round 10 Wests Tigers vs Canterbury Bankstown Bulldogs
+2016 Round 10 Gold Coast Titans vs Sydney Roosters
+2016 Round 11 South Sydney Rabbitohs vs St George Illawarra Dragons
+2016 Round 11 North Queensland Cowboys vs Brisbane Broncos
+2016 Round 11 Wests Tigers vs Newcastle Knights
+2016 Round 11 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2016 Round 11 Warriors vs Canberra Raiders
+2016 Round 11 Penrith Panthers vs Gold Coast Titans
+2016 Round 11 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2016 Round 11 Parramatta Eels vs Melbourne Storm
+2016 Round 12 Brisbane Broncos vs Wests Tigers
+2016 Round 12 St George Illawarra Dragons vs North Queensland Cowboys
+2016 Round 12 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2016 Round 12 Newcastle Knights vs Parramatta Eels
+2016 Round 13 Canberra Raiders vs Manly Warringah Sea Eagles
+2016 Round 13 Warriors vs Brisbane Broncos
+2016 Round 13 North Queensland Cowboys vs Newcastle Knights
+2016 Round 13 Melbourne Storm vs Penrith Panthers
+2016 Round 13 Sydney Roosters vs Wests Tigers
+2016 Round 13 South Sydney Rabbitohs vs Gold Coast Titans
+2016 Round 13 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2016 Round 14 Brisbane Broncos vs Canberra Raiders
+2016 Round 14 Wests Tigers vs South Sydney Rabbitohs
+2016 Round 14 Newcastle Knights vs Warriors
+2016 Round 14 Parramatta Eels vs Gold Coast Titans
+2016 Round 14 Sydney Roosters vs Melbourne Storm
+2016 Round 14 Manly Warringah Sea Eagles vs Penrith Panthers
+2016 Round 14 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2016 Round 14 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2016 Round 15 South Sydney Rabbitohs vs Parramatta Eels
+2016 Round 15 St George Illawarra Dragons vs Melbourne Storm
+2016 Round 15 Warriors vs Sydney Roosters
+2016 Round 15 Gold Coast Titans vs Manly Warringah Sea Eagles
+2016 Round 16 Penrith Panthers vs South Sydney Rabbitohs
+2016 Round 16 Newcastle Knights vs St George Illawarra Dragons
+2016 Round 16 Cronulla Sutherland Sharks vs Warriors
+2016 Round 16 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2016 Round 16 Gold Coast Titans vs Canberra Raiders
+2016 Round 16 Melbourne Storm vs Wests Tigers
+2016 Round 16 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2016 Round 17 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2016 Round 17 Brisbane Broncos vs Melbourne Storm
+2016 Round 17 Warriors vs Gold Coast Titans
+2016 Round 17 Wests Tigers vs Penrith Panthers
+2016 Round 17 Cronulla Sutherland Sharks vs Parramatta Eels
+2016 Round 17 Canberra Raiders vs Newcastle Knights
+2016 Round 17 South Sydney Rabbitohs vs North Queensland Cowboys
+2016 Round 17 Manly Warringah Sea Eagles vs St George Illawarra Dragons
+2016 Round 18 Parramatta Eels vs Sydney Roosters
+2016 Round 18 Canterbury Bankstown Bulldogs vs Wests Tigers
+2016 Round 18 Penrith Panthers vs Cronulla Sutherland Sharks
+2016 Round 18 Canberra Raiders vs North Queensland Cowboys
+2016 Round 19 St George Illawarra Dragons vs Gold Coast Titans
+2016 Round 19 Manly Warringah Sea Eagles vs Warriors
+2016 Round 19 South Sydney Rabbitohs vs Brisbane Broncos
+2016 Round 19 Newcastle Knights vs Melbourne Storm
+2016 Round 19 Penrith Panthers vs Parramatta Eels
+2016 Round 19 Sydney Roosters vs Cronulla Sutherland Sharks
+2016 Round 20 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2016 Round 20 Brisbane Broncos vs Penrith Panthers
+2016 Round 20 Canberra Raiders vs Warriors
+2016 Round 20 Gold Coast Titans vs Parramatta Eels
+2016 Round 20 Melbourne Storm vs Sydney Roosters
+2016 Round 20 Cronulla Sutherland Sharks vs Newcastle Knights
+2016 Round 20 St George Illawarra Dragons vs Wests Tigers
+2016 Round 20 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2016 Round 21 Sydney Roosters vs Brisbane Broncos
+2016 Round 21 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2016 Round 21 Warriors vs Penrith Panthers
+2016 Round 21 Parramatta Eels vs Wests Tigers
+2016 Round 21 North Queensland Cowboys vs Melbourne Storm
+2016 Round 21 South Sydney Rabbitohs vs Canberra Raiders
+2016 Round 21 Manly Warringah Sea Eagles vs Newcastle Knights
+2016 Round 21 Gold Coast Titans vs drew with Cronulla Sutherland Sharks
+2016 Round 22 St George Illawarra Dragons vs Brisbane Broncos
+2016 Round 22 Parramatta Eels vs Manly Warringah Sea Eagles
+2016 Round 22 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2016 Round 22 Cronulla Sutherland Sharks vs Canberra Raiders
+2016 Round 22 Melbourne Storm vs South Sydney Rabbitohs
+2016 Round 22 Gold Coast Titans vs Warriors
+2016 Round 22 Wests Tigers vs North Queensland Cowboys
+2016 Round 22 Penrith Panthers vs Sydney Roosters
+2016 Round 23 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2016 Round 23 Brisbane Broncos vs Parramatta Eels
+2016 Round 23 Wests Tigers vs Gold Coast Titans
+2016 Round 23 Warriors vs South Sydney Rabbitohs
+2016 Round 23 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2016 Round 23 Newcastle Knights vs Penrith Panthers
+2016 Round 23 Sydney Roosters vs North Queensland Cowboys
+2016 Round 23 Canberra Raiders vs Melbourne Storm
+2016 Round 24 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2016 Round 24 Penrith Panthers vs Wests Tigers
+2016 Round 24 Newcastle Knights vs Gold Coast Titans
+2016 Round 24 Manly Warringah Sea Eagles vs Melbourne Storm
+2016 Round 24 North Queensland Cowboys vs Warriors
+2016 Round 24 Canberra Raiders vs Parramatta Eels
+2016 Round 24 Sydney Roosters vs St George Illawarra Dragons
+2016 Round 24 South Sydney Rabbitohs vs Cronulla Sutherland Sharks
+2016 Round 25 Canterbury Bankstown Bulldogs vs North Queensland Cowboys
+2016 Round 25 Melbourne Storm vs Brisbane Broncos
+2016 Round 25 Manly Warringah Sea Eagles vs Canberra Raiders
+2016 Round 25 Gold Coast Titans vs Penrith Panthers
+2016 Round 25 Cronulla Sutherland Sharks vs Sydney Roosters
+2016 Round 25 Warriors vs Wests Tigers
+2016 Round 25 Newcastle Knights vs South Sydney Rabbitohs
+2016 Round 25 Parramatta Eels vs St George Illawarra Dragons
+2016 Round 26 Brisbane Broncos vs Sydney Roosters
+2016 Round 26 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2016 Round 26 St George Illawarra Dragons vs Newcastle Knights
+2016 Round 26 North Queensland Cowboys vs Gold Coast Titans
+2016 Round 26 Melbourne Storm vs Cronulla Sutherland Sharks
+2016 Round 26 Wests Tigers vs Canberra Raiders
+2016 Round 26 Warriors vs Parramatta Eels
+2016 Round 26 Penrith Panthers vs Manly Warringah Sea Eagles
+2016 Round Qualif Final Brisbane Broncos vs Gold Coast Titans
+2016 Round Qualif Final Canberra Raiders vs Cronulla Sutherland Sharks
+2016 Round Qualif Final Melbourne Storm vs North Queensland Cowboys
+2016 Round Qualif Final Penrith Panthers vs Canterbury Bankstown Bulldogs
+2016 Round Semi Final North Queensland Cowboys vs Brisbane Broncos
+2016 Round Semi Final Canberra Raiders vs Penrith Panthers
+2016 Round Prelim Final Cronulla Sutherland Sharks vs North Queensland Cowboys
+2016 Round Prelim Final Melbourne Storm vs Canberra Raiders
+2016 Round Grand Final Cronulla Sutherland Sharks vs Melbourne Storm
+2017 Round 1 Cronulla Sutherland Sharks vs Brisbane Broncos
+2017 Round 1 Canterbury Bankstown Bulldogs vs Melbourne Storm
+2017 Round 1 South Sydney Rabbitohs vs Wests Tigers
+2017 Round 1 St George Illawarra Dragons vs Penrith Panthers
+2017 Round 1 North Queensland Cowboys vs Canberra Raiders
+2017 Round 1 Gold Coast Titans vs Sydney Roosters
+2017 Round 1 Warriors vs Newcastle Knights
+2017 Round 1 Manly Warringah Sea Eagles vs Parramatta Eels
+2017 Round 2 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2017 Round 2 Brisbane Broncos vs North Queensland Cowboys
+2017 Round 2 Warriors vs Melbourne Storm
+2017 Round 2 Newcastle Knights vs Gold Coast Titans
+2017 Round 2 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2017 Round 2 Canberra Raiders vs Cronulla Sutherland Sharks
+2017 Round 2 Wests Tigers vs Penrith Panthers
+2017 Round 2 St George Illawarra Dragons vs Parramatta Eels
+2017 Round 3 Melbourne Storm vs Brisbane Broncos
+2017 Round 3 Canterbury Bankstown Bulldogs vs Warriors
+2017 Round 3 Gold Coast Titans vs Parramatta Eels
+2017 Round 3 Newcastle Knights vs South Sydney Rabbitohs
+2017 Round 3 Penrith Panthers vs Sydney Roosters
+2017 Round 3 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2017 Round 3 Canberra Raiders vs Wests Tigers
+2017 Round 3 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2017 Round 4 South Sydney Rabbitohs vs Sydney Roosters
+2017 Round 4 Penrith Panthers vs Newcastle Knights
+2017 Round 4 Brisbane Broncos vs Canberra Raiders
+2017 Round 4 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2017 Round 4 Parramatta Eels vs Cronulla Sutherland Sharks
+2017 Round 4 Gold Coast Titans vs North Queensland Cowboys
+2017 Round 4 Wests Tigers vs Melbourne Storm
+2017 Round 4 St George Illawarra Dragons vs Warriors
+2017 Round 5 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2017 Round 5 Sydney Roosters vs Manly Warringah Sea Eagles
+2017 Round 5 North Queensland Cowboys vs South Sydney Rabbitohs
+2017 Round 5 Cronulla Sutherland Sharks vs Newcastle Knights
+2017 Round 5 Canberra Raiders vs Parramatta Eels
+2017 Round 5 Melbourne Storm vs Penrith Panthers
+2017 Round 5 Warriors vs Gold Coast Titans
+2017 Round 5 Wests Tigers vs St George Illawarra Dragons
+2017 Round 6 Brisbane Broncos vs Sydney Roosters
+2017 Round 6 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2017 Round 6 Penrith Panthers vs South Sydney Rabbitohs
+2017 Round 6 Manly Warringah Sea Eagles vs St George Illawarra Dragons
+2017 Round 6 Gold Coast Titans vs Canberra Raiders
+2017 Round 6 North Queensland Cowboys vs Wests Tigers
+2017 Round 6 Warriors vs Parramatta Eels
+2017 Round 6 Melbourne Storm vs Cronulla Sutherland Sharks
+2017 Round 7 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2017 Round 7 Newcastle Knights vs Sydney Roosters
+2017 Round 7 Brisbane Broncos vs Gold Coast Titans
+2017 Round 7 Manly Warringah Sea Eagles vs Melbourne Storm
+2017 Round 7 Canberra Raiders vs Warriors
+2017 Round 7 St George Illawarra Dragons vs North Queensland Cowboys
+2017 Round 7 Penrith Panthers vs Cronulla Sutherland Sharks
+2017 Round 7 Parramatta Eels vs Wests Tigers
+2017 Round 8 Canberra Raiders vs Manly Warringah Sea Eagles
+2017 Round 8 South Sydney Rabbitohs vs Brisbane Broncos
+2017 Round 8 Parramatta Eels vs Penrith Panthers
+2017 Round 8 North Queensland Cowboys vs Newcastle Knights
+2017 Round 8 Cronulla Sutherland Sharks vs Gold Coast Titans
+2017 Round 8 Wests Tigers vs Canterbury Bankstown Bulldogs
+2017 Round 8 Sydney Roosters vs St George Illawarra Dragons
+2017 Round 8 Melbourne Storm vs Warriors
+2017 Round 9 Brisbane Broncos vs Penrith Panthers
+2017 Round 9 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2017 Round 9 North Queensland Cowboys vs Parramatta Eels
+2017 Round 9 Gold Coast Titans vs Newcastle Knights
+2017 Round 9 Canterbury Bankstown Bulldogs vs Canberra Raiders
+2017 Round 9 Wests Tigers vs Cronulla Sutherland Sharks
+2017 Round 9 Warriors vs Sydney Roosters
+2017 Round 9 St George Illawarra Dragons vs Melbourne Storm
+2017 Round 10 Canterbury Bankstown Bulldogs vs North Queensland Cowboys
+2017 Round 10 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2017 Round 10 Wests Tigers vs South Sydney Rabbitohs
+2017 Round 10 Penrith Panthers vs Warriors
+2017 Round 10 Melbourne Storm vs Gold Coast Titans
+2017 Round 10 Manly Warringah Sea Eagles vs Brisbane Broncos
+2017 Round 10 Newcastle Knights vs Canberra Raiders
+2017 Round 10 Sydney Roosters vs Parramatta Eels
+2017 Round 11 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2017 Round 11 Brisbane Broncos vs Wests Tigers
+2017 Round 11 Warriors vs St George Illawarra Dragons
+2017 Round 11 Gold Coast Titans vs Manly Warringah Sea Eagles
+2017 Round 11 Parramatta Eels vs Canberra Raiders
+2017 Round 11 Newcastle Knights vs Penrith Panthers
+2017 Round 11 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2017 Round 11 South Sydney Rabbitohs vs Melbourne Storm
+2017 Round 12 South Sydney Rabbitohs vs Parramatta Eels
+2017 Round 12 Warriors vs Brisbane Broncos
+2017 Round 12 Cronulla Sutherland Sharks vs Canterbury Bankstown Bulldogs
+2017 Round 12 Canberra Raiders vs Sydney Roosters
+2017 Round 13 Melbourne Storm vs Newcastle Knights
+2017 Round 13 Parramatta Eels vs Warriors
+2017 Round 13 St George Illawarra Dragons vs Wests Tigers
+2017 Round 13 Sydney Roosters vs Brisbane Broncos
+2017 Round 13 North Queensland Cowboys vs Gold Coast Titans
+2017 Round 13 Manly Warringah Sea Eagles vs Canberra Raiders
+2017 Round 13 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2017 Round 14 Cronulla Sutherland Sharks vs Melbourne Storm
+2017 Round 14 Manly Warringah Sea Eagles vs Newcastle Knights
+2017 Round 14 Brisbane Broncos vs South Sydney Rabbitohs
+2017 Round 14 Gold Coast Titans vs Warriors
+2017 Round 14 Penrith Panthers vs Canberra Raiders
+2017 Round 14 Parramatta Eels vs North Queensland Cowboys
+2017 Round 14 Wests Tigers vs Sydney Roosters
+2017 Round 14 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2017 Round 15 South Sydney Rabbitohs vs Gold Coast Titans
+2017 Round 15 Melbourne Storm vs North Queensland Cowboys
+2017 Round 15 Cronulla Sutherland Sharks vs Wests Tigers
+2017 Round 15 Parramatta Eels vs St George Illawarra Dragons
+2017 Round 16 Wests Tigers vs Gold Coast Titans
+2017 Round 16 Warriors vs Canterbury Bankstown Bulldogs
+2017 Round 16 North Queensland Cowboys vs Penrith Panthers
+2017 Round 16 Canberra Raiders vs Brisbane Broncos
+2017 Round 16 Sydney Roosters vs Melbourne Storm
+2017 Round 16 St George Illawarra Dragons vs Newcastle Knights
+2017 Round 16 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2017 Round 17 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2017 Round 17 Gold Coast Titans vs St George Illawarra Dragons
+2017 Round 17 Brisbane Broncos vs Melbourne Storm
+2017 Round 17 Sydney Roosters vs Cronulla Sutherland Sharks
+2017 Round 17 Manly Warringah Sea Eagles vs Warriors
+2017 Round 17 Canberra Raiders vs North Queensland Cowboys
+2017 Round 17 Newcastle Knights vs Wests Tigers
+2017 Round 17 South Sydney Rabbitohs vs Penrith Panthers
+2017 Round 18 Sydney Roosters vs South Sydney Rabbitohs
+2017 Round 18 Penrith Panthers vs Manly Warringah Sea Eagles
+2017 Round 18 Melbourne Storm vs Parramatta Eels
+2017 Round 18 Canterbury Bankstown Bulldogs vs Newcastle Knights
+2017 Round 19 Canberra Raiders vs St George Illawarra Dragons
+2017 Round 19 Warriors vs Penrith Panthers
+2017 Round 19 Newcastle Knights vs Brisbane Broncos
+2017 Round 19 Gold Coast Titans vs Cronulla Sutherland Sharks
+2017 Round 19 Manly Warringah Sea Eagles vs Wests Tigers
+2017 Round 19 South Sydney Rabbitohs vs North Queensland Cowboys
+2017 Round 20 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2017 Round 20 Sydney Roosters vs Newcastle Knights
+2017 Round 20 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2017 Round 20 Penrith Panthers vs Gold Coast Titans
+2017 Round 20 Canberra Raiders vs Melbourne Storm
+2017 Round 20 North Queensland Cowboys vs Warriors
+2017 Round 20 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2017 Round 20 Wests Tigers vs Parramatta Eels
+2017 Round 21 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2017 Round 21 Parramatta Eels vs Brisbane Broncos
+2017 Round 21 Warriors vs Cronulla Sutherland Sharks
+2017 Round 21 Newcastle Knights vs St George Illawarra Dragons
+2017 Round 21 South Sydney Rabbitohs vs Canberra Raiders
+2017 Round 21 Sydney Roosters vs North Queensland Cowboys
+2017 Round 21 Melbourne Storm vs Manly Warringah Sea Eagles
+2017 Round 21 Gold Coast Titans vs Wests Tigers
+2017 Round 22 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2017 Round 22 St George Illawarra Dragons vs South Sydney Rabbitohs
+2017 Round 22 North Queensland Cowboys vs Melbourne Storm
+2017 Round 22 Newcastle Knights vs Warriors
+2017 Round 22 Gold Coast Titans vs Brisbane Broncos
+2017 Round 22 Cronulla Sutherland Sharks vs Canberra Raiders
+2017 Round 22 Manly Warringah Sea Eagles vs Sydney Roosters
+2017 Round 22 Penrith Panthers vs Wests Tigers
+2017 Round 23 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2017 Round 23 Parramatta Eels vs Newcastle Knights
+2017 Round 23 Brisbane Broncos vs Cronulla Sutherland Sharks
+2017 Round 23 St George Illawarra Dragons vs Gold Coast Titans
+2017 Round 23 Melbourne Storm vs Sydney Roosters
+2017 Round 23 Penrith Panthers vs North Queensland Cowboys
+2017 Round 23 Warriors vs Canberra Raiders
+2017 Round 23 Wests Tigers vs Manly Warringah Sea Eagles
+2017 Round 24 Parramatta Eels vs Gold Coast Titans
+2017 Round 24 South Sydney Rabbitohs vs Warriors
+2017 Round 24 Brisbane Broncos vs St George Illawarra Dragons
+2017 Round 24 Newcastle Knights vs Melbourne Storm
+2017 Round 24 Sydney Roosters vs Wests Tigers
+2017 Round 24 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2017 Round 24 Canberra Raiders vs Penrith Panthers
+2017 Round 24 Canterbury Bankstown Bulldogs vs Manly Warringah Sea Eagles
+2017 Round 25 Brisbane Broncos vs Parramatta Eels
+2017 Round 25 Canberra Raiders vs Newcastle Knights
+2017 Round 25 Wests Tigers vs North Queensland Cowboys
+2017 Round 25 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2017 Round 25 Melbourne Storm vs South Sydney Rabbitohs
+2017 Round 25 Cronulla Sutherland Sharks vs Sydney Roosters
+2017 Round 25 Warriors vs Manly Warringah Sea Eagles
+2017 Round 25 Penrith Panthers vs St George Illawarra Dragons
+2017 Round 26 North Queensland Cowboys vs Brisbane Broncos
+2017 Round 26 Parramatta Eels vs South Sydney Rabbitohs
+2017 Round 26 Sydney Roosters vs Gold Coast Titans
+2017 Round 26 Manly Warringah Sea Eagles vs Penrith Panthers
+2017 Round 26 Melbourne Storm vs Canberra Raiders
+2017 Round 26 Newcastle Knights vs Cronulla Sutherland Sharks
+2017 Round 26 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2017 Round 26 Wests Tigers vs Warriors
+2017 Round Qualif Final Sydney Roosters vs Brisbane Broncos
+2017 Round Qualif Final Melbourne Storm vs Parramatta Eels
+2017 Round Qualif Final Manly Warringah Sea Eagles vs Penrith Panthers
+2017 Round Qualif Final Cronulla Sutherland Sharks vs North Queensland Cowboys
+2017 Round Semi Final Brisbane Broncos vs Penrith Panthers
+2017 Round Semi Final Parramatta Eels vs North Queensland Cowboys
+2017 Round Prelim Final Melbourne Storm vs Brisbane Broncos
+2017 Round Prelim Final Sydney Roosters vs North Queensland Cowboys
+2017 Round Grand Final Melbourne Storm vs North Queensland Cowboys
+2018 Round 1 St George Illawarra Dragons vs Brisbane Broncos
+2018 Round 1 Newcastle Knights vs Manly Warringah Sea Eagles
+2018 Round 1 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2018 Round 1 South Sydney Rabbitohs vs Warriors
+2018 Round 1 Wests Tigers vs Sydney Roosters
+2018 Round 1 Canterbury Bankstown Bulldogs vs Melbourne Storm
+2018 Round 1 Penrith Panthers vs Parramatta Eels
+2018 Round 1 Gold Coast Titans vs Canberra Raiders
+2018 Round 2 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2018 Round 2 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2018 Round 2 Brisbane Broncos vs North Queensland Cowboys
+2018 Round 2 Warriors vs Gold Coast Titans
+2018 Round 2 Penrith Panthers vs South Sydney Rabbitohs
+2018 Round 2 Melbourne Storm vs Wests Tigers
+2018 Round 2 Manly Warringah Sea Eagles vs Parramatta Eels
+2018 Round 2 Canberra Raiders vs Newcastle Knights
+2018 Round 3 Melbourne Storm vs North Queensland Cowboys
+2018 Round 3 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2018 Round 3 Wests Tigers vs Brisbane Broncos
+2018 Round 3 Canberra Raiders vs Warriors
+2018 Round 3 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2018 Round 3 Parramatta Eels vs Cronulla Sutherland Sharks
+2018 Round 3 Gold Coast Titans vs St George Illawarra Dragons
+2018 Round 3 Sydney Roosters vs Newcastle Knights
+2018 Round 4 North Queensland Cowboys vs Penrith Panthers
+2018 Round 4 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2018 Round 4 Cronulla Sutherland Sharks vs Melbourne Storm
+2018 Round 4 Sydney Roosters vs Warriors
+2018 Round 4 Manly Warringah Sea Eagles vs Canberra Raiders
+2018 Round 4 St George Illawarra Dragons vs Newcastle Knights
+2018 Round 4 Brisbane Broncos vs Gold Coast Titans
+2018 Round 4 Wests Tigers vs Parramatta Eels
+2018 Round 5 Canberra Raiders vs Canterbury Bankstown Bulldogs
+2018 Round 5 Cronulla Sutherland Sharks vs Sydney Roosters
+2018 Round 5 St George Illawarra Dragons vs South Sydney Rabbitohs
+2018 Round 5 Wests Tigers vs Melbourne Storm
+2018 Round 5 Newcastle Knights vs Brisbane Broncos
+2018 Round 5 Warriors vs North Queensland Cowboys
+2018 Round 5 Gold Coast Titans vs Manly Warringah Sea Eagles
+2018 Round 5 Parramatta Eels vs Penrith Panthers
+2018 Round 6 Sydney Roosters vs South Sydney Rabbitohs
+2018 Round 6 Melbourne Storm vs Newcastle Knights
+2018 Round 6 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2018 Round 6 Warriors vs Brisbane Broncos
+2018 Round 6 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2018 Round 6 Canberra Raiders vs Parramatta Eels
+2018 Round 6 Penrith Panthers vs Gold Coast Titans
+2018 Round 6 Manly Warringah Sea Eagles vs Wests Tigers
+2018 Round 7 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2018 Round 7 Brisbane Broncos vs Melbourne Storm
+2018 Round 7 Warriors vs St George Illawarra Dragons
+2018 Round 7 South Sydney Rabbitohs vs Canberra Raiders
+2018 Round 7 Wests Tigers vs Newcastle Knights
+2018 Round 7 North Queensland Cowboys vs Gold Coast Titans
+2018 Round 7 Parramatta Eels vs Manly Warringah Sea Eagles
+2018 Round 7 Cronulla Sutherland Sharks vs Penrith Panthers
+2018 Round 8 St George Illawarra Dragons vs Sydney Roosters
+2018 Round 8 Melbourne Storm vs Warriors
+2018 Round 8 South Sydney Rabbitohs vs Brisbane Broncos
+2018 Round 8 Manly Warringah Sea Eagles vs Newcastle Knights
+2018 Round 8 Penrith Panthers vs Canterbury Bankstown Bulldogs
+2018 Round 8 Gold Coast Titans vs Cronulla Sutherland Sharks
+2018 Round 8 North Queensland Cowboys vs Canberra Raiders
+2018 Round 8 Parramatta Eels vs Wests Tigers
+2018 Round 9 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2018 Round 9 Newcastle Knights vs South Sydney Rabbitohs
+2018 Round 9 Penrith Panthers vs North Queensland Cowboys
+2018 Round 9 Canberra Raiders vs Gold Coast Titans
+2018 Round 9 Cronulla Sutherland Sharks vs Parramatta Eels
+2018 Round 9 Warriors vs Wests Tigers
+2018 Round 9 St George Illawarra Dragons vs Melbourne Storm
+2018 Round 9 Sydney Roosters vs Manly Warringah Sea Eagles
+2018 Round 10 Wests Tigers vs North Queensland Cowboys
+2018 Round 10 Newcastle Knights vs Penrith Panthers
+2018 Round 10 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2018 Round 10 Warriors vs Sydney Roosters
+2018 Round 10 Melbourne Storm vs Gold Coast Titans
+2018 Round 10 Manly Warringah Sea Eagles vs Brisbane Broncos
+2018 Round 10 South Sydney Rabbitohs vs St George Illawarra Dragons
+2018 Round 10 Canberra Raiders vs Cronulla Sutherland Sharks
+2018 Round 11 Penrith Panthers vs Wests Tigers
+2018 Round 11 Parramatta Eels vs Warriors
+2018 Round 11 Brisbane Broncos vs Sydney Roosters
+2018 Round 11 Gold Coast Titans vs Newcastle Knights
+2018 Round 11 North Queensland Cowboys vs South Sydney Rabbitohs
+2018 Round 11 Melbourne Storm vs Manly Warringah Sea Eagles
+2018 Round 11 St George Illawarra Dragons vs Canberra Raiders
+2018 Round 11 Cronulla Sutherland Sharks vs Canterbury Bankstown Bulldogs
+2018 Round 12 Brisbane Broncos vs Parramatta Eels
+2018 Round 12 Canberra Raiders vs Manly Warringah Sea Eagles
+2018 Round 12 North Queensland Cowboys vs Melbourne Storm
+2018 Round 12 Sydney Roosters vs Gold Coast Titans
+2018 Round 12 Penrith Panthers vs St George Illawarra Dragons
+2018 Round 12 Warriors vs South Sydney Rabbitohs
+2018 Round 12 Newcastle Knights vs Cronulla Sutherland Sharks
+2018 Round 12 Wests Tigers vs Canterbury Bankstown Bulldogs
+2018 Round 13 Manly Warringah Sea Eagles vs North Queensland Cowboys
+2018 Round 13 South Sydney Rabbitohs vs Cronulla Sutherland Sharks
+2018 Round 13 Parramatta Eels vs Newcastle Knights
+2018 Round 13 Sydney Roosters vs Wests Tigers
+2018 Round 14 Canberra Raiders vs Penrith Panthers
+2018 Round 14 Gold Coast Titans vs South Sydney Rabbitohs
+2018 Round 14 Manly Warringah Sea Eagles vs Warriors
+2018 Round 14 Newcastle Knights vs Sydney Roosters
+2018 Round 14 Parramatta Eels vs North Queensland Cowboys
+2018 Round 14 Cronulla Sutherland Sharks vs Wests Tigers
+2018 Round 14 Melbourne Storm vs Brisbane Broncos
+2018 Round 14 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2018 Round 15 Parramatta Eels vs South Sydney Rabbitohs
+2018 Round 15 North Queensland Cowboys vs Warriors
+2018 Round 15 Sydney Roosters vs Penrith Panthers
+2018 Round 15 Canterbury Bankstown Bulldogs vs Gold Coast Titans
+2018 Round 15 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2018 Round 15 Cronulla Sutherland Sharks vs Brisbane Broncos
+2018 Round 15 Newcastle Knights vs Melbourne Storm
+2018 Round 15 Wests Tigers vs Canberra Raiders
+2018 Round 16 St George Illawarra Dragons vs Parramatta Eels
+2018 Round 16 Sydney Roosters vs Melbourne Storm
+2018 Round 16 Warriors vs Cronulla Sutherland Sharks
+2018 Round 16 Penrith Panthers vs Manly Warringah Sea Eagles
+2018 Round 16 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2018 Round 16 Brisbane Broncos vs Canberra Raiders
+2018 Round 16 Wests Tigers vs Gold Coast Titans
+2018 Round 16 South Sydney Rabbitohs vs North Queensland Cowboys
+2018 Round 17 Melbourne Storm vs St George Illawarra Dragons
+2018 Round 17 Penrith Panthers vs Warriors
+2018 Round 17 Canterbury Bankstown Bulldogs vs Canberra Raiders
+2018 Round 17 Gold Coast Titans vs Brisbane Broncos
+2018 Round 18 Penrith Panthers vs Cronulla Sutherland Sharks
+2018 Round 18 Newcastle Knights vs Parramatta Eels
+2018 Round 18 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2018 Round 18 Manly Warringah Sea Eagles vs Melbourne Storm
+2018 Round 18 Canberra Raiders vs North Queensland Cowboys
+2018 Round 18 Brisbane Broncos vs Warriors
+2018 Round 18 St George Illawarra Dragons vs Wests Tigers
+2018 Round 18 Gold Coast Titans vs Sydney Roosters
+2018 Round 19 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2018 Round 19 Cronulla Sutherland Sharks vs Canberra Raiders
+2018 Round 19 Brisbane Broncos vs Penrith Panthers
+2018 Round 19 Newcastle Knights vs Gold Coast Titans
+2018 Round 19 Wests Tigers vs South Sydney Rabbitohs
+2018 Round 19 North Queensland Cowboys vs St George Illawarra Dragons
+2018 Round 19 Warriors vs Melbourne Storm
+2018 Round 19 Manly Warringah Sea Eagles vs Sydney Roosters
+2018 Round 20 Brisbane Broncos vs Cronulla Sutherland Sharks
+2018 Round 20 North Queensland Cowboys vs Newcastle Knights
+2018 Round 20 Canterbury Bankstown Bulldogs vs Wests Tigers
+2018 Round 20 Manly Warringah Sea Eagles vs Penrith Panthers
+2018 Round 20 South Sydney Rabbitohs vs Parramatta Eels
+2018 Round 20 Melbourne Storm vs Canberra Raiders
+2018 Round 20 Gold Coast Titans vs Warriors
+2018 Round 20 Sydney Roosters vs St George Illawarra Dragons
+2018 Round 21 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2018 Round 21 Newcastle Knights vs Wests Tigers
+2018 Round 21 South Sydney Rabbitohs vs Melbourne Storm
+2018 Round 21 St George Illawarra Dragons vs Warriors
+2018 Round 21 Parramatta Eels vs Gold Coast Titans
+2018 Round 21 Sydney Roosters vs North Queensland Cowboys
+2018 Round 21 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2018 Round 21 Penrith Panthers vs Canberra Raiders
+2018 Round 22 North Queensland Cowboys vs Brisbane Broncos
+2018 Round 22 South Sydney Rabbitohs vs Sydney Roosters
+2018 Round 22 Warriors vs Newcastle Knights
+2018 Round 22 Gold Coast Titans vs Penrith Panthers
+2018 Round 22 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2018 Round 22 Parramatta Eels vs St George Illawarra Dragons
+2018 Round 22 Canberra Raiders vs Wests Tigers
+2018 Round 22 Melbourne Storm vs Cronulla Sutherland Sharks
+2018 Round 23 Brisbane Broncos vs South Sydney Rabbitohs
+2018 Round 23 Manly Warringah Sea Eagles vs Gold Coast Titans
+2018 Round 23 Melbourne Storm vs Parramatta Eels
+2018 Round 23 Penrith Panthers vs Newcastle Knights
+2018 Round 23 Wests Tigers vs St George Illawarra Dragons
+2018 Round 23 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2018 Round 23 Canterbury Bankstown Bulldogs vs Warriors
+2018 Round 23 Canberra Raiders vs Sydney Roosters
+2018 Round 24 Wests Tigers vs Manly Warringah Sea Eagles
+2018 Round 24 North Queensland Cowboys vs Parramatta Eels
+2018 Round 24 Warriors vs Penrith Panthers
+2018 Round 24 Canberra Raiders vs South Sydney Rabbitohs
+2018 Round 24 Gold Coast Titans vs Melbourne Storm
+2018 Round 24 Sydney Roosters vs Brisbane Broncos
+2018 Round 24 Cronulla Sutherland Sharks vs Newcastle Knights
+2018 Round 24 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2018 Round 25 South Sydney Rabbitohs vs Wests Tigers
+2018 Round 25 Melbourne Storm vs Penrith Panthers
+2018 Round 25 Warriors vs Canberra Raiders
+2018 Round 25 Newcastle Knights vs St George Illawarra Dragons
+2018 Round 25 Gold Coast Titans vs North Queensland Cowboys
+2018 Round 25 Parramatta Eels vs Sydney Roosters
+2018 Round 25 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2018 Round 25 Brisbane Broncos vs Manly Warringah Sea Eagles
+2018 Round Qualif Final Melbourne Storm vs South Sydney Rabbitohs
+2018 Round Qualif Final Penrith Panthers vs Warriors
+2018 Round Qualif Final Sydney Roosters vs Cronulla Sutherland Sharks
+2018 Round Qualif Final Brisbane Broncos vs St George Illawarra Dragons
+2018 Round Semi Final Cronulla Sutherland Sharks vs Penrith Panthers
+2018 Round Semi Final South Sydney Rabbitohs vs St George Illawarra Dragons
+2018 Round Prelim Final Melbourne Storm vs Cronulla Sutherland Sharks
+2018 Round Prelim Final Sydney Roosters vs South Sydney Rabbitohs
+2018 Round Grand Final Sydney Roosters vs Melbourne Storm
+2019 Round 1 Melbourne Storm vs Brisbane Broncos
+2019 Round 1 Newcastle Knights vs Cronulla Sutherland Sharks
+2019 Round 1 Sydney Roosters vs South Sydney Rabbitohs
+2019 Round 1 Warriors vs Canterbury Bankstown Bulldogs
+2019 Round 1 Wests Tigers vs Manly Warringah Sea Eagles
+2019 Round 1 North Queensland Cowboys vs St George Illawarra Dragons
+2019 Round 1 Penrith Panthers vs Parramatta Eels
+2019 Round 1 Gold Coast Titans vs Canberra Raiders
+2019 Round 2 St George Illawarra Dragons vs South Sydney Rabbitohs
+2019 Round 2 Canberra Raiders vs Melbourne Storm
+2019 Round 2 Brisbane Broncos vs North Queensland Cowboys
+2019 Round 2 Cronulla Sutherland Sharks vs Gold Coast Titans
+2019 Round 2 Newcastle Knights vs Penrith Panthers
+2019 Round 2 Manly Warringah Sea Eagles vs Sydney Roosters
+2019 Round 2 Canterbury Bankstown Bulldogs vs Parramatta Eels
+2019 Round 2 Wests Tigers vs Warriors
+2019 Round 3 Brisbane Broncos vs St George Illawarra Dragons
+2019 Round 3 Canberra Raiders vs Newcastle Knights
+2019 Round 3 Parramatta Eels vs Sydney Roosters
+2019 Round 3 Manly Warringah Sea Eagles vs Warriors
+2019 Round 3 North Queensland Cowboys vs Cronulla Sutherland Sharks
+2019 Round 3 Penrith Panthers vs Melbourne Storm
+2019 Round 3 Wests Tigers vs Canterbury Bankstown Bulldogs
+2019 Round 3 South Sydney Rabbitohs vs Gold Coast Titans
+2019 Round 4 Sydney Roosters vs Brisbane Broncos
+2019 Round 4 Warriors vs Gold Coast Titans
+2019 Round 4 Penrith Panthers vs Wests Tigers
+2019 Round 4 Manly Warringah Sea Eagles vs South Sydney Rabbitohs
+2019 Round 4 North Queensland Cowboys vs Canberra Raiders
+2019 Round 4 Parramatta Eels vs Cronulla Sutherland Sharks
+2019 Round 4 Melbourne Storm vs Canterbury Bankstown Bulldogs
+2019 Round 4 Newcastle Knights vs St George Illawarra Dragons
+2019 Round 5 Brisbane Broncos vs Wests Tigers
+2019 Round 5 Gold Coast Titans vs Penrith Panthers
+2019 Round 5 North Queensland Cowboys vs Melbourne Storm
+2019 Round 5 South Sydney Rabbitohs vs Warriors
+2019 Round 5 Newcastle Knights vs Manly Warringah Sea Eagles
+2019 Round 5 Cronulla Sutherland Sharks vs Sydney Roosters
+2019 Round 5 St George Illawarra Dragons vs Canterbury Bankstown Bulldogs
+2019 Round 5 Canberra Raiders vs Parramatta Eels
+2019 Round 6 Cronulla Sutherland Sharks vs Penrith Panthers
+2019 Round 6 Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs
+2019 Round 6 Melbourne Storm vs Sydney Roosters
+2019 Round 6 Warriors vs North Queensland Cowboys
+2019 Round 6 St George Illawarra Dragons vs Manly Warringah Sea Eagles
+2019 Round 6 Gold Coast Titans vs Newcastle Knights
+2019 Round 6 Canberra Raiders vs Brisbane Broncos
+2019 Round 6 Parramatta Eels vs Wests Tigers
+2019 Round 7 Sydney Roosters vs St George Illawarra Dragons
+2019 Round 7 Melbourne Storm vs Warriors
+2019 Round 7 Canterbury Bankstown Bulldogs vs North Queensland Cowboys
+2019 Round 7 Penrith Panthers vs South Sydney Rabbitohs
+2019 Round 7 Wests Tigers vs Gold Coast Titans
+2019 Round 7 Brisbane Broncos vs Cronulla Sutherland Sharks
+2019 Round 7 Manly Warringah Sea Eagles vs Canberra Raiders
+2019 Round 7 Newcastle Knights vs Parramatta Eels
+2019 Round 8 South Sydney Rabbitohs vs Brisbane Broncos
+2019 Round 8 North Queensland Cowboys vs Gold Coast Titans
+2019 Round 8 Cronulla Sutherland Sharks vs Melbourne Storm
+2019 Round 8 Canberra Raiders vs Penrith Panthers
+2019 Round 8 Manly Warringah Sea Eagles vs Canterbury Bankstown Bulldogs
+2019 Round 8 Sydney Roosters vs Wests Tigers
+2019 Round 8 Warriors vs Newcastle Knights
+2019 Round 8 Parramatta Eels vs St George Illawarra Dragons
+2019 Round 9 Gold Coast Titans vs Cronulla Sutherland Sharks
+2019 Round 9 Wests Tigers vs Penrith Panthers
+2019 Round 9 Manly Warringah Sea Eagles vs Brisbane Broncos
+2019 Round 9 Canterbury Bankstown Bulldogs vs Newcastle Knights
+2019 Round 9 Warriors vs St George Illawarra Dragons
+2019 Round 9 Melbourne Storm vs Parramatta Eels
+2019 Round 9 Sydney Roosters vs Canberra Raiders
+2019 Round 9 South Sydney Rabbitohs vs North Queensland Cowboys
+2019 Round 10 Melbourne Storm vs Wests Tigers
+2019 Round 10 Penrith Panthers vs Warriors
+2019 Round 10 Brisbane Broncos vs Sydney Roosters
+2019 Round 10 Gold Coast Titans vs Canterbury Bankstown Bulldogs
+2019 Round 10 North Queensland Cowboys vs Parramatta Eels
+2019 Round 10 Canberra Raiders vs South Sydney Rabbitohs
+2019 Round 10 St George Illawarra Dragons vs Newcastle Knights
+2019 Round 10 Cronulla Sutherland Sharks vs Manly Warringah Sea Eagles
+2019 Round 11 Parramatta Eels vs Penrith Panthers
+2019 Round 11 Manly Warringah Sea Eagles vs Gold Coast Titans
+2019 Round 11 Newcastle Knights vs Sydney Roosters
+2019 Round 11 Canberra Raiders vs North Queensland Cowboys
+2019 Round 11 Warriors vs Brisbane Broncos
+2019 Round 11 South Sydney Rabbitohs vs Wests Tigers
+2019 Round 11 Canterbury Bankstown Bulldogs vs Melbourne Storm
+2019 Round 11 St George Illawarra Dragons vs Cronulla Sutherland Sharks
+2019 Round 12 Penrith Panthers vs Manly Warringah Sea Eagles
+2019 Round 12 Parramatta Eels vs South Sydney Rabbitohs
+2019 Round 12 Canterbury Bankstown Bulldogs vs Canberra Raiders
+2019 Round 12 Gold Coast Titans vs North Queensland Cowboys
+2019 Round 13 South Sydney Rabbitohs vs Newcastle Knights
+2019 Round 13 Wests Tigers vs Canberra Raiders
+2019 Round 13 Warriors vs Melbourne Storm
+2019 Round 13 Cronulla Sutherland Sharks vs Parramatta Eels
+2019 Round 13 North Queensland Cowboys vs Manly Warringah Sea Eagles
+2019 Round 13 Brisbane Broncos vs Gold Coast Titans
+2019 Round 13 Penrith Panthers vs Sydney Roosters
+2019 Round 13 Canterbury Bankstown Bulldogs vs St George Illawarra Dragons
+2019 Round 14 Canberra Raiders vs Cronulla Sutherland Sharks
+2019 Round 14 Gold Coast Titans vs Warriors
+2019 Round 14 North Queensland Cowboys vs Wests Tigers
+2019 Round 14 Melbourne Storm vs Newcastle Knights
+2019 Round 14 South Sydney Rabbitohs vs Penrith Panthers
+2019 Round 14 Parramatta Eels vs Brisbane Broncos
+2019 Round 14 Manly Warringah Sea Eagles vs St George Illawarra Dragons
+2019 Round 14 Sydney Roosters vs Canterbury Bankstown Bulldogs
+2019 Round 15 Wests Tigers vs South Sydney Rabbitohs
+2019 Round 15 St George Illawarra Dragons vs North Queensland Cowboys
+2019 Round 15 Sydney Roosters vs Melbourne Storm
+2019 Round 15 Gold Coast Titans vs Manly Warringah Sea Eagles
+2019 Round 15 Newcastle Knights vs Brisbane Broncos
+2019 Round 15 Parramatta Eels vs Canberra Raiders
+2019 Round 15 Warriors vs Penrith Panthers
+2019 Round 15 Canterbury Bankstown Bulldogs vs Cronulla Sutherland Sharks
+2019 Round 16 St George Illawarra Dragons vs Melbourne Storm
+2019 Round 16 Wests Tigers vs Sydney Roosters
+2019 Round 16 Newcastle Knights vs Warriors
+2019 Round 16 Cronulla Sutherland Sharks vs Brisbane Broncos
+2019 Round 17 Penrith Panthers vs Gold Coast Titans
+2019 Round 17 Newcastle Knights vs Canterbury Bankstown Bulldogs
+2019 Round 17 South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2019 Round 17 Brisbane Broncos vs drew with Warriors
+2019 Round 17 Melbourne Storm vs Cronulla Sutherland Sharks
+2019 Round 17 Sydney Roosters vs North Queensland Cowboys
+2019 Round 17 Wests Tigers vs Parramatta Eels
+2019 Round 17 St George Illawarra Dragons vs Canberra Raiders
+2019 Round 18 Brisbane Broncos vs Canterbury Bankstown Bulldogs
+2019 Round 18 Warriors vs Cronulla Sutherland Sharks
+2019 Round 18 Penrith Panthers vs St George Illawarra Dragons
+2019 Round 18 Sydney Roosters vs Newcastle Knights
+2019 Round 18 Canberra Raiders vs Wests Tigers
+2019 Round 18 North Queensland Cowboys vs South Sydney Rabbitohs
+2019 Round 18 Gold Coast Titans vs Melbourne Storm
+2019 Round 18 Manly Warringah Sea Eagles vs Parramatta Eels
+2019 Round 19 Cronulla Sutherland Sharks vs North Queensland Cowboys
+2019 Round 19 Newcastle Knights vs Wests Tigers
+2019 Round 19 South Sydney Rabbitohs vs St George Illawarra Dragons
+2019 Round 19 Parramatta Eels vs Warriors
+2019 Round 19 Gold Coast Titans vs Brisbane Broncos
+2019 Round 19 Melbourne Storm vs Manly Warringah Sea Eagles
+2019 Round 19 Canterbury Bankstown Bulldogs vs Sydney Roosters
+2019 Round 19 Penrith Panthers vs Canberra Raiders
+2019 Round 20 Wests Tigers vs North Queensland Cowboys
+2019 Round 20 Warriors vs Canberra Raiders
+2019 Round 20 Brisbane Broncos vs Melbourne Storm
+2019 Round 20 Manly Warringah Sea Eagles vs Newcastle Knights
+2019 Round 20 Canterbury Bankstown Bulldogs vs Penrith Panthers
+2019 Round 20 Cronulla Sutherland Sharks vs South Sydney Rabbitohs
+2019 Round 20 Sydney Roosters vs Gold Coast Titans
+2019 Round 20 St George Illawarra Dragons vs Parramatta Eels
+2019 Round 21 North Queensland Cowboys vs Brisbane Broncos
+2019 Round 21 Warriors vs Manly Warringah Sea Eagles
+2019 Round 21 Penrith Panthers vs Cronulla Sutherland Sharks
+2019 Round 21 St George Illawarra Dragons vs Gold Coast Titans
+2019 Round 21 Parramatta Eels vs Newcastle Knights
+2019 Round 21 Canterbury Bankstown Bulldogs vs Wests Tigers
+2019 Round 21 Canberra Raiders vs Sydney Roosters
+2019 Round 21 South Sydney Rabbitohs vs Melbourne Storm
+2019 Round 22 Manly Warringah Sea Eagles vs Wests Tigers
+2019 Round 22 Gold Coast Titans vs Parramatta Eels
+2019 Round 22 Brisbane Broncos vs Penrith Panthers
+2019 Round 22 Newcastle Knights vs North Queensland Cowboys
+2019 Round 22 Melbourne Storm vs Canberra Raiders
+2019 Round 22 South Sydney Rabbitohs vs Canterbury Bankstown Bulldogs
+2019 Round 22 Sydney Roosters vs Warriors
+2019 Round 22 Cronulla Sutherland Sharks vs St George Illawarra Dragons
+2019 Round 23 Parramatta Eels vs Canterbury Bankstown Bulldogs
+2019 Round 23 North Queensland Cowboys vs Penrith Panthers
+2019 Round 23 Brisbane Broncos vs South Sydney Rabbitohs
+2019 Round 23 Cronulla Sutherland Sharks vs Warriors
+2019 Round 23 Wests Tigers vs Newcastle Knights
+2019 Round 23 St George Illawarra Dragons vs Sydney Roosters
+2019 Round 23 Melbourne Storm vs Gold Coast Titans
+2019 Round 23 Canberra Raiders vs Manly Warringah Sea Eagles
+2019 Round 24 North Queensland Cowboys vs Canterbury Bankstown Bulldogs
+2019 Round 24 Warriors vs South Sydney Rabbitohs
+2019 Round 24 Brisbane Broncos vs Parramatta Eels
+2019 Round 24 Newcastle Knights vs Gold Coast Titans
+2019 Round 24 Manly Warringah Sea Eagles vs Melbourne Storm
+2019 Round 24 Sydney Roosters vs Penrith Panthers
+2019 Round 24 Cronulla Sutherland Sharks vs Canberra Raiders
+2019 Round 24 St George Illawarra Dragons vs Wests Tigers
+2019 Round 25 South Sydney Rabbitohs vs Sydney Roosters
+2019 Round 25 Parramatta Eels vs Manly Warringah Sea Eagles
+2019 Round 25 Melbourne Storm vs North Queensland Cowboys
+2019 Round 25 Canberra Raiders vs Warriors
+2019 Round 25 Canterbury Bankstown Bulldogs vs Brisbane Broncos
+2019 Round 25 Gold Coast Titans vs St George Illawarra Dragons
+2019 Round 25 Wests Tigers vs Cronulla Sutherland Sharks
+2019 Round 25 Penrith Panthers vs Newcastle Knights
+2019 Round Qualif Final Sydney Roosters vs South Sydney Rabbitohs
+2019 Round Qualif Final Melbourne Storm vs Canberra Raiders
+2019 Round Qualif Final Manly Warringah Sea Eagles vs Cronulla Sutherland Sharks
+2019 Round Qualif Final Parramatta Eels vs Brisbane Broncos
+2019 Round Semi Final South Sydney Rabbitohs vs Manly Warringah Sea Eagles
+2019 Round Semi Final Melbourne Storm vs Parramatta Eels
+2019 Round Prelim Final Canberra Raiders vs South Sydney Rabbitohs
+2019 Round Prelim Final Sydney Roosters vs Melbourne Storm
+2019 Round Grand Final Sydney Roosters vs Canberra Raiders

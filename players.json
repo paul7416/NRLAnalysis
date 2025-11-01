@@ -1,0 +1,6011 @@
+{
+    "7734": {
+        "name": "Dane Nielsen",
+        "DOB": "Monday, 10th June, 1985",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "814": {
+        "name": "Willie Manu",
+        "DOB": "Thursday, 20th March, 1980",
+        "POB": "Hornsby, New South Wales, Australia"
+    },
+    "7735": {
+        "name": "Aiden Tolman",
+        "DOB": "Thursday, 10th November, 1988",
+        "POB": "Kempsey, New South Wales, Australia"
+    },
+    "30739": {
+        "name": "Brayden Musgrove",
+        "DOB": "Friday, 6th March, 1998"
+    },
+    "30740": {
+        "name": "Jake Simpkin",
+        "DOB": "Tuesday, 16th October, 2001",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "30741": {
+        "name": "Wiremu Greig",
+        "DOB": "Friday, 12th November, 1999",
+        "POB": "Whangarei, Northland, New Zealand"
+    },
+    "47347": {
+        "name": "Taylor Losalu",
+        "DOB": "Friday, 15th November, 2002",
+        "POB": "Parramatta, New South Wales, Australia"
+    },
+    "28703": {
+        "name": "Billy Walters",
+        "DOB": "Wednesday, 9th February, 1994",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "28704": {
+        "name": "Tino Fa'asuamaleaui",
+        "DOB": "Wednesday, 16th February, 2000",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "28705": {
+        "name": "Phoenix Crossland",
+        "DOB": "Friday, 7th July, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28706": {
+        "name": "Herbie Farnworth",
+        "DOB": "Thursday, 23rd December, 1999",
+        "POB": "Burnley, Lancashire, England"
+    },
+    "28707": {
+        "name": "Keenan Palasia",
+        "DOB": "Friday, 24th January, 1997",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "26659": {
+        "name": "Alfred Smalley",
+        "DOB": "Friday, 4th June, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "823": {
+        "name": "Michael Witt",
+        "DOB": "Sunday, 1st January, 1984",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "20528": {
+        "name": "Ethan Lowe",
+        "DOB": "Wednesday, 20th March, 1991",
+        "POB": "Goondiwindi, Queensland, Australia"
+    },
+    "28724": {
+        "name": "Jed Cartwright",
+        "DOB": "Monday, 21st October, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28725": {
+        "name": "Adam Pompey",
+        "DOB": "Saturday, 22nd August, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28726": {
+        "name": "Murray Taulagi",
+        "DOB": "Friday, 12th March, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28727": {
+        "name": "Ethan Parry",
+        "DOB": "Saturday, 20th March, 1999",
+        "POB": "Tamworth, New South Wales, Australia"
+    },
+    "47161": {
+        "name": "Tanous Sukkar",
+        "DOB": "Tuesday, 25th May, 2004"
+    },
+    "20542": {
+        "name": "Eloni Vunakece",
+        "DOB": "Wednesday, 27th May, 1987",
+        "POB": "Paddington, New South Wales, Australia"
+    },
+    "20543": {
+        "name": "Brayden Wiliame",
+        "DOB": "Thursday, 17th December, 1992",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "28736": {
+        "name": "Jason Saab",
+        "DOB": "Sunday, 8th October, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "32835": {
+        "name": "Zac Woolford",
+        "DOB": "Friday, 9th August, 1996",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "32836": {
+        "name": "Junior Tupou",
+        "DOB": "Monday, 29th July, 2002"
+    },
+    "2120": {
+        "name": "Mickey Paea",
+        "DOB": "Tuesday, 25th March, 1986",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "2123": {
+        "name": "Thomas Leuluai",
+        "DOB": "Saturday, 22nd June, 1985",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22605": {
+        "name": "Adam Elliott",
+        "DOB": "Sunday, 16th October, 1994",
+        "POB": "Bega, New South Wales, Australia"
+    },
+    "22606": {
+        "name": "James Fisher-Harris",
+        "DOB": "Friday, 5th January, 1996",
+        "POB": "Rawene, Northland, New Zealand"
+    },
+    "22607": {
+        "name": "Josh Aloiai",
+        "DOB": "Saturday, 11th November, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22608": {
+        "name": "Nathaniel Roache",
+        "DOB": "Monday, 15th April, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22609": {
+        "name": "Latrell Mitchell",
+        "DOB": "Monday, 16th June, 1997",
+        "POB": "Taree, New South Wales, Australia"
+    },
+    "22610": {
+        "name": "Jayden Nikorima",
+        "DOB": "Saturday, 5th October, 1996",
+        "POB": "Palmerston North, Manawatu-Wanganui, New Zealand"
+    },
+    "20561": {
+        "name": "Luke Thompson",
+        "DOB": "Thursday, 27th April, 1995",
+        "POB": "St Helens, Merseyside, England"
+    },
+    "22612": {
+        "name": "Cody Walker",
+        "DOB": "Wednesday, 10th January, 1990",
+        "POB": "Nowra, New South Wales, Australia"
+    },
+    "22613": {
+        "name": "Zane Musgrove",
+        "DOB": "Tuesday, 26th March, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20562": {
+        "name": "Kruise Leeming",
+        "DOB": "Thursday, 7th September, 1995",
+        "POB": "Lobamba, Swaziland"
+    },
+    "22615": {
+        "name": "Leivaha Pulu",
+        "DOB": "Tuesday, 27th March, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22616": {
+        "name": "Jaelen Feeney",
+        "DOB": "Friday, 14th October, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20569": {
+        "name": "Dylan Napa",
+        "DOB": "Friday, 13th November, 1992",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20570": {
+        "name": "Corey Oates",
+        "DOB": "Thursday, 20th October, 1994",
+        "POB": "Biloela, Queensland, Australia"
+    },
+    "22619": {
+        "name": "Lachlan Croker",
+        "DOB": "Thursday, 12th December, 1996",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "20572": {
+        "name": "Hymel Hunt",
+        "DOB": "Sunday, 14th November, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22621": {
+        "name": "Cory Denniss",
+        "DOB": "Wednesday, 18th June, 1997",
+        "POB": "Belmont, New South Wales, Australia"
+    },
+    "22620": {
+        "name": "Curtis Scott",
+        "DOB": "Sunday, 12th October, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20575": {
+        "name": "Semi Radradra",
+        "DOB": "Saturday, 13th June, 1992",
+        "POB": "Suva, Central Division, Fiji"
+    },
+    "22624": {
+        "name": "Javid Bowen",
+        "DOB": "Tuesday, 30th March, 1993",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "20577": {
+        "name": "Kyle Feldt",
+        "DOB": "Sunday, 9th February, 1992",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "22623": {
+        "name": "Jazz Tevaga",
+        "DOB": "Monday, 4th September, 1995",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "20573": {
+        "name": "Charlie Gubb",
+        "DOB": "Thursday, 17th May, 1990",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "20580": {
+        "name": "Luke Brooks",
+        "DOB": "Wednesday, 21st December, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20581": {
+        "name": "Nathan Brown",
+        "DOB": "Monday, 1st March, 1993",
+        "POB": "Fairfield, New South Wales, Australia"
+    },
+    "22622": {
+        "name": "Te Maire Martin",
+        "DOB": "Monday, 2nd October, 1995",
+        "POB": "Tokoroa, Waikato, New Zealand"
+    },
+    "20583": {
+        "name": "Lachlan Burr",
+        "DOB": "Sunday, 27th September, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20584": {
+        "name": "Jayden Hodges",
+        "DOB": "Saturday, 9th October, 1993",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "20585": {
+        "name": "Clinton Gutherson",
+        "DOB": "Friday, 9th September, 1994",
+        "POB": "Mona Vale, New South Wales, Australia"
+    },
+    "20586": {
+        "name": "Jake Trbojevic",
+        "DOB": "Friday, 18th February, 1994",
+        "POB": "Mona Vale, New South Wales, Australia"
+    },
+    "107": {
+        "name": "Justin Hodges",
+        "DOB": "Tuesday, 25th May, 1982",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "20587": {
+        "name": "Kenny Edwards",
+        "DOB": "Wednesday, 13th September, 1989",
+        "POB": "Levin, Manawatu-Wanganui, New Zealand"
+    },
+    "108": {
+        "name": "Brent Tate",
+        "DOB": "Wednesday, 3rd March, 1982",
+        "POB": "Roma, Queensland, Australia"
+    },
+    "106": {
+        "name": "Karmichael Hunt",
+        "DOB": "Monday, 17th November, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "13861": {
+        "name": "Joel Romelo",
+        "DOB": "Monday, 3rd April, 1989",
+        "POB": "Darwin, Northern Territory, Australia"
+    },
+    "39025": {
+        "name": "Hugo Savala",
+        "DOB": "Monday, 8th April, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "53362": {
+        "name": "Moses Leo",
+        "DOB": "Monday, 11th August, 1997"
+    },
+    "116": {
+        "name": "Corey Parker",
+        "DOB": "Wednesday, 5th May, 1982",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "117": {
+        "name": "David Stagg",
+        "DOB": "Tuesday, 18th October, 1983",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "47242": {
+        "name": "Ethan Sanders",
+        "DOB": "Friday, 30th January, 2004"
+    },
+    "122": {
+        "name": "Sam Thaiday",
+        "DOB": "Wednesday, 12th June, 1985",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "125": {
+        "name": "Johnathan Thurston",
+        "DOB": "Monday, 25th April, 1983",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "47245": {
+        "name": "Blaize Talagi",
+        "DOB": "Wednesday, 16th March, 2005"
+    },
+    "31370": {
+        "name": "Samuel Loizou",
+        "DOB": "Wednesday, 25th December, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "47241": {
+        "name": "Lehi Hopoate",
+        "DOB": "Wednesday, 26th January, 2005"
+    },
+    "30858": {
+        "name": "Reece Walsh",
+        "DOB": "Wednesday, 10th July, 2002",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "30859": {
+        "name": "Rocco Berry",
+        "DOB": "Thursday, 17th May, 2001",
+        "POB": "Masterton, Wellington, New Zealand"
+    },
+    "28812": {
+        "name": "Peter Hola",
+        "DOB": "Tuesday, 27th April, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28813": {
+        "name": "Stephen Crichton",
+        "DOB": "Friday, 22nd September, 2000",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "28814": {
+        "name": "Matt Burton",
+        "DOB": "Tuesday, 14th March, 2000",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "28815": {
+        "name": "Spencer Leniu",
+        "DOB": "Friday, 8th September, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "30864": {
+        "name": "Edward Kosi",
+        "DOB": "Thursday, 28th January, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28817": {
+        "name": "Nicho Hynes",
+        "DOB": "Tuesday, 18th June, 1996",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "30866": {
+        "name": "Tuku Hau Tapuha",
+        "DOB": "Monday, 10th December, 2001",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "30867": {
+        "name": "Mathew Feagai",
+        "DOB": "Wednesday, 14th February, 2001",
+        "POB": "Hastings, Hawke's Bay, New Zealand"
+    },
+    "30868": {
+        "name": "Talatau Amone",
+        "DOB": "Wednesday, 10th April, 2002",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "148": {
+        "name": "Sonny Bill Williams",
+        "DOB": "Saturday, 3rd August, 1985",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28822": {
+        "name": "Tommy Talau",
+        "DOB": "Monday, 3rd April, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28816": {
+        "name": "Jackson Ford",
+        "DOB": "Tuesday, 17th February, 1998",
+        "POB": "Shellharbour, New South Wales, Australia"
+    },
+    "143": {
+        "name": "Braith Anasta",
+        "DOB": "Thursday, 14th January, 1982",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "153": {
+        "name": "Nate Myles",
+        "DOB": "Monday, 24th June, 1985",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "28823": {
+        "name": "Izaia Perese",
+        "DOB": "Saturday, 17th May, 1997",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "47250": {
+        "name": "Lachlan Galvin",
+        "DOB": "Thursday, 14th July, 2005"
+    },
+    "28828": {
+        "name": "Bradman Best",
+        "DOB": "Thursday, 9th August, 2001",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "28829": {
+        "name": "Tristan Sailor",
+        "DOB": "Tuesday, 23rd June, 1998",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20638": {
+        "name": "Kane Evans",
+        "DOB": "Thursday, 9th January, 1992",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "28830": {
+        "name": "Billy Smith",
+        "DOB": "Sunday, 7th November, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28831": {
+        "name": "Tanah Boyd",
+        "DOB": "Friday, 28th July, 2000",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "28832": {
+        "name": "Billy Burns",
+        "DOB": "Friday, 20th November, 1998",
+        "POB": "Parkes, New South Wales, Australia"
+    },
+    "28834": {
+        "name": "Sean Keppie",
+        "DOB": "Wednesday, 20th May, 1998",
+        "POB": "Camden, New South Wales, Australia"
+    },
+    "28835": {
+        "name": "Morgan Harper",
+        "DOB": "Friday, 28th August, 1998",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "14500": {
+        "name": "Corey Norman",
+        "DOB": "Sunday, 3rd February, 1991",
+        "POB": "Redcliffe, Queensland, Australia"
+    },
+    "20645": {
+        "name": "Nene Macdonald",
+        "DOB": "Wednesday, 11th May, 1994",
+        "POB": "Port Moresby, Central, Papua New Guinea"
+    },
+    "14502": {
+        "name": "Matt Gillett",
+        "DOB": "Friday, 12th August, 1988",
+        "POB": "Macksville, New South Wales, Australia"
+    },
+    "14501": {
+        "name": "Mitchell Dodds",
+        "DOB": "Monday, 3rd July, 1989",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "14504": {
+        "name": "Rory Kostjasyn",
+        "DOB": "Saturday, 6th June, 1987",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14505": {
+        "name": "Jesse Bromwich",
+        "DOB": "Wednesday, 3rd May, 1989",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14506": {
+        "name": "Aidan Guerra",
+        "DOB": "Thursday, 25th February, 1988",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "28836": {
+        "name": "Starford To'a",
+        "DOB": "Friday, 23rd June, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14508": {
+        "name": "Trent Hodkinson",
+        "DOB": "Wednesday, 31st August, 1988",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "14509": {
+        "name": "Brad Takairangi",
+        "DOB": "Wednesday, 14th June, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14510": {
+        "name": "Andrew Fifita",
+        "DOB": "Wednesday, 28th June, 1989",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "171": {
+        "name": "Manu Vatuvei",
+        "DOB": "Tuesday, 4th March, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14507": {
+        "name": "Albert Kelly",
+        "DOB": "Thursday, 21st March, 1991",
+        "POB": "Macksville, New South Wales, Australia"
+    },
+    "20657": {
+        "name": "Siliva Havili",
+        "DOB": "Thursday, 18th February, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14514": {
+        "name": "Siosaia Vave",
+        "DOB": "Saturday, 20th May, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13875": {
+        "name": "Bodene Thompson",
+        "DOB": "Friday, 8th January, 1988",
+        "POB": "Tauranga, Bay Of Plenty, New Zealand"
+    },
+    "14513": {
+        "name": "Justin Horo",
+        "DOB": "Sunday, 7th September, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "47254": {
+        "name": "Jaxon Purdue",
+        "DOB": "Tuesday, 26th July, 2005"
+    },
+    "30902": {
+        "name": "Jock Madden",
+        "DOB": "Tuesday, 7th March, 2000",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "30903": {
+        "name": "Jakob Arthur",
+        "DOB": "Friday, 27th September, 2002",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "30904": {
+        "name": "J'maine Hopgood",
+        "DOB": "Tuesday, 11th May, 1999",
+        "POB": "Hervey Bay, Queensland, Australia"
+    },
+    "30905": {
+        "name": "Heilum Luki",
+        "DOB": "Wednesday, 11th April, 2001",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "24761": {
+        "name": "Tevita 'Junior' Tatola",
+        "DOB": "Sunday, 10th November, 1996",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "30907": {
+        "name": "Jaiyden Hunt",
+        "DOB": "Monday, 20th July, 1998"
+    },
+    "16572": {
+        "name": "Jack Reed",
+        "DOB": "Friday, 15th July, 1988",
+        "POB": "Airedale, North Yorkshire, England"
+    },
+    "22717": {
+        "name": "Josh Addo-Carr",
+        "DOB": "Friday, 28th July, 1995",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "22716": {
+        "name": "Josh King",
+        "DOB": "Sunday, 12th February, 1995",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "24765": {
+        "name": "Sione Katoa",
+        "DOB": "Thursday, 21st August, 1997",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "14525": {
+        "name": "Dunamis Lui",
+        "DOB": "Friday, 16th February, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "30910": {
+        "name": "Kobe Hetherington",
+        "DOB": "Thursday, 11th March, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14527": {
+        "name": "Martin 'Kapow' Taupau",
+        "DOB": "Saturday, 3rd February, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22720": {
+        "name": "Connor Watson",
+        "DOB": "Friday, 31st May, 1996",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "30909": {
+        "name": "Joseph-Aukuso Sua'ali'i",
+        "DOB": "Friday, 1st August, 2003",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "22725": {
+        "name": "Clay Priest",
+        "DOB": "Sunday, 5th February, 1989",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "22718": {
+        "name": "JJ Collins",
+        "DOB": "Thursday, 15th February, 1996",
+        "POB": "Logan City, Queensland, Australia"
+    },
+    "14533": {
+        "name": "Gareth Widdop",
+        "DOB": "Sunday, 12th March, 1989",
+        "POB": "Halifax, West Yorkshire, England"
+    },
+    "22719": {
+        "name": "Suliasi Vunivalu",
+        "DOB": "Monday, 27th November, 1995",
+        "POB": "Suva, Central Division, Fiji"
+    },
+    "22727": {
+        "name": "Ryan Matterson",
+        "DOB": "Thursday, 13th October, 1994",
+        "POB": "Greenacre, New South Wales, Australia"
+    },
+    "16582": {
+        "name": "Daly Cherry-Evans",
+        "DOB": "Monday, 20th February, 1989",
+        "POB": "Redcliffe, Queensland, Australia"
+    },
+    "16583": {
+        "name": "Sam Williams",
+        "DOB": "Monday, 18th March, 1991",
+        "POB": "Cooma, New South Wales, Australia"
+    },
+    "26828": {
+        "name": "Scott Drinkwater",
+        "DOB": "Thursday, 15th May, 1997",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "16588": {
+        "name": "Aaron Woods",
+        "DOB": "Wednesday, 13th March, 1991",
+        "POB": "Leichhardt, New South Wales, Australia"
+    },
+    "14542": {
+        "name": "Michael Morgan",
+        "DOB": "Friday, 27th December, 1991",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "26829": {
+        "name": "Tom Starling",
+        "DOB": "Thursday, 4th June, 1998",
+        "POB": "Windsor, New South Wales, Australia"
+    },
+    "16592": {
+        "name": "Tariq Sims",
+        "DOB": "Friday, 9th February, 1990",
+        "POB": "Gerringong, New South Wales, Australia"
+    },
+    "22732": {
+        "name": "Jacob Host",
+        "DOB": "Monday, 30th September, 1996",
+        "POB": "Padstow, New South Wales, Australia"
+    },
+    "16594": {
+        "name": "Tim Lafai",
+        "DOB": "Monday, 27th May, 1991",
+        "POB": "Savai'i, Samoa"
+    },
+    "14546": {
+        "name": "Jamie Buhrer",
+        "DOB": "Tuesday, 28th November, 1989",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "16596": {
+        "name": "Tim Robinson",
+        "DOB": "Thursday, 10th March, 1988",
+        "POB": "Baulkham Hills, New South Wales, Australia"
+    },
+    "16593": {
+        "name": "Zak Hardaker",
+        "DOB": "Thursday, 17th October, 1991",
+        "POB": "Pontefract, West Yorkshire, England"
+    },
+    "14545": {
+        "name": "Nathan Gardner",
+        "DOB": "Tuesday, 3rd July, 1990",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22837": {
+        "name": "Josh Chudleigh",
+        "DOB": "Friday, 8th April, 1994",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "16595": {
+        "name": "Daniel Harrison",
+        "DOB": "Friday, 15th April, 1988",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "53457": {
+        "name": "Tyrone Thompson",
+        "DOB": "Sunday, 28th May, 2000"
+    },
+    "14554": {
+        "name": "Kalifa Faifai Loa",
+        "DOB": "Monday, 29th January, 1990",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "14555": {
+        "name": "Jake Marketo",
+        "DOB": "Friday, 17th February, 1989",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "22748": {
+        "name": "Jack Cogger",
+        "DOB": "Tuesday, 5th August, 1997",
+        "POB": "Greenacre, New South Wales, Australia"
+    },
+    "22749": {
+        "name": "Jai Arrow",
+        "DOB": "Wednesday, 12th July, 1995",
+        "POB": "Fairfield, Queensland, Australia"
+    },
+    "22750": {
+        "name": "Jack Gosiewski",
+        "DOB": "Sunday, 29th May, 1994",
+        "POB": "Murwillumbah, New South Wales, Australia"
+    },
+    "22751": {
+        "name": "Justin Olam",
+        "DOB": "Thursday, 23rd December, 1993",
+        "POB": "Gon Village, Simbu, Papua New Guinea"
+    },
+    "14553": {
+        "name": "Kyle Stanley",
+        "DOB": "Tuesday, 2nd April, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22757": {
+        "name": "Sitiveni Moceidreke",
+        "DOB": "Sunday, 27th November, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22759": {
+        "name": "Ben Nakubuwai",
+        "DOB": "Friday, 15th March, 1996",
+        "POB": "Leeton, New South Wales, Australia"
+    },
+    "20712": {
+        "name": "Corey Thompson",
+        "DOB": "Tuesday, 15th May, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20713": {
+        "name": "Isaah Yeo",
+        "DOB": "Sunday, 6th November, 1994",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "20714": {
+        "name": "Matthew Allwood",
+        "DOB": "Monday, 16th November, 1992",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "22763": {
+        "name": "Erin Clark",
+        "DOB": "Saturday, 6th September, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20716": {
+        "name": "Manu Ma'u",
+        "DOB": "Wednesday, 24th August, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20717": {
+        "name": "Paul Carter",
+        "DOB": "Saturday, 23rd May, 1992",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "22760": {
+        "name": "Tui Kamikamica",
+        "DOB": "Wednesday, 18th May, 1994",
+        "POB": "Somosomo, Taveuni, Fiji"
+    },
+    "20718": {
+        "name": "Samuel Hoare",
+        "DOB": "Monday, 12th August, 1991",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "20720": {
+        "name": "Matt Minto",
+        "DOB": "Tuesday, 18th December, 1990",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "22843": {
+        "name": "Jonus Pearson",
+        "DOB": "Sunday, 28th May, 1995",
+        "POB": "Thursday Island, Queensland, Australia"
+    },
+    "20722": {
+        "name": "David Fifita",
+        "DOB": "Wednesday, 28th June, 1989",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "22771": {
+        "name": "Jaydn Su'A",
+        "DOB": "Thursday, 23rd October, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22772": {
+        "name": "Tevita Pangai Junior",
+        "DOB": "Sunday, 4th February, 1996",
+        "POB": "Ashfield, New South Wales, Australia"
+    },
+    "22773": {
+        "name": "Reimis Smith",
+        "DOB": "Tuesday, 13th May, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22774": {
+        "name": "Bevan French",
+        "DOB": "Thursday, 4th January, 1996",
+        "POB": "Tingha, New South Wales, Australia"
+    },
+    "22775": {
+        "name": "Siosifa Talakai",
+        "DOB": "Friday, 18th April, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22776": {
+        "name": "Nathan Cleary",
+        "DOB": "Friday, 14th November, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22777": {
+        "name": "Moses Leota",
+        "DOB": "Thursday, 20th July, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20721": {
+        "name": "Michael Lichaa",
+        "DOB": "Sunday, 18th July, 1993",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "22779": {
+        "name": "Joseph Manu",
+        "DOB": "Saturday, 29th June, 1996",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "22780": {
+        "name": "Christopher Smith",
+        "DOB": "Sunday, 16th January, 1994",
+        "POB": "Darwin, Northern Territory, Australia"
+    },
+    "22781": {
+        "name": "Liam Knight",
+        "DOB": "Sunday, 15th January, 1995",
+        "POB": "Alice Springs, Northern Territory, Australia"
+    },
+    "22778": {
+        "name": "Brodie Croft",
+        "DOB": "Monday, 14th July, 1997",
+        "POB": "Dalby, Queensland, Australia"
+    },
+    "22782": {
+        "name": "Ed Murphy",
+        "DOB": "Thursday, 22nd October, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22784": {
+        "name": "Tom Opacic",
+        "DOB": "Wednesday, 7th September, 1994",
+        "POB": "Redcliffe, Queensland, Australia"
+    },
+    "22783": {
+        "name": "Tautalatasi Tasi",
+        "DOB": "Tuesday, 22nd November, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20738": {
+        "name": "Nathaniel Neale",
+        "DOB": "Friday, 16th September, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22846": {
+        "name": "Dylan Phythian",
+        "DOB": "Saturday, 19th August, 1995",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20739": {
+        "name": "Tony Satini",
+        "DOB": "Sunday, 29th August, 1993",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "30986": {
+        "name": "TC Robati",
+        "DOB": "Wednesday, 14th November, 2001",
+        "POB": "Porirua, Wellington, New Zealand"
+    },
+    "30987": {
+        "name": "Egan Butcher",
+        "DOB": "Saturday, 5th August, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22796": {
+        "name": "Karl Lawton",
+        "DOB": "Wednesday, 29th November, 1995",
+        "POB": "Murwillumbah, New South Wales, Australia"
+    },
+    "22795": {
+        "name": "Bunty Afoa",
+        "DOB": "Tuesday, 20th August, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "30988": {
+        "name": "Franklin Pele",
+        "DOB": "Monday, 18th December, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "30989": {
+        "name": "Ben Trbojevic",
+        "DOB": "Wednesday, 1st August, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "44829": {
+        "name": "Matthew Arthur",
+        "DOB": "Friday, 4th February, 2005"
+    },
+    "271": {
+        "name": "Brad Tighe",
+        "DOB": "Thursday, 5th April, 1984",
+        "POB": "Moree, New South Wales, Australia"
+    },
+    "22848": {
+        "name": "William Bainbridge",
+        "DOB": "Tuesday, 9th September, 1997",
+        "POB": "Cromer, New South Wales, Australia"
+    },
+    "275": {
+        "name": "Kurt Gidley",
+        "DOB": "Monday, 7th June, 1982",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "44830": {
+        "name": "Sam Tuivaiti",
+        "DOB": "Thursday, 17th February, 2005"
+    },
+    "22806": {
+        "name": "Jacob Liddle",
+        "DOB": "Sunday, 27th October, 1996",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "22807": {
+        "name": "Dylan Edwards",
+        "DOB": "Wednesday, 10th January, 1996",
+        "POB": "Albury, New South Wales, Australia"
+    },
+    "280": {
+        "name": "Kade Snowden",
+        "DOB": "Wednesday, 31st December, 1986",
+        "POB": "Belmont, New South Wales, Australia"
+    },
+    "22808": {
+        "name": "Kurt Capewell",
+        "DOB": "Monday, 12th July, 1993",
+        "POB": "Charleville, Queensland, Australia"
+    },
+    "16662": {
+        "name": "James 'Chicko' Segeyaro",
+        "DOB": "Sunday, 11th November, 1990",
+        "POB": "Goroka, Eastern Highlands, Papua New Guinea"
+    },
+    "286": {
+        "name": "Matthew White",
+        "DOB": "Thursday, 17th May, 1984",
+        "POB": "Inverell, New South Wales, Australia"
+    },
+    "288": {
+        "name": "David Simmons",
+        "DOB": "Thursday, 6th December, 1984",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "30865": {
+        "name": "Zac Cini",
+        "DOB": "Wednesday, 24th May, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "39203": {
+        "name": "Tyrone Munro",
+        "DOB": "Sunday, 26th December, 2004"
+    },
+    "33065": {
+        "name": "Ezra Mam",
+        "DOB": "Friday, 31st January, 2003",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33066": {
+        "name": "Michael Molo",
+        "DOB": "Friday, 7th February, 1997",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "33067": {
+        "name": "Terrell May",
+        "DOB": "Thursday, 29th April, 1999",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "33068": {
+        "name": "Lachlan Miller",
+        "DOB": "Sunday, 14th August, 1994",
+        "POB": "Coffs Harbour, New South Wales, Australia"
+    },
+    "299": {
+        "name": "Paul Gallen",
+        "DOB": "Friday, 14th August, 1981",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "303": {
+        "name": "Greg Bird",
+        "DOB": "Friday, 10th February, 1984",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "28981": {
+        "name": "Klese Haas",
+        "DOB": "Saturday, 2nd March, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20790": {
+        "name": "Pauli Pauli",
+        "DOB": "Thursday, 4th August, 1994",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "22839": {
+        "name": "Brad Parker",
+        "DOB": "Wednesday, 19th February, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22840": {
+        "name": "Angus Crichton",
+        "DOB": "Monday, 5th February, 1996",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "312": {
+        "name": "Benji Marshall",
+        "DOB": "Monday, 25th February, 1985",
+        "POB": "Whakatane, Bay of Plenty, New Zealand"
+    },
+    "22841": {
+        "name": "Luciano Leilua",
+        "DOB": "Saturday, 8th June, 1996",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "311": {
+        "name": "Pat Richards",
+        "DOB": "Saturday, 27th February, 1982",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "22844": {
+        "name": "Ata Hingano",
+        "DOB": "Tuesday, 11th March, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20794": {
+        "name": "Dallin Watene-Zelezniak",
+        "DOB": "Thursday, 17th August, 1995",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "20008": {
+        "name": "Adam Docker",
+        "DOB": "Monday, 21st January, 1991",
+        "POB": "Shellharbour, New South Wales, Australia"
+    },
+    "22847": {
+        "name": "Nat Butcher",
+        "DOB": "Friday, 25th July, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "319": {
+        "name": "Robbie Farah",
+        "DOB": "Monday, 23rd January, 1984",
+        "POB": "Canterbury, New South Wales, Australia"
+    },
+    "320": {
+        "name": "Dene Halatau",
+        "DOB": "Thursday, 27th January, 1983",
+        "POB": "Invercargill, Southland, New Zealand"
+    },
+    "20802": {
+        "name": "Alex Johnston",
+        "DOB": "Saturday, 14th January, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20803": {
+        "name": "Moses Mbye",
+        "DOB": "Friday, 13th August, 1993",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "324": {
+        "name": "Luke Lewis",
+        "DOB": "Thursday, 11th August, 1983",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20801": {
+        "name": "Jake Mamo",
+        "DOB": "Monday, 6th June, 1994",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "20799": {
+        "name": "Kurtis Rowe",
+        "DOB": "Friday, 12th November, 1993",
+        "POB": "Taranaki, Taranaki, New Zealand"
+    },
+    "20010": {
+        "name": "Blake Leary",
+        "DOB": "Tuesday, 4th December, 1990",
+        "POB": "Mona Vale, New South Wales, Australia"
+    },
+    "20804": {
+        "name": "Jack Littlejohn",
+        "DOB": "Friday, 8th November, 1991",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "35142": {
+        "name": "Alofiana Khan-Pereira",
+        "DOB": "Thursday, 1st November, 2001",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "35137": {
+        "name": "Iszac Fa'asuamaleaui",
+        "DOB": "Saturday, 1st December, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "322": {
+        "name": "Bryce Gibbs",
+        "DOB": "Sunday, 11th November, 1984",
+        "POB": "Camden, New South Wales, Australia"
+    },
+    "13904": {
+        "name": "Kevin Locke",
+        "DOB": "Tuesday, 4th April, 1989",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "47437": {
+        "name": "Luron Patea",
+        "DOB": "Saturday, 27th November, 2004"
+    },
+    "35147": {
+        "name": "Josh Rogers",
+        "DOB": "Tuesday, 11th June, 1996",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "20817": {
+        "name": "Joseph Tapine",
+        "DOB": "Wednesday, 4th May, 1994",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "33446": {
+        "name": "Jonathon Reuben",
+        "DOB": "Wednesday, 10th March, 1993",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "35156": {
+        "name": "Tristan Hope",
+        "DOB": "Friday, 16th May, 1997",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "39254": {
+        "name": "Ryley Smith",
+        "DOB": "Friday, 21st February, 2003",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35162": {
+        "name": "Harrison Graham",
+        "DOB": "Tuesday, 11th September, 2001",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "20827": {
+        "name": "Francis Molo",
+        "DOB": "Saturday, 3rd September, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "35163": {
+        "name": "Taine Tuaupiki",
+        "DOB": "Tuesday, 31st August, 1999",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "2397": {
+        "name": "James 'Jammer' Graham",
+        "DOB": "Tuesday, 10th September, 1985",
+        "POB": "Liverpool, Merseyside, England"
+    },
+    "20830": {
+        "name": "John Asiata",
+        "DOB": "Monday, 19th April, 1993",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "20831": {
+        "name": "Cameron Munster",
+        "DOB": "Tuesday, 13th September, 1994",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "20829": {
+        "name": "Bryce Cartwright",
+        "DOB": "Tuesday, 15th November, 1994",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "20828": {
+        "name": "Shane Pumipi",
+        "DOB": "Friday, 13th April, 1990",
+        "POB": "Dargaville, Northland, New Zealand"
+    },
+    "20834": {
+        "name": "Jacob Gagan",
+        "DOB": "Thursday, 25th March, 1993",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "20835": {
+        "name": "Fa'amanu 'Nu' Brown",
+        "DOB": "Saturday, 24th December, 1994",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "35164": {
+        "name": "Tony Francis",
+        "DOB": "Tuesday, 24th December, 2002"
+    },
+    "51552": {
+        "name": "Jermaine McEwen",
+        "DOB": "Wednesday, 6th April, 2005"
+    },
+    "20838": {
+        "name": "Brenko Lee",
+        "DOB": "Tuesday, 10th October, 1995",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "31079": {
+        "name": "Selwyn Cobbo",
+        "DOB": "Wednesday, 5th June, 2002",
+        "POB": "Cherbourg, Queensland, Australia"
+    },
+    "20839": {
+        "name": "Lloyd Perrett",
+        "DOB": "Saturday, 17th December, 1994",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "31081": {
+        "name": "Izack Tago",
+        "DOB": "Friday, 5th April, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31082": {
+        "name": "Jayden Campbell",
+        "DOB": "Monday, 7th February, 2000",
+        "POB": "Cronulla, New South Wales, Australia"
+    },
+    "31083": {
+        "name": "Greg Marzhew",
+        "DOB": "Friday, 4th April, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31084": {
+        "name": "Mat Croker",
+        "DOB": "Saturday, 11th September, 1999",
+        "POB": "Nabiac, New South Wales, Australia"
+    },
+    "31080": {
+        "name": "Lindsay Smith",
+        "DOB": "Thursday, 13th January, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "37230": {
+        "name": "Jesse McLean",
+        "DOB": "Monday, 17th January, 2005",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "35180": {
+        "name": "Sean Mullany",
+        "DOB": "Friday, 27th August, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20848": {
+        "name": "Ben Spina",
+        "DOB": "Tuesday, 26th April, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "37232": {
+        "name": "Karl Oloapu",
+        "DOB": "Tuesday, 18th January, 2005",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "20850": {
+        "name": "Brendan Elliot",
+        "DOB": "Saturday, 1st January, 1994",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20851": {
+        "name": "Mitchell Moses",
+        "DOB": "Saturday, 17th September, 1994",
+        "POB": "Ryde, New South Wales, Australia"
+    },
+    "20852": {
+        "name": "Matt Lodge",
+        "DOB": "Wednesday, 31st May, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20853": {
+        "name": "Tom Kingston",
+        "DOB": "Tuesday, 3rd May, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "37236": {
+        "name": "Ali Leiataua",
+        "DOB": "Thursday, 9th January, 2003",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "16759": {
+        "name": "Tinirau Arona",
+        "DOB": "Monday, 8th May, 1989",
+        "POB": "Dunedin, Otago, New Zealand"
+    },
+    "37234": {
+        "name": "Samuela Fainu",
+        "DOB": "Monday, 12th January, 2004",
+        "POB": "Guildford, New South Wales, Australia"
+    },
+    "37241": {
+        "name": "Thomas Cant",
+        "DOB": "Thursday, 13th June, 2002",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "37238": {
+        "name": "Demitric Vaimauga",
+        "DOB": "Monday, 15th March, 2004",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "47294": {
+        "name": "Fletcher Sharpe",
+        "DOB": "Monday, 3rd May, 2004",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "20861": {
+        "name": "Ryan Sutton",
+        "DOB": "Wednesday, 2nd August, 1995",
+        "POB": "Billinge, Merseyside, England"
+    },
+    "37246": {
+        "name": "Gordon Chan Kum Tong",
+        "DOB": "Thursday, 3rd January, 2002",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "8575": {
+        "name": "Jayson Bukuya",
+        "DOB": "Friday, 21st April, 1989",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20864": {
+        "name": "Tepai Moeroa",
+        "DOB": "Monday, 2nd October, 1995",
+        "POB": "Avarua, Cook Islands"
+    },
+    "37248": {
+        "name": "Jahream Bula",
+        "DOB": "Wednesday, 30th January, 2002",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20866": {
+        "name": "Sione Mata'utia",
+        "DOB": "Tuesday, 25th June, 1996",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "20867": {
+        "name": "Tui Lolohea",
+        "DOB": "Monday, 23rd January, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20865": {
+        "name": "Agnatius Paasi",
+        "DOB": "Saturday, 30th November, 1991",
+        "POB": "Tonga"
+    },
+    "20869": {
+        "name": "Valentine Holmes",
+        "DOB": "Monday, 24th July, 1995",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "20863": {
+        "name": "Tyson Andrews",
+        "DOB": "Tuesday, 6th February, 1990",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "20837": {
+        "name": "Caleb Binge",
+        "DOB": "Friday, 29th October, 1993",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "20836": {
+        "name": "Willis Meehan",
+        "DOB": "Monday, 11th September, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "45449": {
+        "name": "Caleb Navale",
+        "DOB": "Thursday, 8th May, 2003"
+    },
+    "20879": {
+        "name": "Jy Hitchcox",
+        "DOB": "Friday, 18th August, 1989",
+        "POB": "Byron Bay, New South Wales, Australia"
+    },
+    "20880": {
+        "name": "Junior Paulo",
+        "DOB": "Saturday, 20th November, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "35222": {
+        "name": "Trai Fuller",
+        "DOB": "Tuesday, 8th April, 1997",
+        "POB": "Monto, Queensland, Australia"
+    },
+    "35495": {
+        "name": "Eli Clark",
+        "DOB": "2002"
+    },
+    "20892": {
+        "name": "Sione Masima",
+        "DOB": "Wednesday, 24th February, 1993",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "20893": {
+        "name": "Scott Sorensen",
+        "DOB": "Tuesday, 16th March, 1993",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "2462": {
+        "name": "Feleti Mateo",
+        "DOB": "Saturday, 2nd June, 1984",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "37277": {
+        "name": "Zyon Maiu'u",
+        "DOB": "Sunday, 29th June, 2003"
+    },
+    "35232": {
+        "name": "Jack Howarth",
+        "DOB": "Tuesday, 22nd October, 2002",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "35233": {
+        "name": "Will Warbrick",
+        "DOB": "Wednesday, 3rd June, 1998",
+        "POB": "Kawerau, Bay of Plenty, New Zealand"
+    },
+    "20894": {
+        "name": "Jeremy Hawkins",
+        "DOB": "Saturday, 15th May, 1993",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "35240": {
+        "name": "Lazarus Vaalepu",
+        "DOB": "Friday, 19th March, 1999",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "24102": {
+        "name": "Adam Doueihi",
+        "DOB": "Wednesday, 5th August, 1998",
+        "POB": "Eastwood, New South Wales, Australia"
+    },
+    "20913": {
+        "name": "Kierran Moseley",
+        "DOB": "Saturday, 14th May, 1994",
+        "POB": "Cloncurry, Queensland, Australia"
+    },
+    "20912": {
+        "name": "Patrice Siolo",
+        "DOB": "Wednesday, 23rd February, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20914": {
+        "name": "Asipeli Fine",
+        "DOB": "Monday, 26th October, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "39348": {
+        "name": "Tallyn Da Silva",
+        "DOB": "Wednesday, 20th April, 2005"
+    },
+    "22966": {
+        "name": "Kalyn Ponga",
+        "DOB": "Monday, 30th March, 1998",
+        "POB": "Port Hedland, Western Australia, Australia"
+    },
+    "29112": {
+        "name": "Tesi Niu",
+        "DOB": "Saturday, 11th August, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "35258": {
+        "name": "Bronson Garlick",
+        "DOB": "Tuesday, 19th December, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20926": {
+        "name": "Jackson Hastings",
+        "DOB": "Thursday, 4th January, 1996",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "20927": {
+        "name": "Michael Chee-Kam",
+        "DOB": "Wednesday, 26th February, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20849": {
+        "name": "Zac Santo",
+        "DOB": "Thursday, 8th April, 1993",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "31170": {
+        "name": "Kurt De Luis",
+        "DOB": "Sunday, 18th February, 1996",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "33219": {
+        "name": "Thomas Hazelton",
+        "DOB": "Friday, 22nd January, 1999",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "31171": {
+        "name": "Ben Thomas",
+        "DOB": "Wednesday, 10th December, 1997"
+    },
+    "37313": {
+        "name": "Thomas Duffy",
+        "DOB": "Tuesday, 22nd July, 2003",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "35266": {
+        "name": "Ethan Quai-Ward",
+        "DOB": "Wednesday, 18th August, 1999",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "37321": {
+        "name": "Keano Kini",
+        "DOB": "Wednesday, 14th April, 2004",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "37323": {
+        "name": "Jaylan De Groot",
+        "DOB": "Thursday, 9th January, 2003"
+    },
+    "22989": {
+        "name": "Marcelo Montoya",
+        "DOB": "Saturday, 17th February, 1996",
+        "POB": "Lautoka, Viti Levu, Fiji"
+    },
+    "22991": {
+        "name": "Pio Seci",
+        "DOB": "Thursday, 19th August, 1993",
+        "POB": "Suva, Central Division, Fiji"
+    },
+    "22074": {
+        "name": "Makahesi Makatoa",
+        "DOB": "Saturday, 30th January, 1993",
+        "POB": "New Plymouth, Taranaki, New Zealand"
+    },
+    "35288": {
+        "name": "Lachlan Hubner",
+        "DOB": "Monday, 3rd January, 2000",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "35296": {
+        "name": "Riley Price",
+        "DOB": "Thursday, 7th June, 2001",
+        "POB": "Hurstville, New South Wales, Australia"
+    },
+    "16868": {
+        "name": "Josh Mansour",
+        "DOB": "Sunday, 17th June, 1990",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35301": {
+        "name": "Brayden McGrady",
+        "DOB": "Friday, 13th December, 1996",
+        "POB": "Goondiwindi, Queensland, Australia"
+    },
+    "24113": {
+        "name": "Lachlan Lam",
+        "DOB": "Wednesday, 25th March, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "26149": {
+        "name": "Renouf Atoni",
+        "DOB": "Sunday, 25th June, 1995",
+        "POB": "Porirua, Wellington, New Zealand"
+    },
+    "35310": {
+        "name": "Max Plath",
+        "DOB": "Wednesday, 3rd October, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "26150": {
+        "name": "AJ Brimson",
+        "DOB": "Wednesday, 9th September, 1998",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "7833": {
+        "name": "Chris Sandow",
+        "DOB": "Monday, 9th January, 1989",
+        "POB": "Kingaroy, Queensland, Australia"
+    },
+    "26151": {
+        "name": "Tom Wright",
+        "DOB": "Monday, 21st July, 1997",
+        "POB": "Randwick, New South Wales, Australia"
+    },
+    "16887": {
+        "name": "Nathan Peats",
+        "DOB": "Friday, 5th October, 1990",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "16888": {
+        "name": "Elijah Taylor",
+        "DOB": "Tuesday, 27th February, 1990",
+        "POB": "Hawera, Taranaki, New Zealand"
+    },
+    "16889": {
+        "name": "Thomas Burgess",
+        "DOB": "Tuesday, 21st April, 1992",
+        "POB": "Dewsbury, West Yorkshire, England"
+    },
+    "35322": {
+        "name": "Solomona Faataape",
+        "DOB": "Monday, 25th December, 2000"
+    },
+    "26154": {
+        "name": "Joseph Vuna",
+        "DOB": "Friday, 31st July, 1998",
+        "POB": "Alameda County, California, United States of America"
+    },
+    "35337": {
+        "name": "Blake Wilson",
+        "DOB": "Saturday, 19th August, 2000",
+        "POB": "Sunshine Coast, Queensland, Australia"
+    },
+    "26157": {
+        "name": "Harry Grant",
+        "DOB": "Tuesday, 17th February, 1998",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "31263": {
+        "name": "Blake Taaffe",
+        "DOB": "Wednesday, 21st April, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31264": {
+        "name": "Taniela Otukolo",
+        "DOB": "Wednesday, 22nd May, 2002"
+    },
+    "31265": {
+        "name": "Tyrell Sloan",
+        "DOB": "Monday, 3rd June, 2002",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "31266": {
+        "name": "Xavier Savage",
+        "DOB": "Wednesday, 24th April, 2002",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "26160": {
+        "name": "Matt Ikuvalu",
+        "DOB": "Tuesday, 9th November, 1993",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "31267": {
+        "name": "Sean Russell",
+        "DOB": "Monday, 27th May, 2002",
+        "POB": "Windsor, New South Wales, Australia"
+    },
+    "37436": {
+        "name": "Jack Bostock",
+        "DOB": "Thursday, 28th August, 2003",
+        "POB": "Figtree, New South Wales, Australia"
+    },
+    "35390": {
+        "name": "Sualauvi Fa'alogo",
+        "DOB": "Wednesday, 19th March, 2003",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "37441": {
+        "name": "Ryan Couchman",
+        "DOB": "Tuesday, 16th September, 2003",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "35402": {
+        "name": "Valynce Te Whare",
+        "DOB": "Friday, 15th September, 2000",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "35406": {
+        "name": "Blake Mozer",
+        "DOB": "Sunday, 2nd May, 2004",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "35408": {
+        "name": "Yee-Huang Tonumaipe'a",
+        "DOB": "Sunday, 6th September, 1992",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "35410": {
+        "name": "Zac Laybutt",
+        "DOB": "Wednesday, 16th January, 2002",
+        "POB": "Bundaberg, Queensland, Australia"
+    },
+    "35412": {
+        "name": "Jonah Pezet",
+        "DOB": "Friday, 17th January, 2003",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "28207": {
+        "name": "Corey Allan",
+        "DOB": "Sunday, 19th April, 1998",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "23134": {
+        "name": "Jordan Grant",
+        "DOB": "Monday, 15th August, 1994",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "35425": {
+        "name": "Thomas Weaver",
+        "DOB": "Thursday, 20th February, 2003",
+        "POB": "Tugun, Queensland, Australia"
+    },
+    "28208": {
+        "name": "Adam Keighran",
+        "DOB": "Thursday, 24th April, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35426": {
+        "name": "Benjamin Te Kura",
+        "DOB": "Saturday, 10th April, 2004",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "35429": {
+        "name": "Sione Finau",
+        "DOB": "Friday, 29th March, 2002"
+    },
+    "31334": {
+        "name": "Falakiko Manu",
+        "DOB": "Sunday, 11th May, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "35431": {
+        "name": "Kulikefu Finefeuiaki",
+        "DOB": "Sunday, 21st December, 2003",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28209": {
+        "name": "Thomas Mikaele",
+        "DOB": "Sunday, 11th January, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31336": {
+        "name": "Chris Patolo",
+        "DOB": "Monday, 23rd July, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31338": {
+        "name": "Tukimihia Simpkins",
+        "DOB": "Monday, 24th December, 2001",
+        "POB": "Rotorua, Bay of Plenty, New Zealand"
+    },
+    "31339": {
+        "name": "Will Penisini",
+        "DOB": "Wednesday, 31st July, 2002",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "28210": {
+        "name": "Reuben Garrick",
+        "DOB": "Monday, 30th June, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31341": {
+        "name": "Toby Sexton",
+        "DOB": "Thursday, 1st March, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "31337": {
+        "name": "Junior Pauga",
+        "DOB": "Saturday, 3rd February, 1996",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "31335": {
+        "name": "Bailey Biondi-Odo",
+        "DOB": "Thursday, 6th December, 2001"
+    },
+    "30246": {
+        "name": "Kai Pearce-Paul",
+        "DOB": "Monday, 19th February, 2001",
+        "POB": "Bromley, Kent, England"
+    },
+    "31345": {
+        "name": "Viliami Vailea",
+        "DOB": "Sunday, 17th November, 2002"
+    },
+    "31346": {
+        "name": "Kelma Tuilagi",
+        "DOB": "Tuesday, 16th February, 1999",
+        "POB": "Samoa"
+    },
+    "31347": {
+        "name": "Xavier Willison",
+        "DOB": "Friday, 2nd August, 2002",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "31348": {
+        "name": "Davvy Moale",
+        "DOB": "Sunday, 23rd March, 2003",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "31349": {
+        "name": "Luke Metcalf",
+        "DOB": "Monday, 1st March, 1999",
+        "POB": "Coffs Harbour, New South Wales, Australia"
+    },
+    "31350": {
+        "name": "Will Pryce",
+        "DOB": "Thursday, 5th December, 2002",
+        "POB": "Bradford, West Yorkshire, England"
+    },
+    "31351": {
+        "name": "Elijah Anderson",
+        "DOB": "Sunday, 3rd January, 1999"
+    },
+    "31352": {
+        "name": "Taylan May",
+        "DOB": "Sunday, 19th August, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31353": {
+        "name": "Naufahu Whyte",
+        "DOB": "Thursday, 4th April, 2002",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31354": {
+        "name": "Jeremiah Nanai",
+        "DOB": "Tuesday, 18th February, 2003",
+        "POB": "Henderson, Auckland, New Zealand"
+    },
+    "31355": {
+        "name": "Griffin Neame",
+        "DOB": "Thursday, 1st March, 2001",
+        "POB": "Greymouth, West Coast, New Zealand"
+    },
+    "33403": {
+        "name": "Trey Mooney",
+        "DOB": "Saturday, 4th May, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33402": {
+        "name": "Kurt Falls",
+        "DOB": "Tuesday, 13th August, 1996",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "30247": {
+        "name": "Lewis Dodd",
+        "DOB": "Sunday, 27th January, 2002"
+    },
+    "31356": {
+        "name": "Jackson Frei",
+        "DOB": "Tuesday, 27th January, 1998",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "31365": {
+        "name": "Jirah Momoisea",
+        "DOB": "Wednesday, 2nd September, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31366": {
+        "name": "Laitia Moceidreke",
+        "DOB": "Wednesday, 6th September, 2000",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "31367": {
+        "name": "Moala Graham-Taufa",
+        "DOB": "Friday, 22nd February, 2002",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31368": {
+        "name": "Brendan Piakura",
+        "DOB": "Thursday, 16th May, 2002",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "31369": {
+        "name": "Daniel Atkinson",
+        "DOB": "Monday, 15th January, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "35465": {
+        "name": "Brendan Hands",
+        "DOB": "Friday, 12th February, 1999",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "35467": {
+        "name": "Dan Keir",
+        "DOB": "Thursday, 12th March, 1998",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "31372": {
+        "name": "Lachlan Ilias",
+        "DOB": "Tuesday, 9th May, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31371": {
+        "name": "Ky Rodwell",
+        "DOB": "Monday, 21st June, 1999",
+        "POB": "Bega, New South Wales, Australia"
+    },
+    "14990": {
+        "name": "Dean Whare",
+        "DOB": "Monday, 22nd January, 1990",
+        "POB": "Rotorua, Bay of Plenty, New Zealand"
+    },
+    "47752": {
+        "name": "Jordan Miller",
+        "DOB": "Monday, 7th February, 2005",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "27280": {
+        "name": "Peter Mamouzelos",
+        "DOB": "Tuesday, 9th January, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "27281": {
+        "name": "Billy Magoulias",
+        "DOB": "Thursday, 23rd January, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14994": {
+        "name": "Joey 'BJ' Leilua",
+        "DOB": "Thursday, 12th December, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35472": {
+        "name": "Jayden Berrell",
+        "DOB": "Wednesday, 14th June, 1995",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "35476": {
+        "name": "Samuel Stonestreet",
+        "DOB": "Monday, 8th July, 2002"
+    },
+    "14988": {
+        "name": "Jake Foster",
+        "DOB": "Wednesday, 5th October, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14998": {
+        "name": "William Hopoate",
+        "DOB": "Saturday, 9th May, 1992",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "47350": {
+        "name": "Solomon Alaimalo",
+        "DOB": "Wednesday, 27th December, 1995"
+    },
+    "35481": {
+        "name": "Jordan Martin",
+        "DOB": "Monday, 27th March, 2000",
+        "POB": "Casino, New South Wales, Australia"
+    },
+    "35485": {
+        "name": "Jacob Gagai",
+        "DOB": "Wednesday, 20th December, 1995"
+    },
+    "35490": {
+        "name": "Jake Tago",
+        "DOB": "Wednesday, 10th February, 1999",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "17060": {
+        "name": "Tyrone Roberts",
+        "DOB": "Saturday, 1st June, 1991",
+        "POB": "Grafton, New South Wales, Australia"
+    },
+    "17061": {
+        "name": "James Roberts",
+        "DOB": "Wednesday, 3rd March, 1993",
+        "POB": "Kempsey, New South Wales, Australia"
+    },
+    "2725": {
+        "name": "Jeremy Smith",
+        "DOB": "Monday, 14th April, 1980",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "35492": {
+        "name": "Josiah Karapani",
+        "DOB": "Saturday, 19th January, 2002"
+    },
+    "33447": {
+        "name": "Grant Anderson",
+        "DOB": "Saturday, 30th October, 1999",
+        "POB": "Fremantle, Western Australia, Australia"
+    },
+    "33449": {
+        "name": "Kurtis Morrin",
+        "DOB": "Friday, 17th March, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33450": {
+        "name": "Jayden Tanner",
+        "DOB": "Tuesday, 25th July, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "15019": {
+        "name": "Ryan James",
+        "DOB": "Saturday, 20th July, 1991",
+        "POB": "Tweed Heads, New South Wales, Australia"
+    },
+    "15020": {
+        "name": "Justin O'Neill",
+        "DOB": "Thursday, 4th April, 1991",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "15021": {
+        "name": "Robbie Rochow",
+        "DOB": "Wednesday, 22nd August, 1990",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "15022": {
+        "name": "Kane Linnett",
+        "DOB": "Wednesday, 11th January, 1989",
+        "POB": "Shellharbour, New South Wales, Australia"
+    },
+    "15023": {
+        "name": "Joel Edwards",
+        "DOB": "Sunday, 17th July, 1988",
+        "POB": "Cessnock, New South Wales, Australia"
+    },
+    "33451": {
+        "name": "Sosefo Fifita",
+        "DOB": "Wednesday, 8th January, 2003",
+        "POB": "Dunedin, Otago, New Zealand"
+    },
+    "35499": {
+        "name": "Trent Toelau",
+        "DOB": "Friday, 12th November, 1999"
+    },
+    "33452": {
+        "name": "Ronald Volkman",
+        "DOB": "Thursday, 4th July, 2002",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "15027": {
+        "name": "Ben Ridge",
+        "DOB": "Wednesday, 13th December, 1989",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "25267": {
+        "name": "Christian Crichton",
+        "DOB": "Friday, 12th July, 1996",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "17077": {
+        "name": "John Bateman",
+        "DOB": "Thursday, 30th September, 1993",
+        "POB": "Bradford, West Yorkshire, England"
+    },
+    "15029": {
+        "name": "Anthony Mitchell",
+        "DOB": "Saturday, 27th May, 1989",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "21712": {
+        "name": "Patrick Kaufusi",
+        "DOB": "Friday, 18th February, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "15032": {
+        "name": "Michael Oldfield",
+        "DOB": "Saturday, 24th November, 1990",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "35512": {
+        "name": "Aitasi James",
+        "DOB": "Friday, 17th November, 2000"
+    },
+    "15034": {
+        "name": "Jason Taumalolo",
+        "DOB": "Monday, 31st May, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "2745": {
+        "name": "Beau Champion",
+        "DOB": "Tuesday, 23rd December, 1986",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "2748": {
+        "name": "Peter Wallace",
+        "DOB": "Wednesday, 16th October, 1985",
+        "POB": "Melbourne, Victoria, Australia"
+    },
+    "15036": {
+        "name": "Ricky Leutele",
+        "DOB": "Tuesday, 10th April, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "15038": {
+        "name": "Kevin Naiqama",
+        "DOB": "Saturday, 4th February, 1989",
+        "POB": "Sutherland, New South Wales, Australia"
+    },
+    "15039": {
+        "name": "Cameron King",
+        "DOB": "Tuesday, 17th September, 1991",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "35520": {
+        "name": "Dean Matterson",
+        "DOB": "Thursday, 20th November, 1997",
+        "POB": "Greenacre, New South Wales, Australia"
+    },
+    "2753": {
+        "name": "Sam Perrett",
+        "DOB": "Tuesday, 14th May, 1985",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "15041": {
+        "name": "Ben Murdoch-Masila",
+        "DOB": "Thursday, 7th February, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "2755": {
+        "name": "Kevin Kingston",
+        "DOB": "Tuesday, 17th May, 1983",
+        "POB": "Babinda, Queensland, Australia"
+    },
+    "2754": {
+        "name": "Nathan Merritt",
+        "DOB": "Thursday, 26th May, 1983",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35525": {
+        "name": "Matt French",
+        "DOB": "Tuesday, 16th November, 1999"
+    },
+    "141": {
+        "name": "Willie Tonga",
+        "DOB": "Monday, 8th August, 1983",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "35529": {
+        "name": "Dylan Lucas",
+        "DOB": "Sunday, 9th July, 2000",
+        "POB": "Bega, New South Wales, Australia"
+    },
+    "17097": {
+        "name": "Dan Sarginson",
+        "DOB": "Wednesday, 26th May, 1993",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "26194": {
+        "name": "King Vuniyayawa",
+        "DOB": "Monday, 13th March, 1995",
+        "POB": "Lautoka, Viti Levu, Fiji"
+    },
+    "35538": {
+        "name": "Ethan King",
+        "DOB": "Friday, 12th July, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35539": {
+        "name": "Sandon Smith",
+        "DOB": "Friday, 6th December, 2002",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "35545": {
+        "name": "Hohepa Puru",
+        "DOB": "Tuesday, 2nd July, 2002",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "35546": {
+        "name": "Preston Riki",
+        "DOB": "Tuesday, 24th March, 1998"
+    },
+    "26197": {
+        "name": "Manase Fainu",
+        "DOB": "Saturday, 17th October, 1998",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "735": {
+        "name": "Billy Slater",
+        "DOB": "Saturday, 18th June, 1983",
+        "POB": "Nambour, Queensland, Australia"
+    },
+    "13579": {
+        "name": "Martin Kennedy",
+        "DOB": "Monday, 20th February, 1989",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "742": {
+        "name": "Cameron Smith",
+        "DOB": "Saturday, 18th June, 1983",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "39655": {
+        "name": "Samuel Healey",
+        "DOB": "Tuesday, 30th July, 2002"
+    },
+    "745": {
+        "name": "Ryan Hoffman",
+        "DOB": "Thursday, 26th January, 1984",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "35561": {
+        "name": "Ativalu Lisati",
+        "DOB": "Wednesday, 31st January, 2001"
+    },
+    "750": {
+        "name": "Brett White",
+        "DOB": "Thursday, 8th April, 1982",
+        "POB": "Jindabyne, New South Wales, Australia"
+    },
+    "29422": {
+        "name": "Daniel Russell",
+        "DOB": "Tuesday, 5th December, 1995",
+        "POB": "Longreach, Queensland, Australia"
+    },
+    "35568": {
+        "name": "Mavrik Geyer",
+        "DOB": "Friday, 5th January, 2001"
+    },
+    "753": {
+        "name": "Reni Maitua",
+        "DOB": "Friday, 11th June, 1982",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "25328": {
+        "name": "Abbas Miski",
+        "DOB": "Tuesday, 25th July, 1995",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "760": {
+        "name": "Timana Tahu",
+        "DOB": "Thursday, 16th October, 1980",
+        "POB": "Melbourne, Victoria, Australia"
+    },
+    "762": {
+        "name": "John Morris",
+        "DOB": "Tuesday, 29th July, 1980",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "35580": {
+        "name": "Alexander Lobb",
+        "DOB": "Wednesday, 2nd January, 2002"
+    },
+    "47247": {
+        "name": "Jye Gray",
+        "DOB": "Thursday, 4th March, 2004"
+    },
+    "17155": {
+        "name": "Josh Papalii",
+        "DOB": "Wednesday, 13th May, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23763": {
+        "name": "Andy Saunders",
+        "DOB": "Wednesday, 14th September, 1994",
+        "POB": "Quirindi, New South Wales, Australia"
+    },
+    "35592": {
+        "name": "Lipoi Hopoi",
+        "DOB": "Wednesday, 13th March, 2002"
+    },
+    "777": {
+        "name": "Frank Pritchard",
+        "DOB": "Thursday, 3rd November, 1983",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "2825": {
+        "name": "David Shillington",
+        "DOB": "Friday, 24th June, 1983",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "35595": {
+        "name": "Jacob Preston",
+        "DOB": "Thursday, 11th October, 2001",
+        "POB": "Wahroonga, New South Wales, Australia"
+    },
+    "2830": {
+        "name": "Joel Reddy",
+        "DOB": "Tuesday, 8th October, 1985",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "17168": {
+        "name": "Josh 'Grub' Reynolds",
+        "DOB": "Thursday, 13th April, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35601": {
+        "name": "David Armstrong",
+        "DOB": "Monday, 9th April, 2001"
+    },
+    "2834": {
+        "name": "Beau Scott",
+        "DOB": "Tuesday, 15th May, 1984",
+        "POB": "Camden, New South Wales, Australia"
+    },
+    "35602": {
+        "name": "Tim Johannssen",
+        "DOB": "Monday, 21st January, 2002",
+        "POB": "Locarno, Ticino, Switzerland"
+    },
+    "790": {
+        "name": "Terry Campese",
+        "DOB": "Saturday, 4th August, 1984",
+        "POB": "Queanbeyan, New South Wales, Australia"
+    },
+    "35607": {
+        "name": "Paul Alamoti",
+        "DOB": "Thursday, 22nd January, 2004",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35606": {
+        "name": "Harry Hayes",
+        "DOB": "Friday, 3rd May, 2002"
+    },
+    "791": {
+        "name": "Todd Carney",
+        "DOB": "Monday, 2nd June, 1986",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "35688": {
+        "name": "Ryan Rivett",
+        "DOB": "Thursday, 2nd May, 2002",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "158": {
+        "name": "Jerome Ropati",
+        "DOB": "Friday, 23rd November, 1984",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "800": {
+        "name": "Chris Heighington",
+        "DOB": "Thursday, 14th January, 1982",
+        "POB": "Camden, New South Wales, Australia"
+    },
+    "35166": {
+        "name": "Tristan Powell",
+        "DOB": "Friday, 9th February, 2001",
+        "POB": "Hervey Bay, Queensland, Australia"
+    },
+    "33570": {
+        "name": "Tallis Duncan",
+        "DOB": "Thursday, 18th April, 2002"
+    },
+    "808": {
+        "name": "Luke Bailey",
+        "DOB": "Saturday, 5th January, 1980",
+        "POB": "Port Kembla, New South Wales, Australia"
+    },
+    "17192": {
+        "name": "Peter Mata'utia",
+        "DOB": "Friday, 2nd November, 1990",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "33578": {
+        "name": "Robert Derby",
+        "DOB": "Thursday, 7th March, 2002",
+        "POB": "Port Moresby, Central, Papua New Guinea"
+    },
+    "17195": {
+        "name": "Kurt Baptiste",
+        "DOB": "Friday, 15th March, 1991",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "811": {
+        "name": "Ben Creagh",
+        "DOB": "Wednesday, 6th February, 1985",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "17196": {
+        "name": "Matt Srama",
+        "DOB": "Saturday, 12th January, 1991",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "33581": {
+        "name": "Jacob Alick",
+        "DOB": "Wednesday, 3rd November, 1999",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "815": {
+        "name": "Michael Ennis",
+        "DOB": "Friday, 16th March, 1984",
+        "POB": "Coffs Harbour, New South Wales, Australia"
+    },
+    "17199": {
+        "name": "Chad Townsend",
+        "DOB": "Thursday, 10th January, 1991",
+        "POB": "Caringbah, New South Wales, Australia"
+    },
+    "17201": {
+        "name": "Boyd Cordner",
+        "DOB": "Tuesday, 9th June, 1992",
+        "POB": "Taree, New South Wales, Australia"
+    },
+    "17202": {
+        "name": "Shaun Johnson",
+        "DOB": "Sunday, 9th September, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "17203": {
+        "name": "Tim Simona",
+        "DOB": "Wednesday, 20th November, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "17204": {
+        "name": "Alex McKinnon",
+        "DOB": "Wednesday, 5th February, 1992",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "820": {
+        "name": "Brett Stewart",
+        "DOB": "Wednesday, 27th February, 1985",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "33587": {
+        "name": "Sunia 'Tito' Turuva",
+        "DOB": "Wednesday, 4th September, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "17205": {
+        "name": "Darcy Lussick",
+        "DOB": "Tuesday, 6th June, 1989",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "35631": {
+        "name": "Jesse Marschke",
+        "DOB": "Thursday, 19th June, 1997"
+    },
+    "825": {
+        "name": "Brent Kite",
+        "DOB": "Saturday, 7th March, 1981",
+        "POB": "Queanbeyan, New South Wales, Australia"
+    },
+    "35641": {
+        "name": "Isaiah Iongi",
+        "DOB": "Tuesday, 24th June, 2003",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "827": {
+        "name": "Jason King",
+        "DOB": "Saturday, 21st March, 1981",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "828": {
+        "name": "Anthony Watmough",
+        "DOB": "Sunday, 10th July, 1983",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "35637": {
+        "name": "Samuel Hughes",
+        "DOB": "Wednesday, 31st January, 2001",
+        "POB": "Cronulla, New South Wales, Australia"
+    },
+    "17206": {
+        "name": "Joel Riethmuller",
+        "DOB": "Thursday, 9th May, 1985",
+        "POB": "Tully, Queensland, Australia"
+    },
+    "17215": {
+        "name": "Brenton Lawrence",
+        "DOB": "Saturday, 29th December, 1984",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "17216": {
+        "name": "Jack De Belin",
+        "DOB": "Sunday, 17th March, 1991",
+        "POB": "Cootamundra, New South Wales, Australia"
+    },
+    "17217": {
+        "name": "Pat O'Hanlon",
+        "DOB": "Thursday, 14th March, 1991",
+        "POB": "Bundaberg, Queensland, Australia"
+    },
+    "834": {
+        "name": "Anthony Minichiello",
+        "DOB": "Saturday, 24th May, 1980",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "35651": {
+        "name": "Sione Fainu",
+        "DOB": "Wednesday, 4th July, 2001",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "35644": {
+        "name": "Jack Todd"
+    },
+    "35645": {
+        "name": "Viliami Fifita",
+        "DOB": "Tuesday, 9th January, 2001",
+        "POB": "Fairfield, New South Wales, Australia"
+    },
+    "35654": {
+        "name": "Luke Sommerton",
+        "DOB": "Tuesday, 22nd February, 2000"
+    },
+    "17218": {
+        "name": "Greg Eden",
+        "DOB": "Wednesday, 14th November, 1990",
+        "POB": "Castleford, West Yorkshire, England"
+    },
+    "35658": {
+        "name": "Triston Reilly",
+        "DOB": "Thursday, 14th January, 1999",
+        "POB": "Kempsey, New South Wales, Australia"
+    },
+    "847": {
+        "name": "Richard Fa'aoso",
+        "DOB": "Tuesday, 8th May, 1984",
+        "POB": "Aspley, Queensland, Australia"
+    },
+    "848": {
+        "name": "Ben Hannant",
+        "DOB": "Monday, 31st December, 1984",
+        "POB": "Burleigh, Queensland, Australia"
+    },
+    "849": {
+        "name": "Anthony Tupou",
+        "DOB": "Tuesday, 1st March, 1983",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "35666": {
+        "name": "Jeral Skelton",
+        "DOB": "Thursday, 8th April, 1999",
+        "POB": "Redcliffe, Queensland, Australia"
+    },
+    "47955": {
+        "name": "Luke Laulilii",
+        "DOB": "Tuesday, 13th June, 2006"
+    },
+    "35668": {
+        "name": "Toby Couchman",
+        "DOB": "Tuesday, 16th September, 2003",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "35670": {
+        "name": "Brandon Tumeth",
+        "DOB": "Sunday, 20th April, 2003",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23398": {
+        "name": "Jayden Brailey",
+        "DOB": "Tuesday, 9th April, 1996",
+        "POB": "Hurstville, New South Wales, Australia"
+    },
+    "23399": {
+        "name": "Ryley Jacks",
+        "DOB": "Tuesday, 2nd June, 1992",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "23400": {
+        "name": "Moses Suli",
+        "DOB": "Tuesday, 9th June, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23401": {
+        "name": "Jai Field",
+        "DOB": "Saturday, 6th September, 1997",
+        "POB": "Shellharbour, New South Wales, Australia"
+    },
+    "23402": {
+        "name": "Nick Cotric",
+        "DOB": "Wednesday, 18th November, 1998",
+        "POB": "Cooma, New South Wales, Australia"
+    },
+    "23403": {
+        "name": "Isaiah Papali'i",
+        "DOB": "Sunday, 20th September, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23404": {
+        "name": "Luke Yates",
+        "DOB": "Monday, 6th March, 1995",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "23405": {
+        "name": "Sam Stone",
+        "DOB": "Monday, 4th August, 1997",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "23406": {
+        "name": "Brian Kelly",
+        "DOB": "Monday, 20th May, 1996",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "23407": {
+        "name": "Joe Stimson",
+        "DOB": "Saturday, 2nd December, 1995",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "23408": {
+        "name": "Tyronne Roberts-Davis",
+        "DOB": "Sunday, 17th August, 1997",
+        "POB": "Macksville, New South Wales, Australia"
+    },
+    "23409": {
+        "name": "Braidon Burns",
+        "DOB": "Saturday, 8th June, 1996",
+        "POB": "Coonamble, New South Wales, Australia"
+    },
+    "37742": {
+        "name": "Arthur Miller-Stephen",
+        "DOB": "Saturday, 10th May, 2003",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "23416": {
+        "name": "Brad Abbey",
+        "DOB": "Monday, 30th December, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23417": {
+        "name": "Tyler Cornish",
+        "DOB": "Monday, 17th October, 1994",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "23418": {
+        "name": "Max King",
+        "DOB": "Sunday, 4th May, 1997",
+        "POB": "Huddersfield, West Yorkshire, England"
+    },
+    "23419": {
+        "name": "George Fai",
+        "DOB": "Friday, 18th October, 1996",
+        "POB": "Logan City, Queensland, Australia"
+    },
+    "23420": {
+        "name": "Jesse Ramien",
+        "DOB": "Sunday, 27th April, 1997",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "17281": {
+        "name": "Zane Tetevano",
+        "DOB": "Sunday, 4th November, 1990",
+        "POB": "Tokoroa, Waikato, New Zealand"
+    },
+    "17282": {
+        "name": "Pita Godinet",
+        "DOB": "Monday, 21st December, 1987",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "17283": {
+        "name": "Tyson Frizell",
+        "DOB": "Wednesday, 9th October, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35717": {
+        "name": "Mason Teague",
+        "DOB": "Sunday, 13th July, 2003",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35718": {
+        "name": "Robert Toia",
+        "DOB": "Wednesday, 11th August, 2004",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "17288": {
+        "name": "Dominique Peyroux",
+        "DOB": "Saturday, 21st January, 1989",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31625": {
+        "name": "Toluta'u Koula",
+        "DOB": "Monday, 2nd September, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "31626": {
+        "name": "James Schiller",
+        "DOB": "Saturday, 14th July, 2001",
+        "POB": "Young, New South Wales, Australia"
+    },
+    "31627": {
+        "name": "Leo Thompson",
+        "DOB": "Sunday, 28th May, 2000",
+        "POB": "Gisborne, Gisborne, New Zealand"
+    },
+    "31628": {
+        "name": "Tyran Wishart",
+        "DOB": "Wednesday, 17th November, 1999",
+        "POB": "Illawarra, New South Wales, Australia"
+    },
+    "31629": {
+        "name": "Alec MacDonald",
+        "DOB": "Saturday, 27th October, 2001",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "52106": {
+        "name": "Mark Nawaqanitawase",
+        "DOB": "Monday, 11th September, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "39834": {
+        "name": "Hamish Stewart",
+        "DOB": "Thursday, 12th August, 2004"
+    },
+    "39835": {
+        "name": "Lyhkan King-Togia",
+        "DOB": "Thursday, 12th May, 2005",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "31645": {
+        "name": "Adrian Trevilyan",
+        "DOB": "Saturday, 7th July, 2001",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "23455": {
+        "name": "Corey Harawira-Naera",
+        "DOB": "Thursday, 18th May, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23456": {
+        "name": "Gideon Gela-Mosby",
+        "DOB": "Friday, 27th December, 1996",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "17317": {
+        "name": "Blake Austin",
+        "DOB": "Friday, 1st February, 1991",
+        "POB": "Parramatta, New South Wales, Australia"
+    },
+    "23469": {
+        "name": "Matt Frawley",
+        "DOB": "Saturday, 24th December, 1994",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "23472": {
+        "name": "Malakai Watene-Zelezniak",
+        "DOB": "Tuesday, 27th August, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23473": {
+        "name": "Hame Sele",
+        "DOB": "Tuesday, 12th November, 1996",
+        "POB": "Kogarah, New South Wales, Australia"
+    },
+    "33713": {
+        "name": "Fonua Pole",
+        "DOB": "Sunday, 2nd June, 2002",
+        "POB": "Wellington, New South Wales, Australia"
+    },
+    "23475": {
+        "name": "Corey Jensen",
+        "DOB": "Saturday, 8th January, 1994",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "23476": {
+        "name": "Cameron Murray",
+        "DOB": "Friday, 16th January, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33714": {
+        "name": "Austin Dias",
+        "DOB": "Wednesday, 20th May, 1998"
+    },
+    "23474": {
+        "name": "Morgan Boyle",
+        "DOB": "Wednesday, 17th July, 1996",
+        "POB": "Woden Valley, Australian Capital Territory, Australia"
+    },
+    "33719": {
+        "name": "Justin Matamua",
+        "DOB": "Tuesday, 27th May, 2003",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "33720": {
+        "name": "Zac Hosking",
+        "DOB": "Wednesday, 26th February, 1997",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "33712": {
+        "name": "Declan Casey",
+        "DOB": "Monday, 24th January, 2000",
+        "POB": "Sutherland, New South Wales, Australia"
+    },
+    "37233": {
+        "name": "Clayton Faulalo",
+        "DOB": "Friday, 26th May, 2000"
+    },
+    "21765": {
+        "name": "Nathaniel Peteru",
+        "DOB": "Wednesday, 1st January, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "33731": {
+        "name": "Tom Chester",
+        "DOB": "Friday, 11th May, 2001",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "33732": {
+        "name": "Jesse Colquhoun",
+        "DOB": "Friday, 12th October, 2001",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "29908": {
+        "name": "Reece Hoffman",
+        "DOB": "Thursday, 22nd March, 2001",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "23502": {
+        "name": "Marata Niukore",
+        "DOB": "Monday, 29th July, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23505": {
+        "name": "Reuben Porter",
+        "DOB": "Wednesday, 26th March, 1997",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "21461": {
+        "name": "Chris Grevsmuhl",
+        "DOB": "Tuesday, 23rd February, 1993",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "21462": {
+        "name": "Solomone Kata",
+        "DOB": "Saturday, 3rd December, 1994",
+        "POB": "Neiafu, Tonga"
+    },
+    "23511": {
+        "name": "Tyrell Fuimaono",
+        "DOB": "Monday, 6th May, 1996",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "21464": {
+        "name": "Albert Vete",
+        "DOB": "Sunday, 24th January, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19417": {
+        "name": "Adam Reynolds",
+        "DOB": "Tuesday, 10th July, 1990",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21466": {
+        "name": "Siosiua Taukeiaho",
+        "DOB": "Friday, 3rd January, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21463": {
+        "name": "Sam Lisone",
+        "DOB": "Saturday, 19th February, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21468": {
+        "name": "Reagan Campbell-Gillard",
+        "DOB": "Tuesday, 27th July, 1993",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "21469": {
+        "name": "Luke Bateman",
+        "DOB": "Monday, 23rd January, 1995",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "33758": {
+        "name": "Harrison Edwards",
+        "DOB": "Thursday, 19th October, 2000",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "17375": {
+        "name": "Ken Sio",
+        "DOB": "Monday, 29th October, 1990",
+        "POB": "Parramatta, New South Wales, Australia"
+    },
+    "21472": {
+        "name": "Felise Kaufusi",
+        "DOB": "Tuesday, 19th May, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21473": {
+        "name": "Joe Ofahengaue",
+        "DOB": "Friday, 15th September, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21474": {
+        "name": "Kodi Nikorima",
+        "DOB": "Sunday, 3rd April, 1994",
+        "POB": "Palmerston North, Manawatu-Wanganui, New Zealand"
+    },
+    "19420": {
+        "name": "Jack Stockwell",
+        "DOB": "Monday, 2nd March, 1992",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "21476": {
+        "name": "Euan Aitken",
+        "DOB": "Friday, 16th June, 1995",
+        "POB": "Pambula, New South Wales, Australia"
+    },
+    "33761": {
+        "name": "Ata Mariota",
+        "DOB": "Friday, 28th December, 2001",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "21470": {
+        "name": "Eto Nabuli",
+        "DOB": "Wednesday, 24th August, 1988",
+        "POB": "Sigatoka, Fiji"
+    },
+    "33763": {
+        "name": "Tom Freebairn",
+        "DOB": "Friday, 3rd February, 1995",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "21471": {
+        "name": "Rory O'Brien",
+        "DOB": "Friday, 2nd June, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33760": {
+        "name": "Izaac Thompson",
+        "DOB": "Thursday, 3rd October, 1996"
+    },
+    "21482": {
+        "name": "Jack Bird",
+        "DOB": "Monday, 20th March, 1995",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "21483": {
+        "name": "Kane Elgey",
+        "DOB": "Friday, 14th January, 1994",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "21475": {
+        "name": "John Folau",
+        "DOB": "Friday, 23rd September, 1994",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "21479": {
+        "name": "Delouise Hoeter",
+        "DOB": "Sunday, 6th March, 1994",
+        "POB": "Nuku'alofa, Tonga"
+    },
+    "21480": {
+        "name": "Lamar Liolevave",
+        "DOB": "Friday, 1st December, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21487": {
+        "name": "Tom Trbojevic",
+        "DOB": "Wednesday, 2nd October, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21491": {
+        "name": "Waqa Blake",
+        "DOB": "Wednesday, 26th October, 1994",
+        "POB": "Lautoka, Viti Levu, Fiji"
+    },
+    "21502": {
+        "name": "Danny Fualalo",
+        "DOB": "Thursday, 20th October, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21503": {
+        "name": "Herman Ese'ese",
+        "DOB": "Wednesday, 7th September, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21504": {
+        "name": "Robert Jennings",
+        "DOB": "Tuesday, 2nd January, 1996",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "21508": {
+        "name": "Raymond Faitala-Mariner",
+        "DOB": "Monday, 26th July, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21509": {
+        "name": "Nelson Asofa-Solomona",
+        "DOB": "Thursday, 29th February, 1996",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "21511": {
+        "name": "Oliver Gildart",
+        "DOB": "Tuesday, 6th August, 1996",
+        "POB": "Hindley, Greater Manchester, England"
+    },
+    "23814": {
+        "name": "Tyrone May",
+        "DOB": "Friday, 21st June, 1996",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "21515": {
+        "name": "Jacob Saifiti",
+        "DOB": "Wednesday, 1st May, 1996",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "21516": {
+        "name": "Daniel Saifiti",
+        "DOB": "Wednesday, 1st May, 1996",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "21517": {
+        "name": "Viliame Kikau",
+        "DOB": "Wednesday, 5th April, 1995",
+        "POB": "Nausori, Fiji"
+    },
+    "19469": {
+        "name": "Cheyse Blair",
+        "DOB": "Saturday, 18th January, 1992",
+        "POB": "Murwillumbah, New South Wales, Australia"
+    },
+    "15371": {
+        "name": "Joe Wardle",
+        "DOB": "Sunday, 22nd September, 1991",
+        "POB": "Halifax, West Yorkshire, England"
+    },
+    "19472": {
+        "name": "Ben Henry",
+        "DOB": "Saturday, 14th December, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19473": {
+        "name": "Konrad Hurrell",
+        "DOB": "Monday, 5th August, 1991",
+        "POB": "Tofoa, Tonga"
+    },
+    "19474": {
+        "name": "James Tedesco",
+        "DOB": "Friday, 8th January, 1993",
+        "POB": "Ryde, New South Wales, Australia"
+    },
+    "37907": {
+        "name": "Jacob Laban",
+        "DOB": "Saturday, 17th April, 2004"
+    },
+    "21524": {
+        "name": "Rhyse Martin",
+        "DOB": "Monday, 1st March, 1993",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "21528": {
+        "name": "Pat Mata'utia",
+        "DOB": "Tuesday, 9th November, 1993",
+        "POB": "Campsie, New South Wales, Australia"
+    },
+    "25627": {
+        "name": "Wayde Egan",
+        "DOB": "Thursday, 20th March, 1997",
+        "POB": "Lithgow, New South Wales, Australia"
+    },
+    "37918": {
+        "name": "Selumiela 'Leka' Halasima",
+        "DOB": "Wednesday, 21st September, 2005",
+        "POB": "Tofoa, Tonga"
+    },
+    "37919": {
+        "name": "Chevy Stewart",
+        "DOB": "Tuesday, 5th July, 2005"
+    },
+    "37920": {
+        "name": "Josiah Pahulu",
+        "DOB": "Tuesday, 4th May, 2004"
+    },
+    "19488": {
+        "name": "Anthony Gelling",
+        "DOB": "Thursday, 18th October, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "2246": {
+        "name": "Simon Mannering",
+        "DOB": "Thursday, 28th August, 1986",
+        "POB": "Napier, Hawke's Bay, New Zealand"
+    },
+    "21542": {
+        "name": "Christian Welch",
+        "DOB": "Tuesday, 19th July, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21543": {
+        "name": "Ken Maumalo",
+        "DOB": "Saturday, 16th July, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21547": {
+        "name": "Joe Boyce",
+        "DOB": "Tuesday, 1st February, 1994",
+        "POB": "Sunshine Coast, Queensland, Australia"
+    },
+    "19515": {
+        "name": "Jack Wighton",
+        "DOB": "Thursday, 4th February, 1993",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "29755": {
+        "name": "Jamayne Taunoa-Brown",
+        "DOB": "Sunday, 17th November, 1996",
+        "POB": "Melbourne, Victoria, Australia"
+    },
+    "29757": {
+        "name": "Jordan Riki",
+        "DOB": "Tuesday, 18th January, 2000",
+        "POB": "Raglan, Waikato, New Zealand"
+    },
+    "19517": {
+        "name": "Ryan Simpkins",
+        "DOB": "Tuesday, 20th September, 1988",
+        "POB": "Tweed Heads, New South Wales, Australia"
+    },
+    "29756": {
+        "name": "Zac Saddler",
+        "DOB": "Wednesday, 16th June, 1999",
+        "POB": "Bathurst, New South Wales, Australia"
+    },
+    "29761": {
+        "name": "Jaimin Jolliffe",
+        "DOB": "Thursday, 7th November, 1996",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "29762": {
+        "name": "Jamil Hopoate",
+        "DOB": "Tuesday, 8th November, 1994",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "29764": {
+        "name": "Eliesa Katoa",
+        "DOB": "Monday, 3rd January, 2000",
+        "POB": "Hihifo, Niuatoputapu, Tonga"
+    },
+    "29765": {
+        "name": "Toby Rudolf",
+        "DOB": "Monday, 29th January, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29766": {
+        "name": "Jake Averillo",
+        "DOB": "Friday, 11th August, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29767": {
+        "name": "Ethan Bullemor",
+        "DOB": "Monday, 21st February, 2000",
+        "POB": "Emerald, Queensland, Australia"
+    },
+    "34003": {
+        "name": "Raymond Tuaimalo Vaega",
+        "DOB": "Saturday, 22nd April, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20571": {
+        "name": "Craig Garvey",
+        "DOB": "Wednesday, 28th April, 1993",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "34004": {
+        "name": "Joshua Stuckey",
+        "DOB": "Friday, 24th July, 1998",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "35632": {
+        "name": "Lorenzo Mulitalo",
+        "DOB": "Wednesday, 17th November, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "35633": {
+        "name": "Jamie Humphreys",
+        "DOB": "Thursday, 10th January, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "44117": {
+        "name": "Kyle McCarthy",
+        "DOB": "Wednesday, 10th March, 2004",
+        "POB": "Hong Kong"
+    },
+    "3165": {
+        "name": "Greg Eastwood",
+        "DOB": "Tuesday, 10th March, 1987",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22611": {
+        "name": "Vincent Leuluai",
+        "DOB": "Tuesday, 24th October, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20576": {
+        "name": "Ligi Sao",
+        "DOB": "Sunday, 11th October, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "44133": {
+        "name": "Josh Feledy",
+        "DOB": "Tuesday, 7th September, 2004",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "35638": {
+        "name": "Ben Lovett",
+        "DOB": "Friday, 7th December, 2001",
+        "POB": "Parkes, New South Wales, Australia"
+    },
+    "37997": {
+        "name": "Dion Teaupa",
+        "DOB": "Saturday, 9th March, 2002"
+    },
+    "37998": {
+        "name": "Ethan Strange",
+        "DOB": "Monday, 16th August, 2004",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20578": {
+        "name": "Joel Luani",
+        "DOB": "Sunday, 16th February, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22614": {
+        "name": "Nathan Davis",
+        "DOB": "Wednesday, 15th November, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29823": {
+        "name": "Alex Seyfarth",
+        "DOB": "Wednesday, 20th January, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29824": {
+        "name": "Tex Hoy",
+        "DOB": "Thursday, 4th November, 1999",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "29825": {
+        "name": "Chris Randall",
+        "DOB": "Sunday, 17th December, 1995",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "29826": {
+        "name": "Brodie Jones",
+        "DOB": "Thursday, 7th May, 1998",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "29827": {
+        "name": "Cory Paix",
+        "DOB": "Thursday, 27th January, 2000",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "21636": {
+        "name": "Daniel Alvaro",
+        "DOB": "Friday, 28th May, 1993",
+        "POB": "Newtown, New South Wales, Australia"
+    },
+    "29829": {
+        "name": "Keaon Koloamatangi",
+        "DOB": "Saturday, 23rd May, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29830": {
+        "name": "Tom Gilbert",
+        "DOB": "Saturday, 5th August, 2000",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "29828": {
+        "name": "Chris Lewis",
+        "DOB": "Friday, 12th June, 1992",
+        "POB": "Tingha, New South Wales, Australia"
+    },
+    "29831": {
+        "name": "Adam Clune",
+        "DOB": "Sunday, 6th August, 1995",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "29833": {
+        "name": "Hamiso Tabuai-Fidow",
+        "DOB": "Wednesday, 5th September, 2001",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "22618": {
+        "name": "Kerrod Holland",
+        "DOB": "Friday, 25th September, 1992",
+        "POB": "Singleton, New South Wales, Australia"
+    },
+    "21637": {
+        "name": "Matt Parcell",
+        "DOB": "Friday, 30th October, 1992",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "29832": {
+        "name": "Tevita Funa",
+        "DOB": "Saturday, 3rd January, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23899": {
+        "name": "Tevita Satae",
+        "DOB": "Thursday, 22nd October, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14537": {
+        "name": "Drury Low",
+        "DOB": "Monday, 2nd April, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "25748": {
+        "name": "Kaide Ellis",
+        "DOB": "Sunday, 4th August, 1996",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "25749": {
+        "name": "Taniela Paseka",
+        "DOB": "Wednesday, 8th October, 1997",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "25747": {
+        "name": "Kurt Dillon",
+        "DOB": "Monday, 8th August, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "44602": {
+        "name": "Bayleigh Bentley-Hape",
+        "DOB": "Wednesday, 8th March, 2000",
+        "POB": "Kawakawa, Northland, New Zealand"
+    },
+    "19619": {
+        "name": "Jorge Taufua",
+        "DOB": "Wednesday, 23rd October, 1991",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "38051": {
+        "name": "Latu Fainu",
+        "DOB": "Saturday, 28th May, 2005"
+    },
+    "23717": {
+        "name": "Zach Dockar-Clay",
+        "DOB": "Monday, 24th April, 1995",
+        "POB": "New Plymouth, Taranaki, New Zealand"
+    },
+    "38056": {
+        "name": "Savelio Tamale",
+        "DOB": "Monday, 6th December, 2004"
+    },
+    "22625": {
+        "name": "Abraham Papalii",
+        "DOB": "Sunday, 20th June, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "25770": {
+        "name": "Jack Hetherington",
+        "DOB": "Thursday, 6th June, 1996",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "38057": {
+        "name": "Dylan Egan",
+        "DOB": "Sunday, 5th September, 2004"
+    },
+    "22626": {
+        "name": "Cameron Cullen",
+        "DOB": "Thursday, 9th September, 1993",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "23731": {
+        "name": "Francis Tualau",
+        "DOB": "Monday, 23rd May, 1994",
+        "POB": "Tonga"
+    },
+    "23732": {
+        "name": "Lindsay Collins",
+        "DOB": "Wednesday, 17th April, 1996",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "22842": {
+        "name": "Grant Garvey",
+        "DOB": "Tuesday, 17th September, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22627": {
+        "name": "William Pearsal",
+        "DOB": "Sunday, 12th March, 1995",
+        "POB": "Young, New South Wales, Australia"
+    },
+    "23735": {
+        "name": "Brandon Smith",
+        "DOB": "Friday, 31st May, 1996",
+        "POB": "Waiheke Island, Hauraki Gulf, New Zealand"
+    },
+    "19639": {
+        "name": "Jarrad Kennedy",
+        "DOB": "Monday, 27th February, 1989",
+        "POB": "Moruya, New South Wales, Australia"
+    },
+    "33976": {
+        "name": "Krystian Mapapalangi",
+        "DOB": "Monday, 4th November, 2002",
+        "POB": "Burwood, New South Wales, Australia"
+    },
+    "33975": {
+        "name": "Oryn Keeley",
+        "DOB": "Monday, 13th January, 2003",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "23749": {
+        "name": "Royce Hunt",
+        "DOB": "Sunday, 13th August, 1995",
+        "POB": "Kalgoorlie, Western Australia, Australia"
+    },
+    "23750": {
+        "name": "Phillip Sami",
+        "DOB": "Saturday, 2nd August, 1997",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "23751": {
+        "name": "Dean Britt",
+        "DOB": "Thursday, 17th March, 1994",
+        "POB": "Bathurst, New South Wales, Australia"
+    },
+    "21704": {
+        "name": "Nathan Milone",
+        "DOB": "Friday, 18th March, 1994",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "23753": {
+        "name": "Matt Eisenhuth",
+        "DOB": "Thursday, 20th August, 1992",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "21706": {
+        "name": "Richard Kennar",
+        "DOB": "Saturday, 10th December, 1994",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "21705": {
+        "name": "Manaia Cherrington",
+        "DOB": "Tuesday, 2nd August, 1994",
+        "POB": "Whangarei, Northland, New Zealand"
+    },
+    "23752": {
+        "name": "Kyle Laybutt",
+        "DOB": "Tuesday, 26th September, 1995",
+        "POB": "Bundaberg, Queensland, Australia"
+    },
+    "21709": {
+        "name": "John Olive",
+        "DOB": "Monday, 4th November, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21710": {
+        "name": "Shaun Lane",
+        "DOB": "Tuesday, 29th November, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21711": {
+        "name": "Danny Levi",
+        "DOB": "Tuesday, 5th December, 1995",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "29904": {
+        "name": "Sam McIntyre",
+        "DOB": "Friday, 20th March, 1998",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "23761": {
+        "name": "Blake Lawrie",
+        "DOB": "Friday, 10th January, 1997",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "23762": {
+        "name": "Alex Twal",
+        "DOB": "Wednesday, 3rd July, 1996",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "29905": {
+        "name": "Connelly Lemuelu",
+        "DOB": "Tuesday, 7th July, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "29907": {
+        "name": "Treymain Spry",
+        "DOB": "Sunday, 29th August, 1999",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "23760": {
+        "name": "Jamal Fogarty",
+        "DOB": "Monday, 13th December, 1993",
+        "POB": "Beaudesert, Queensland, Australia"
+    },
+    "29906": {
+        "name": "Beau Fermor",
+        "DOB": "Saturday, 15th August, 1998",
+        "POB": "Dalby, Queensland, Australia"
+    },
+    "29911": {
+        "name": "Darryn Schonig",
+        "DOB": "Wednesday, 20th March, 1996",
+        "POB": "Cooktown, Queensland, Australia"
+    },
+    "29912": {
+        "name": "Stefano Utoikamanu",
+        "DOB": "Monday, 15th May, 2000",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "29913": {
+        "name": "Semi Valemei",
+        "DOB": "Wednesday, 20th January, 1999",
+        "POB": "Labasa, Macuata Province, Fiji"
+    },
+    "29914": {
+        "name": "Jaxson Paulo",
+        "DOB": "Sunday, 3rd October, 1999",
+        "POB": "Takapuna, North Shore, New Zealand"
+    },
+    "29915": {
+        "name": "Andrew Davey",
+        "DOB": "Friday, 29th November, 1991",
+        "POB": "Maryborough, Queensland, Australia"
+    },
+    "29916": {
+        "name": "Daejarn Asi",
+        "DOB": "Tuesday, 15th August, 2000",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "34005": {
+        "name": "Kitione Kautoga",
+        "DOB": "Monday, 2nd September, 2002",
+        "POB": "Fiji"
+    },
+    "29910": {
+        "name": "Kai O'Donnell",
+        "DOB": "Sunday, 21st February, 1999",
+        "POB": "Proserpine, Queensland, Australia"
+    },
+    "35462": {
+        "name": "Connor Muhleisen",
+        "DOB": "Monday, 19th February, 2001"
+    },
+    "19687": {
+        "name": "Aidan Sezer",
+        "DOB": "Monday, 24th June, 1991",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "34024": {
+        "name": "Liam Henry",
+        "DOB": "Tuesday, 24th July, 2001",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "34023": {
+        "name": "Thomas Jenkins",
+        "DOB": "Friday, 16th March, 2001",
+        "POB": "Boorowa, New South Wales, Australia"
+    },
+    "34025": {
+        "name": "Jack Cole",
+        "DOB": "Thursday, 3rd July, 2003",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "19689": {
+        "name": "Matt Robinson",
+        "DOB": "Friday, 9th March, 1990",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "29965": {
+        "name": "Jackson Ferris",
+        "DOB": "Wednesday, 25th February, 1998",
+        "POB": "Palmerston North, Manawatu-Wanganui, New Zealand"
+    },
+    "34031": {
+        "name": "Charlie Staines",
+        "DOB": "Wednesday, 4th October, 2000",
+        "POB": "Forbes, New South Wales, Australia"
+    },
+    "21746": {
+        "name": "Yaw Kiti Glymin",
+        "DOB": "Thursday, 22nd July, 1993",
+        "POB": "Arncliffe, New South Wales, Australia"
+    },
+    "29967": {
+        "name": "Daniel Suluka-Fifita",
+        "DOB": "Thursday, 19th August, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29968": {
+        "name": "Max Bailey",
+        "DOB": "Monday, 3rd February, 1997",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "13564": {
+        "name": "Sam Tomkins",
+        "DOB": "Thursday, 23rd March, 1989",
+        "POB": "Milton Keynes, Buckinghamshire, England"
+    },
+    "13565": {
+        "name": "Antonio Winterstein",
+        "DOB": "Monday, 30th May, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "13567": {
+        "name": "Alex Glenn",
+        "DOB": "Sunday, 31st July, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "39739": {
+        "name": "Jordan Samrani",
+        "DOB": "Tuesday, 29th January, 2002",
+        "POB": "Kogarah, New South Wales, Australia"
+    },
+    "25859": {
+        "name": "Payne Haas",
+        "DOB": "Thursday, 2nd December, 1999",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "21764": {
+        "name": "Drew Hutchison",
+        "DOB": "Wednesday, 26th April, 1995",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "25861": {
+        "name": "Reece Robson",
+        "DOB": "Thursday, 18th June, 1998",
+        "POB": "Murwillumbah, New South Wales, Australia"
+    },
+    "25860": {
+        "name": "Moeaki Fotuaika",
+        "DOB": "Tuesday, 16th November, 1999",
+        "POB": "Gisborne, Gisborne, New Zealand"
+    },
+    "23815": {
+        "name": "Jamayne Isaako",
+        "DOB": "Wednesday, 5th June, 1996",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "13576": {
+        "name": "Blake Ferguson",
+        "DOB": "Tuesday, 20th March, 1990",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "13577": {
+        "name": "Tim Mannah",
+        "DOB": "Monday, 15th February, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13578": {
+        "name": "Leeson Ah Mau",
+        "DOB": "Wednesday, 20th December, 1989",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "29963": {
+        "name": "Teig Wilton",
+        "DOB": "Saturday, 25th September, 1999",
+        "POB": "Narooma, New South Wales, Australia"
+    },
+    "29964": {
+        "name": "Harley Smith-Shields",
+        "DOB": "Wednesday, 12th January, 2000",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "13581": {
+        "name": "Jarrod Croker",
+        "DOB": "Tuesday, 11th September, 1990",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "29966": {
+        "name": "Braydon Trindall",
+        "DOB": "Sunday, 11th July, 1999",
+        "POB": "Wee Waa, New South Wales, Australia"
+    },
+    "7432": {
+        "name": "Reece Robinson",
+        "DOB": "Saturday, 13th June, 1987",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29962": {
+        "name": "Shawn Blore",
+        "DOB": "Tuesday, 1st August, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13585": {
+        "name": "Travis Waddell",
+        "DOB": "Tuesday, 11th July, 1989",
+        "POB": "Proserpine, Queensland, Australia"
+    },
+    "13586": {
+        "name": "Josh McGuire",
+        "DOB": "Friday, 2nd March, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "29970": {
+        "name": "Asu Kepaoa",
+        "DOB": "Wednesday, 2nd February, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "29971": {
+        "name": "Daine Laurie",
+        "DOB": "Tuesday, 20th July, 1999",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "13583": {
+        "name": "Kevin Gordon",
+        "DOB": "Tuesday, 26th December, 1989",
+        "POB": "Coffs Harbour, New South Wales, Australia"
+    },
+    "29969": {
+        "name": "Haumole Olakau'atu",
+        "DOB": "Thursday, 1st October, 1998",
+        "POB": "Guildford, New South Wales, Australia"
+    },
+    "29974": {
+        "name": "Matt Doorey",
+        "DOB": "Tuesday, 27th June, 2000",
+        "POB": "Fairfield, New South Wales, Australia"
+    },
+    "29976": {
+        "name": "Cooper Johns",
+        "DOB": "Wednesday, 14th July, 1999",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "29977": {
+        "name": "Freddy Lussick",
+        "DOB": "Monday, 28th August, 2000",
+        "POB": "Beacon Hill, New South Wales, Australia"
+    },
+    "29978": {
+        "name": "Paul Turner",
+        "DOB": "Tuesday, 4th July, 2000",
+        "POB": "Whangarei, Northland, New Zealand"
+    },
+    "29973": {
+        "name": "Christian Tuipulotu",
+        "DOB": "Sunday, 18th February, 2001",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "29980": {
+        "name": "Albert Hopoate",
+        "DOB": "Sunday, 25th February, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29981": {
+        "name": "Matthew Timoko",
+        "DOB": "Tuesday, 18th January, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "29982": {
+        "name": "Josh Schuster",
+        "DOB": "Saturday, 5th May, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "29985": {
+        "name": "Cody Ramsey",
+        "DOB": "Tuesday, 15th February, 2000",
+        "POB": "Molong, New South Wales, Australia"
+    },
+    "36135": {
+        "name": "Kalani Going",
+        "DOB": "Tuesday, 14th January, 1997",
+        "POB": "Whangarei, Northland, New Zealand"
+    },
+    "19759": {
+        "name": "Josh Starling",
+        "DOB": "Friday, 18th May, 1990",
+        "POB": "Woonona, New South Wales, Australia"
+    },
+    "19760": {
+        "name": "Matt McIlwrick",
+        "DOB": "Tuesday, 4th June, 1991",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "19767": {
+        "name": "Tautau Moga",
+        "DOB": "Monday, 6th December, 1993",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "20618": {
+        "name": "Bureta Faraimo",
+        "DOB": "Monday, 16th July, 1990",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "19768": {
+        "name": "Chris Adams",
+        "DOB": "Tuesday, 12th August, 1986",
+        "POB": "Nambour, Queensland, Australia"
+    },
+    "19771": {
+        "name": "Pat Politoni",
+        "DOB": "Sunday, 17th March, 1991",
+        "POB": "Leichhardt, New South Wales, Australia"
+    },
+    "19772": {
+        "name": "Justin Hunt",
+        "DOB": "Tuesday, 20th September, 1988",
+        "POB": "Tweed Heads, New South Wales, Australia"
+    },
+    "19781": {
+        "name": "Edrick Lee",
+        "DOB": "Friday, 18th September, 1992",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "19782": {
+        "name": "Curtis Sironen",
+        "DOB": "Saturday, 31st July, 1993",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "19783": {
+        "name": "Joe Greenwood",
+        "DOB": "Friday, 2nd April, 1993",
+        "POB": "Oldham, Greater Manchester, England"
+    },
+    "19786": {
+        "name": "Dale Finucane",
+        "DOB": "Saturday, 7th September, 1991",
+        "POB": "Bega, New South Wales, Australia"
+    },
+    "19787": {
+        "name": "George Burgess",
+        "DOB": "Tuesday, 21st April, 1992",
+        "POB": "Dewsbury, West Yorkshire, England"
+    },
+    "1357": {
+        "name": "Ashton Sims",
+        "DOB": "Tuesday, 26th February, 1985",
+        "POB": "Sutherland, New South Wales, Australia"
+    },
+    "5562": {
+        "name": "Lagi Setu",
+        "DOB": "Thursday, 25th February, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14518": {
+        "name": "Bill Tupou",
+        "DOB": "Monday, 2nd July, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "5465": {
+        "name": "David Gower",
+        "DOB": "Monday, 30th September, 1985",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23898": {
+        "name": "Victor Radley",
+        "DOB": "Saturday, 14th March, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "19802": {
+        "name": "Jarrod Wallace",
+        "DOB": "Tuesday, 23rd July, 1991",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "23900": {
+        "name": "Matt Dufty",
+        "DOB": "Wednesday, 10th January, 1996",
+        "POB": "Hurstville, New South Wales, Australia"
+    },
+    "1373": {
+        "name": "David Fa'alogo",
+        "DOB": "Tuesday, 9th September, 1980",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "21854": {
+        "name": "Lachlan Fitzgibbon",
+        "DOB": "Wednesday, 5th January, 1994",
+        "POB": "North Sydney, New South Wales, Australia"
+    },
+    "1375": {
+        "name": "Mark Minichiello",
+        "DOB": "Saturday, 30th January, 1982",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "1376": {
+        "name": "Glenn Hall",
+        "DOB": "Saturday, 21st March, 1981",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21853": {
+        "name": "Nathan Ross",
+        "DOB": "Friday, 4th November, 1988",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "19801": {
+        "name": "Lachlan Maranta",
+        "DOB": "Friday, 17th April, 1992",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "1379": {
+        "name": "Greg Inglis",
+        "DOB": "Thursday, 15th January, 1987",
+        "POB": "Kempsey, New South Wales, Australia"
+    },
+    "23901": {
+        "name": "Joey Lussick",
+        "DOB": "Thursday, 28th December, 1995",
+        "POB": "Freshwater, New South Wales, Australia"
+    },
+    "1372": {
+        "name": "Ashley Harrison",
+        "DOB": "Monday, 18th May, 1981",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20219": {
+        "name": "Josh Drinkwater",
+        "DOB": "Monday, 15th June, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23911": {
+        "name": "James Bell",
+        "DOB": "Monday, 2nd May, 1994",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "23912": {
+        "name": "Braden Hamlin-Uele",
+        "DOB": "Monday, 9th January, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "23913": {
+        "name": "Campbell Graham",
+        "DOB": "Wednesday, 2nd June, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "23914": {
+        "name": "Patrick Mago",
+        "DOB": "Sunday, 4th December, 1994",
+        "POB": "Otara, Auckland, New Zealand"
+    },
+    "1387": {
+        "name": "Iosia Soliola",
+        "DOB": "Monday, 4th August, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14522": {
+        "name": "Sione Lousi",
+        "DOB": "Sunday, 8th October, 1989",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "1388": {
+        "name": "Jamie Soward",
+        "DOB": "Tuesday, 13th November, 1984",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "1390": {
+        "name": "Heath L'Estrange",
+        "DOB": "Tuesday, 21st May, 1985",
+        "POB": "Baulkham Hills, New South Wales, Australia"
+    },
+    "23919": {
+        "name": "Enari Tuala",
+        "DOB": "Monday, 19th October, 1998",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "23920": {
+        "name": "Shane Wright",
+        "DOB": "Wednesday, 13th March, 1996",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "23921": {
+        "name": "Bayley Sironen",
+        "DOB": "Monday, 23rd December, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5487": {
+        "name": "Mitch Brown",
+        "DOB": "Saturday, 7th November, 1987",
+        "POB": "Sutherland, New South Wales, Australia"
+    },
+    "3440": {
+        "name": "Jeff Lima",
+        "DOB": "Sunday, 4th July, 1982",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "3444": {
+        "name": "Jeff Robson",
+        "DOB": "Thursday, 5th August, 1982",
+        "POB": "Leeton, New South Wales, Australia"
+    },
+    "30068": {
+        "name": "Ben Condon",
+        "DOB": "Thursday, 13th July, 2000",
+        "POB": "Roma, Queensland, Australia"
+    },
+    "30069": {
+        "name": "Tom Ale",
+        "DOB": "Thursday, 1st April, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "3447": {
+        "name": "Dane Tilse",
+        "DOB": "Thursday, 24th January, 1985",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "30070": {
+        "name": "Max Feagai",
+        "DOB": "Wednesday, 14th February, 2001",
+        "POB": "Hastings, Hawke's Bay, New Zealand"
+    },
+    "1399": {
+        "name": "Ben Smith",
+        "DOB": "Tuesday, 16th October, 1984",
+        "POB": "Gunnedah, New South Wales, Australia"
+    },
+    "1402": {
+        "name": "Fuifui Moimoi",
+        "DOB": "Wednesday, 26th September, 1979",
+        "POB": "Tonga"
+    },
+    "34170": {
+        "name": "Bailey Hayward",
+        "DOB": "Thursday, 5th April, 2001",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "30076": {
+        "name": "Jayden Sullivan",
+        "DOB": "Sunday, 16th September, 2001",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "14526": {
+        "name": "Tim Browne",
+        "DOB": "Sunday, 27th December, 1987",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "30071": {
+        "name": "Tuipulotu Katoa",
+        "DOB": "Tuesday, 27th April, 1999",
+        "POB": "Hamilton, Waikato, New Zealand"
+    },
+    "30079": {
+        "name": "Aaron Pene",
+        "DOB": "Tuesday, 26th September, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "30073": {
+        "name": "Adam Cook",
+        "DOB": "Tuesday, 14th November, 2000",
+        "POB": "Charters Towers, Queensland, Australia"
+    },
+    "30077": {
+        "name": "Eddie Blacker",
+        "DOB": "Wednesday, 15th December, 1999",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "30078": {
+        "name": "Aaron Booth",
+        "DOB": "Sunday, 1st October, 1995",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "30074": {
+        "name": "Darby Medlyn",
+        "DOB": "Sunday, 7th November, 1999",
+        "POB": "Parkes, New South Wales, Australia"
+    },
+    "30075": {
+        "name": "Jarrett Subloo",
+        "DOB": "Saturday, 29th July, 2000",
+        "POB": "Innisfail, Queensland, Australia"
+    },
+    "21898": {
+        "name": "Mitchell Barnett",
+        "DOB": "Friday, 15th April, 1994",
+        "POB": "Taree, New South Wales, Australia"
+    },
+    "1423": {
+        "name": "Lote Tuqiri",
+        "DOB": "Saturday, 23rd September, 1978",
+        "POB": "Namatakula, Fiji"
+    },
+    "20636": {
+        "name": "Brenden Santi",
+        "DOB": "Thursday, 5th August, 1993",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "38289": {
+        "name": "Jonathan Sua",
+        "DOB": "Tuesday, 17th August, 2004"
+    },
+    "34197": {
+        "name": "Isaiya Katoa",
+        "DOB": "Wednesday, 18th February, 2004",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "34199": {
+        "name": "Luca Moretti",
+        "DOB": "Thursday, 20th April, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "3482": {
+        "name": "Sam Burgess",
+        "DOB": "Wednesday, 14th December, 1988",
+        "POB": "Dewsbury, West Yorkshire, England"
+    },
+    "14532": {
+        "name": "Matthew Duffie",
+        "DOB": "Thursday, 16th August, 1990",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "13731": {
+        "name": "Trent Merrin",
+        "DOB": "Saturday, 7th October, 1989",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "13732": {
+        "name": "Sisi Waqa",
+        "DOB": "Tuesday, 29th April, 1986",
+        "POB": "Suva, Central Division, Fiji"
+    },
+    "20640": {
+        "name": "Junior Roqica",
+        "DOB": "Wednesday, 13th February, 1991",
+        "POB": "Camperdown, New South Wales, Australia"
+    },
+    "13735": {
+        "name": "Josh Dugan",
+        "DOB": "Thursday, 10th May, 1990",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "5545": {
+        "name": "Junior Moors",
+        "DOB": "Wednesday, 30th July, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "5547": {
+        "name": "James McManus",
+        "DOB": "Wednesday, 15th January, 1986",
+        "POB": "Banff, Aberdeenshire, Scotland"
+    },
+    "5548": {
+        "name": "Josh Morris",
+        "DOB": "Saturday, 23rd August, 1986",
+        "POB": "Kiama, New South Wales, Australia"
+    },
+    "5549": {
+        "name": "Keith Lulia",
+        "DOB": "Wednesday, 17th June, 1987",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "5551": {
+        "name": "Dan Hunt",
+        "DOB": "Monday, 8th September, 1986",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5552": {
+        "name": "Shaun Kenny-Dowall",
+        "DOB": "Saturday, 23rd January, 1988",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "5553": {
+        "name": "Mitchell Aubusson",
+        "DOB": "Thursday, 1st October, 1987",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "19421": {
+        "name": "Nathan Green",
+        "DOB": "Wednesday, 1st April, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5555": {
+        "name": "Cory Paterson",
+        "DOB": "Tuesday, 14th July, 1987",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "3505": {
+        "name": "R\u00e9mi Casty",
+        "DOB": "Tuesday, 5th February, 1985",
+        "POB": "Narbonne, Languedoc-Roussillon, France"
+    },
+    "3509": {
+        "name": "Michael Dobson",
+        "DOB": "Thursday, 29th May, 1986",
+        "POB": "Junee, New South Wales, Australia"
+    },
+    "5558": {
+        "name": "Joe Picker",
+        "DOB": "Monday, 7th December, 1987",
+        "POB": "Bigga, New South Wales, Australia"
+    },
+    "23991": {
+        "name": "Keegan Hipgrave",
+        "DOB": "Wednesday, 1st January, 1997",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "16573": {
+        "name": "Dane Gagai",
+        "DOB": "Thursday, 3rd January, 1991",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "5561": {
+        "name": "Chase Stanley",
+        "DOB": "Wednesday, 31st May, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "14538": {
+        "name": "Sam Mataora",
+        "DOB": "Saturday, 20th October, 1990",
+        "POB": "Rarotonga, Cook Islands"
+    },
+    "5563": {
+        "name": "Michael Jennings",
+        "DOB": "Wednesday, 20th April, 1988",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "3516": {
+        "name": "Darius Boyd",
+        "DOB": "Friday, 17th July, 1987",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "5565": {
+        "name": "Mitchell Pearce",
+        "DOB": "Friday, 7th April, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5557": {
+        "name": "Matt Ballin",
+        "DOB": "Thursday, 5th January, 1984",
+        "POB": "Nanango, Queensland, Australia"
+    },
+    "3519": {
+        "name": "Luke Douglas",
+        "DOB": "Monday, 12th May, 1986",
+        "POB": "Yamba, New South Wales, Australia"
+    },
+    "5567": {
+        "name": "Chris Houston",
+        "DOB": "Friday, 15th February, 1985",
+        "POB": "Narooma, New South Wales, Australia"
+    },
+    "3521": {
+        "name": "Gavin Cooper",
+        "DOB": "Monday, 19th August, 1985",
+        "POB": "Murgon, Queensland, Australia"
+    },
+    "5570": {
+        "name": "Sam Tagataese",
+        "DOB": "Monday, 8th December, 1986",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "5571": {
+        "name": "Scott Bolton",
+        "DOB": "Saturday, 9th May, 1987",
+        "POB": "Innisfail, Queensland, Australia"
+    },
+    "3524": {
+        "name": "William Zillman",
+        "DOB": "Wednesday, 30th July, 1986",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "28099": {
+        "name": "Josh Kerr",
+        "DOB": "Sunday, 11th February, 1996",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "5573": {
+        "name": "Blake Green",
+        "DOB": "Thursday, 18th September, 1986",
+        "POB": "Fairfield, New South Wales, Australia"
+    },
+    "3527": {
+        "name": "Isaac De Gois",
+        "DOB": "Monday, 24th December, 1984",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "3528": {
+        "name": "Adam Cuthbertson",
+        "DOB": "Sunday, 24th February, 1985",
+        "POB": "Avalon, New South Wales, Australia"
+    },
+    "5572": {
+        "name": "Krisnan Inu",
+        "DOB": "Tuesday, 17th March, 1987",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "3530": {
+        "name": "Adam Blair",
+        "DOB": "Thursday, 20th March, 1986",
+        "POB": "Whangarei, Northland, New Zealand"
+    },
+    "3522": {
+        "name": "Daryl Millard",
+        "DOB": "Wednesday, 20th February, 1985",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5577": {
+        "name": "Dayne Weston",
+        "DOB": "Monday, 15th December, 1986",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "3536": {
+        "name": "Zeb Taia",
+        "DOB": "Thursday, 11th October, 1984",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "16578": {
+        "name": "Glen Fisiiahi",
+        "DOB": "Sunday, 2nd December, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "16579": {
+        "name": "Ryan Morgan",
+        "DOB": "Friday, 4th May, 1990",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "16580": {
+        "name": "Mitchell Allgood",
+        "DOB": "Thursday, 27th April, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "21465": {
+        "name": "Kyle Lovett",
+        "DOB": "Tuesday, 23rd March, 1993",
+        "POB": "Leichhardt, New South Wales, Australia"
+    },
+    "16581": {
+        "name": "Mitch Rein",
+        "DOB": "Thursday, 26th April, 1990",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "21467": {
+        "name": "George Jennings",
+        "DOB": "Wednesday, 9th June, 1993",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "16584": {
+        "name": "Beau Henry",
+        "DOB": "Wednesday, 17th January, 1990",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "19956": {
+        "name": "Josh Jackson",
+        "DOB": "Tuesday, 8th January, 1991",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "22009": {
+        "name": "Leva Li",
+        "DOB": "Saturday, 26th November, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13818": {
+        "name": "James Maloney",
+        "DOB": "Sunday, 15th June, 1986",
+        "POB": "Orange, New South Wales, Australia"
+    },
+    "13819": {
+        "name": "Shaun Fensom",
+        "DOB": "Monday, 10th October, 1988",
+        "POB": "Camden, New South Wales, Australia"
+    },
+    "13820": {
+        "name": "Matthew Wright",
+        "DOB": "Wednesday, 30th January, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19963": {
+        "name": "Mark Nicholls",
+        "DOB": "Friday, 5th January, 1990",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "5630": {
+        "name": "Frank-Paul Nu'uausala",
+        "DOB": "Friday, 13th February, 1987",
+        "POB": "Otahuti, Southland, New Zealand"
+    },
+    "5631": {
+        "name": "Ryan Hinchcliffe",
+        "DOB": "Sunday, 7th October, 1984",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "16587": {
+        "name": "Sam Kasiano",
+        "DOB": "Friday, 21st September, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19962": {
+        "name": "Aaron Whitchurch",
+        "DOB": "Sunday, 3rd May, 1992",
+        "POB": "Fremantle, Western Australia, Australia"
+    },
+    "22018": {
+        "name": "Mason Lino",
+        "DOB": "Friday, 4th February, 1994",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "22019": {
+        "name": "Coen Hess",
+        "DOB": "Wednesday, 14th August, 1996",
+        "POB": "Bundaberg, Queensland, Australia"
+    },
+    "19967": {
+        "name": "Kyle O'Donnell",
+        "DOB": "Tuesday, 9th October, 1990",
+        "POB": "Nowra, New South Wales, Australia"
+    },
+    "19973": {
+        "name": "Sam Lousi",
+        "DOB": "Saturday, 20th July, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19974": {
+        "name": "Roger Tuivasa-Sheck",
+        "DOB": "Saturday, 5th June, 1993",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "19975": {
+        "name": "Sebastine Ikahihifo",
+        "DOB": "Sunday, 27th January, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "19976": {
+        "name": "Marika Koroibete",
+        "DOB": "Sunday, 26th July, 1992",
+        "POB": "Naraiyawa, Fiji"
+    },
+    "19977": {
+        "name": "Carlos Tuimavave",
+        "DOB": "Friday, 10th January, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "5642": {
+        "name": "Jason Nightingale",
+        "DOB": "Saturday, 20th September, 1986",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "34315": {
+        "name": "Siua Wong",
+        "DOB": "Friday, 4th April, 2003",
+        "POB": "Middlemore, Auckland, New Zealand"
+    },
+    "19979": {
+        "name": "Mahe Fonua",
+        "DOB": "Thursday, 24th December, 1992",
+        "POB": "Melbourne, Victoria, Australia"
+    },
+    "22029": {
+        "name": "Ash Taylor",
+        "DOB": "Friday, 17th March, 1995",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "22030": {
+        "name": "Sione Katoa",
+        "DOB": "Thursday, 26th January, 1995",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "5643": {
+        "name": "Tim Grant",
+        "DOB": "Wednesday, 17th February, 1988",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "19980": {
+        "name": "James Gavet",
+        "DOB": "Thursday, 19th October, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "5649": {
+        "name": "Ben Te'o",
+        "DOB": "Tuesday, 27th January, 1987",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "5652": {
+        "name": "Will Chambers",
+        "DOB": "Thursday, 26th May, 1988",
+        "POB": "Gove, Northern Territory, Australia"
+    },
+    "5653": {
+        "name": "Sika Manu",
+        "DOB": "Thursday, 22nd January, 1987",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "24095": {
+        "name": "Jack Johns",
+        "DOB": "Wednesday, 15th October, 1997",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "7712": {
+        "name": "Kallum Watkins",
+        "DOB": "Tuesday, 12th March, 1991",
+        "POB": "Manchester, Greater Manchester, England"
+    },
+    "5665": {
+        "name": "Issac 'Bully' Luke",
+        "DOB": "Friday, 29th May, 1987",
+        "POB": "Hawera, Taranaki, New Zealand"
+    },
+    "7714": {
+        "name": "Ben Lowe",
+        "DOB": "Wednesday, 13th March, 1985",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "3617": {
+        "name": "Michael Gordon",
+        "DOB": "Monday, 24th October, 1983",
+        "POB": "Cooma, New South Wales, Australia"
+    },
+    "13860": {
+        "name": "James Tamou",
+        "DOB": "Tuesday, 13th December, 1988",
+        "POB": "Palmerston North, Manawatu-Wanganui, New Zealand"
+    },
+    "20005": {
+        "name": "Daniel Tupou",
+        "DOB": "Monday, 17th June, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13859": {
+        "name": "Josh McCrone",
+        "DOB": "Tuesday, 12th May, 1987",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "20007": {
+        "name": "Tom Eisenhuth",
+        "DOB": "Friday, 17th July, 1992",
+        "POB": "Katoomba, New South Wales, Australia"
+    },
+    "26152": {
+        "name": "Zac Lomax",
+        "DOB": "Friday, 24th September, 1999",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "26153": {
+        "name": "Jack Williams",
+        "DOB": "Monday, 9th September, 1996",
+        "POB": "Pambula, New South Wales, Australia"
+    },
+    "24106": {
+        "name": "Jarome Luai",
+        "DOB": "Thursday, 16th January, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13862": {
+        "name": "Lewis Brown",
+        "DOB": "Friday, 3rd October, 1986",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "26156": {
+        "name": "Kotoni Staggs",
+        "DOB": "Thursday, 29th October, 1998",
+        "POB": "Wellington, New South Wales, Australia"
+    },
+    "28205": {
+        "name": "Briton Nikora",
+        "DOB": "Sunday, 7th December, 1997",
+        "POB": "Mt Maunganui, Bay Of Plenty, New Zealand"
+    },
+    "28206": {
+        "name": "Blayke Brailey",
+        "DOB": "Wednesday, 23rd September, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "7724": {
+        "name": "Russell Packer",
+        "DOB": "Monday, 9th October, 1989",
+        "POB": "Huntly, Waikato, New Zealand"
+    },
+    "26159": {
+        "name": "Mitchell Dunn",
+        "DOB": "Monday, 3rd February, 1997",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "28204": {
+        "name": "Thomas Flegler",
+        "DOB": "Thursday, 19th August, 1999",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "26162": {
+        "name": "Reed Mahoney",
+        "DOB": "Wednesday, 22nd April, 1998",
+        "POB": "Nambour, Queensland, Australia"
+    },
+    "28211": {
+        "name": "Mikaele Ravalawa",
+        "DOB": "Sunday, 9th November, 1997",
+        "POB": "Galoa Island, Fiji"
+    },
+    "28212": {
+        "name": "Maika Sivo",
+        "DOB": "Sunday, 3rd October, 1993",
+        "POB": "Nadi, Fiji"
+    },
+    "28213": {
+        "name": "Dylan Brown",
+        "DOB": "Wednesday, 21st June, 2000",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22069": {
+        "name": "Charnze Nicoll-Klokstad",
+        "DOB": "Wednesday, 2nd August, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28214": {
+        "name": "Bailey Simonsson",
+        "DOB": "Wednesday, 18th February, 1998",
+        "POB": "Mona Vale, New South Wales, Australia"
+    },
+    "28215": {
+        "name": "Corey Horsburgh",
+        "DOB": "Saturday, 3rd January, 1998",
+        "POB": "Caboolture, Queensland, Australia"
+    },
+    "7732": {
+        "name": "Andrew McCullough",
+        "DOB": "Tuesday, 30th January, 1990",
+        "POB": "Dalby, Queensland, Australia"
+    },
+    "13876": {
+        "name": "Jared Waerea-Hargreaves",
+        "DOB": "Friday, 20th January, 1989",
+        "POB": "Rotorua, Bay of Plenty, New Zealand"
+    },
+    "22073": {
+        "name": "Esan Marsters",
+        "DOB": "Saturday, 17th August, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "7740": {
+        "name": "Matt Prior",
+        "DOB": "Sunday, 24th May, 1987",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "5684": {
+        "name": "Eddy Pettybourne",
+        "DOB": "Saturday, 13th February, 1988",
+        "POB": "Christchurch, Canterbury, New Zealand"
+    },
+    "13877": {
+        "name": "Gerard Beale",
+        "DOB": "Wednesday, 18th July, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "26169": {
+        "name": "Tyson Gamble",
+        "DOB": "Friday, 21st June, 1996",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "7739": {
+        "name": "Glen Buttriss",
+        "DOB": "Tuesday, 20th August, 1985",
+        "POB": "Cootamundra, New South Wales, Australia"
+    },
+    "1595": {
+        "name": "Cooper Cronk",
+        "DOB": "Monday, 5th December, 1983",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "7737": {
+        "name": "Kevin Proctor",
+        "DOB": "Tuesday, 28th February, 1989",
+        "POB": "Te Kuiti, Waikato, New Zealand"
+    },
+    "3647": {
+        "name": "Ben Roberts",
+        "DOB": "Monday, 8th July, 1985",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "318": {
+        "name": "Liam Fulton",
+        "DOB": "Wednesday, 8th August, 1984",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "13895": {
+        "name": "Jeremy Latimore",
+        "DOB": "Monday, 8th December, 1986",
+        "POB": "Port Macquarie, New South Wales, Australia"
+    },
+    "13896": {
+        "name": "Blake Ayshford",
+        "DOB": "Friday, 15th April, 1988",
+        "POB": "Paddington, New South Wales, Australia"
+    },
+    "5705": {
+        "name": "Luke Burgess",
+        "DOB": "Friday, 20th February, 1987",
+        "POB": "Wakefield, West Yorkshire, England"
+    },
+    "1608": {
+        "name": "Nigel Plum",
+        "DOB": "Thursday, 31st March, 1983",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "13898": {
+        "name": "Tom Symonds",
+        "DOB": "Friday, 17th February, 1989",
+        "POB": "Paddington, New South Wales, Australia"
+    },
+    "5703": {
+        "name": "Ryan Hall",
+        "DOB": "Friday, 27th November, 1987",
+        "POB": "Leeds, West Yorkshire, England"
+    },
+    "13901": {
+        "name": "Daniel Mortimer",
+        "DOB": "Tuesday, 13th June, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "1610": {
+        "name": "Glenn Stewart",
+        "DOB": "Wednesday, 11th January, 1984",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "1615": {
+        "name": "Jarrod Mullen",
+        "DOB": "Thursday, 9th April, 1987",
+        "POB": "Singleton, New South Wales, Australia"
+    },
+    "1616": {
+        "name": "Clint Newton",
+        "DOB": "Thursday, 18th June, 1981",
+        "POB": "Myrtle Beach, South Carolina, United States of America"
+    },
+    "13897": {
+        "name": "Nathan Stapleton",
+        "DOB": "Friday, 1st December, 1989",
+        "POB": "Glen Innes, New South Wales, Australia"
+    },
+    "13902": {
+        "name": "Taniela Lasalo",
+        "DOB": "Saturday, 23rd September, 1989",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "13907": {
+        "name": "Jonathan Wright",
+        "DOB": "Sunday, 8th March, 1987",
+        "POB": "Gilgandra, New South Wales, Australia"
+    },
+    "26196": {
+        "name": "Sitili Tupouniua",
+        "DOB": "Friday, 30th May, 1997",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "13908": {
+        "name": "David Mead",
+        "DOB": "Friday, 4th November, 1988",
+        "POB": "Port Moresby, Central, Papua New Guinea"
+    },
+    "28244": {
+        "name": "Marion Seve",
+        "DOB": "Saturday, 27th May, 1995",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "26199": {
+        "name": "Ofahiki Ogden",
+        "DOB": "Thursday, 6th June, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "26200": {
+        "name": "David Fifita",
+        "DOB": "Friday, 25th February, 2000",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "13913": {
+        "name": "Dale Copley",
+        "DOB": "Monday, 29th July, 1991",
+        "POB": "Ingham, Queensland, Australia"
+    },
+    "13914": {
+        "name": "Ben Hunt",
+        "DOB": "Tuesday, 27th March, 1990",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "1626": {
+        "name": "Nathan Friend",
+        "DOB": "Saturday, 28th February, 1981",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "13912": {
+        "name": "Kieran Foran",
+        "DOB": "Friday, 13th July, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "13917": {
+        "name": "Sandor Earl",
+        "DOB": "Thursday, 21st September, 1989",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "26198": {
+        "name": "Lachlan Lewis",
+        "DOB": "Monday, 19th August, 1996",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "28248": {
+        "name": "Corey Waddell",
+        "DOB": "Wednesday, 2nd October, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "48731": {
+        "name": "Casey Mclean",
+        "DOB": "Monday, 24th April, 2006",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "28257": {
+        "name": "Hudson Young",
+        "DOB": "Thursday, 11th June, 1998",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "28258": {
+        "name": "Liam Martin",
+        "DOB": "Wednesday, 5th March, 1997",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "1635": {
+        "name": "Jamie Lyon",
+        "DOB": "Sunday, 24th January, 1982",
+        "POB": "Wee Waa, New South Wales, Australia"
+    },
+    "28260": {
+        "name": "Rhys Kennedy",
+        "DOB": "Tuesday, 11th October, 1994",
+        "POB": "Moruya, New South Wales, Australia"
+    },
+    "28261": {
+        "name": "Morgan Smithies",
+        "DOB": "Tuesday, 7th November, 2000",
+        "POB": "Halifax, West Yorkshire, England"
+    },
+    "28262": {
+        "name": "Chanel Harris-Tavita",
+        "DOB": "Saturday, 3rd April, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "50791": {
+        "name": "Owen Pattie",
+        "DOB": "Thursday, 22nd January, 2004"
+    },
+    "28264": {
+        "name": "Ryan Papenhuyzen",
+        "DOB": "Wednesday, 10th June, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "1641": {
+        "name": "Willie Mason",
+        "DOB": "Tuesday, 15th April, 1980",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28259": {
+        "name": "Jayden Okunbor",
+        "DOB": "Sunday, 2nd March, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28263": {
+        "name": "Bronson Xerri",
+        "DOB": "Sunday, 10th September, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22715": {
+        "name": "Addin Fonua-Blake",
+        "DOB": "Monday, 6th November, 1995",
+        "POB": "Meadowbrook, New South Wales, Australia"
+    },
+    "13937": {
+        "name": "Dave Tyrrell",
+        "DOB": "Sunday, 9th October, 1988",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "13939": {
+        "name": "Daniel Vidot",
+        "DOB": "Thursday, 8th February, 1990",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "13940": {
+        "name": "Josh Hodgson",
+        "DOB": "Tuesday, 31st October, 1989",
+        "POB": "Kingston upon Hull, East Riding of Yorkshire, England"
+    },
+    "3701": {
+        "name": "Brett Morris",
+        "DOB": "Saturday, 23rd August, 1986",
+        "POB": "Kiama, New South Wales, Australia"
+    },
+    "13941": {
+        "name": "Isaac John",
+        "DOB": "Monday, 12th December, 1988",
+        "POB": "Tokoroa, Waikato, New Zealand"
+    },
+    "3704": {
+        "name": "Danny Wicks",
+        "DOB": "Thursday, 5th December, 1985",
+        "POB": "Grafton, New South Wales, Australia"
+    },
+    "13944": {
+        "name": "Luke Kelly",
+        "DOB": "Saturday, 13th October, 1990",
+        "POB": "Katherine, Northern Territory, Australia"
+    },
+    "30330": {
+        "name": "Haze Dunster",
+        "DOB": "Monday, 1st March, 1999",
+        "POB": "Rotorua, Bay of Plenty, New Zealand"
+    },
+    "7803": {
+        "name": "Josh Hoffman",
+        "DOB": "Thursday, 10th March, 1988",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "13948": {
+        "name": "David Hala",
+        "DOB": "Wednesday, 25th October, 1989",
+        "POB": "Redcliffe, Queensland, Australia"
+    },
+    "3709": {
+        "name": "Jarryd Hayne",
+        "DOB": "Monday, 15th February, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "13950": {
+        "name": "Elliott Whitehead",
+        "DOB": "Monday, 4th September, 1989",
+        "POB": "Bradford, West Yorkshire, England"
+    },
+    "32382": {
+        "name": "Isaiah Tass",
+        "DOB": "Thursday, 19th August, 1999",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "7808": {
+        "name": "Frank Winterstein",
+        "DOB": "Wednesday, 17th December, 1986",
+        "POB": "Canterbury, New South Wales, Australia"
+    },
+    "3710": {
+        "name": "Sam Rapira",
+        "DOB": "Wednesday, 8th April, 1987",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "7813": {
+        "name": "Tony Williams",
+        "DOB": "Monday, 12th December, 1988",
+        "POB": "Canterbury, New South Wales, Australia"
+    },
+    "13960": {
+        "name": "Chris McQueen",
+        "DOB": "Monday, 3rd August, 1987",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "7816": {
+        "name": "Sam McKendry",
+        "DOB": "Wednesday, 19th July, 1989",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "3722": {
+        "name": "Dave Taylor",
+        "DOB": "Friday, 8th July, 1988",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "13964": {
+        "name": "Tyrone McCarthy",
+        "DOB": "Thursday, 21st April, 1988",
+        "POB": "Warrington, Cheshire, England"
+    },
+    "7824": {
+        "name": "Ben Matulino",
+        "DOB": "Tuesday, 3rd January, 1989",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "30863": {
+        "name": "Dean Ieremia",
+        "DOB": "Monday, 20th August, 2001",
+        "POB": "Fagaloa, Samoa"
+    },
+    "7827": {
+        "name": "Wade Graham",
+        "DOB": "Thursday, 25th October, 1990",
+        "POB": "Blacktown, New South Wales, Australia"
+    },
+    "13972": {
+        "name": "Robert Lui",
+        "DOB": "Thursday, 22nd February, 1990",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "26261": {
+        "name": "Darren Nicholls",
+        "DOB": "Saturday, 15th April, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "26262": {
+        "name": "Jake Turpin",
+        "DOB": "Saturday, 16th November, 1996",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "22617": {
+        "name": "David Bhana",
+        "DOB": "Sunday, 10th January, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "26265": {
+        "name": "Caleb Aekins",
+        "DOB": "Friday, 21st November, 1997",
+        "POB": "Otaika, Northland, New Zealand"
+    },
+    "26266": {
+        "name": "Nick Meaney",
+        "DOB": "Wednesday, 10th September, 1997",
+        "POB": "Lismore, New South Wales, Australia"
+    },
+    "26267": {
+        "name": "Luke Garner",
+        "DOB": "Wednesday, 6th September, 1995",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "7836": {
+        "name": "Jake Friend",
+        "DOB": "Thursday, 1st February, 1990",
+        "POB": "Nambour, Queensland, Australia"
+    },
+    "26269": {
+        "name": "Paul Momirovski",
+        "DOB": "Friday, 19th July, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "7838": {
+        "name": "Lachlan Coote",
+        "DOB": "Friday, 6th April, 1990",
+        "POB": "Windsor, New South Wales, Australia"
+    },
+    "26270": {
+        "name": "Sean O'Sullivan",
+        "DOB": "Friday, 21st August, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "26268": {
+        "name": "Jai Whitbread",
+        "DOB": "Friday, 16th January, 1998",
+        "POB": "Tugun, Queensland, Australia"
+    },
+    "26273": {
+        "name": "Jack Murchie",
+        "DOB": "Thursday, 26th June, 1997",
+        "POB": "Batemans Bay, New South Wales, Australia"
+    },
+    "26274": {
+        "name": "Jake Clifford",
+        "DOB": "Friday, 2nd January, 1998",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "26275": {
+        "name": "Jordan Pereira",
+        "DOB": "Tuesday, 6th April, 1993",
+        "POB": "Lower Hutt, Wellington, New Zealand"
+    },
+    "7839": {
+        "name": "Will Matthews",
+        "DOB": "Tuesday, 1st March, 1988",
+        "POB": "Kyogle, New South Wales, Australia"
+    },
+    "26271": {
+        "name": "Poasa Fa'amausili",
+        "DOB": "Wednesday, 14th February, 1996",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "22726": {
+        "name": "Taane Milne",
+        "DOB": "Friday, 19th May, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "7848": {
+        "name": "Jordan Rapana",
+        "DOB": "Tuesday, 15th August, 1989",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "24762": {
+        "name": "Sam Cook",
+        "DOB": "Sunday, 1st August, 1993",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "3754": {
+        "name": "Mike Cooper",
+        "DOB": "Thursday, 15th September, 1988",
+        "POB": "Warrington, Cheshire, England"
+    },
+    "7853": {
+        "name": "Akuila Uate",
+        "DOB": "Tuesday, 6th October, 1987",
+        "POB": "Votua, Nadroga-Navosa, Fiji"
+    },
+    "7854": {
+        "name": "Ben Barba",
+        "DOB": "Tuesday, 13th June, 1989",
+        "POB": "Darwin, Northern Territory, Australia"
+    },
+    "7855": {
+        "name": "Jordan Rankin",
+        "DOB": "Tuesday, 17th December, 1991",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "38577": {
+        "name": "Jamal Shibasaki",
+        "DOB": "Tuesday, 7th June, 2005"
+    },
+    "7858": {
+        "name": "Jamal Idris",
+        "DOB": "Friday, 6th July, 1990",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "3763": {
+        "name": "Chris 'Rowdy' Lawrence",
+        "DOB": "Wednesday, 19th October, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20147": {
+        "name": "Tyrone Phillips",
+        "DOB": "Wednesday, 5th January, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20149": {
+        "name": "Luke Keary",
+        "DOB": "Monday, 3rd February, 1992",
+        "POB": "Ipswich, Queensland, Australia"
+    },
+    "20150": {
+        "name": "Apisai Koroisau",
+        "DOB": "Saturday, 7th November, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20151": {
+        "name": "Kyle Turner",
+        "DOB": "Thursday, 20th February, 1992",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "7862": {
+        "name": "Joel Thompson",
+        "DOB": "Wednesday, 24th August, 1988",
+        "POB": "Ivanhoe, New South Wales, Australia"
+    },
+    "22730": {
+        "name": "Brock Lamb",
+        "DOB": "Wednesday, 29th January, 1997",
+        "POB": "Maitland, New South Wales, Australia"
+    },
+    "20154": {
+        "name": "Aaron Gray",
+        "DOB": "Thursday, 7th April, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "22204": {
+        "name": "Billy Tsikrikas",
+        "DOB": "Thursday, 11th May, 1995"
+    },
+    "22731": {
+        "name": "Toafofoa Sipley",
+        "DOB": "Thursday, 5th January, 1995",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "14026": {
+        "name": "Jason Clark",
+        "DOB": "Wednesday, 28th June, 1989",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20170": {
+        "name": "Cameron McInnes",
+        "DOB": "Tuesday, 1st February, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "36562": {
+        "name": "Brock Gray",
+        "DOB": "Saturday, 27th July, 1996"
+    },
+    "44764": {
+        "name": "Charlie Guymer",
+        "DOB": "Monday, 22nd November, 2004",
+        "POB": "Temora, New South Wales, Australia"
+    },
+    "29972": {
+        "name": "Emry Pere",
+        "DOB": "Tuesday, 8th September, 1998",
+        "POB": "Huntly, Waikato, New Zealand"
+    },
+    "14046": {
+        "name": "Ray Thompson",
+        "DOB": "Saturday, 20th January, 1990",
+        "POB": "Cairns, Queensland, Australia"
+    },
+    "1759": {
+        "name": "Ian Henderson",
+        "DOB": "Saturday, 23rd April, 1983",
+        "POB": "Torquay, Devon, England"
+    },
+    "1760": {
+        "name": "Steve Matai",
+        "DOB": "Sunday, 5th August, 1984",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "1691": {
+        "name": "Antonio Kaufusi",
+        "DOB": "Tuesday, 27th November, 1984",
+        "POB": "Matahau, Tonga"
+    },
+    "38634": {
+        "name": "Arama Hau",
+        "DOB": "Friday, 27th August, 2004"
+    },
+    "44785": {
+        "name": "Kit Laulilii",
+        "DOB": "Friday, 25th February, 2005",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "20210": {
+        "name": "George Williams",
+        "DOB": "Monday, 31st October, 1994",
+        "POB": "Wigan, Greater Manchester, England"
+    },
+    "20212": {
+        "name": "Joe Burgess",
+        "DOB": "Friday, 14th October, 1994",
+        "POB": "Wigan, Greater Manchester, England"
+    },
+    "36596": {
+        "name": "Paul Roache",
+        "DOB": "Tuesday, 29th December, 1998",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "20217": {
+        "name": "Dylan Walker",
+        "DOB": "Tuesday, 27th September, 1994",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28411": {
+        "name": "Patrick Carrigan",
+        "DOB": "Thursday, 1st January, 1998",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "19894": {
+        "name": "Matty Nicholson",
+        "DOB": "Friday, 18th July, 2003"
+    },
+    "20221": {
+        "name": "Tohu Harris",
+        "DOB": "Tuesday, 7th January, 1992",
+        "POB": "Hastings, Hawke's Bay, New Zealand"
+    },
+    "20222": {
+        "name": "Jordan Kahu",
+        "DOB": "Monday, 28th January, 1991",
+        "POB": "Lower Hutt, Wellington, New Zealand"
+    },
+    "1577": {
+        "name": "Bryan Norrie",
+        "DOB": "Friday, 14th October, 1983",
+        "POB": "Forbes, New South Wales, Australia"
+    },
+    "20224": {
+        "name": "Leilani Latu",
+        "DOB": "Friday, 5th February, 1993",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20223": {
+        "name": "David Klemmer",
+        "DOB": "Wednesday, 22nd December, 1993",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20226": {
+        "name": "Curtis Rona",
+        "DOB": "Tuesday, 26th May, 1992",
+        "POB": "Waitara, Taranaki, New Zealand"
+    },
+    "20227": {
+        "name": "Damien Cook",
+        "DOB": "Sunday, 23rd June, 1991",
+        "POB": "Sutherland, New South Wales, Australia"
+    },
+    "44804": {
+        "name": "Salesi Foketi",
+        "DOB": "Friday, 4th November, 2005",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "20220": {
+        "name": "Adam Quinlan",
+        "DOB": "Friday, 13th November, 1992",
+        "POB": "Kogarah, New South Wales, Australia"
+    },
+    "26374": {
+        "name": "Jaeman Salmon",
+        "DOB": "Monday, 4th January, 1999",
+        "POB": "Caringbah, New South Wales, Australia"
+    },
+    "30885": {
+        "name": "Joe Chan",
+        "DOB": "Sunday, 10th March, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "30072": {
+        "name": "Daniel Vasquez",
+        "DOB": "Monday, 21st July, 1997",
+        "POB": "Cronulla, New South Wales, Australia"
+    },
+    "20230": {
+        "name": "Charly Runciman",
+        "DOB": "Thursday, 22nd July, 1993",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "20236": {
+        "name": "Mitchell Frei",
+        "DOB": "Sunday, 9th February, 1992",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20238": {
+        "name": "Chanel Mata'utia",
+        "DOB": "Monday, 17th August, 1992",
+        "POB": "Liverpool, New South Wales, Australia"
+    },
+    "20239": {
+        "name": "Tyler Randell",
+        "DOB": "Monday, 31st August, 1992",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "20240": {
+        "name": "Chad Redman",
+        "DOB": "Thursday, 17th December, 1992",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20241": {
+        "name": "Korbin Sims",
+        "DOB": "Thursday, 2nd January, 1992",
+        "POB": "Gerringong, New South Wales, Australia"
+    },
+    "20242": {
+        "name": "Will Smith",
+        "DOB": "Friday, 3rd July, 1992",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20243": {
+        "name": "Paterika Vaivai",
+        "DOB": "Friday, 14th February, 1992",
+        "POB": "Salamumu, Samoa"
+    },
+    "20249": {
+        "name": "Sosaia Feki",
+        "DOB": "Thursday, 9th May, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20250": {
+        "name": "Penani Manumalealii",
+        "DOB": "Sunday, 14th June, 1992",
+        "POB": "Apia, Apia, Samoa"
+    },
+    "20252": {
+        "name": "Tyrone Peachey",
+        "DOB": "Thursday, 8th August, 1991",
+        "POB": "Wellington, New South Wales, Australia"
+    },
+    "20253": {
+        "name": "Tupou Sopoaga",
+        "DOB": "Wednesday, 6th May, 1992",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "20254": {
+        "name": "Kirisome Auva'a",
+        "DOB": "Sunday, 23rd February, 1992",
+        "POB": "Moto'otua, Apia, Samoa"
+    },
+    "20255": {
+        "name": "Kenny Bromwich",
+        "DOB": "Sunday, 22nd September, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20256": {
+        "name": "Mitch Garbutt",
+        "DOB": "Tuesday, 18th April, 1989",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20257": {
+        "name": "Tim Glasby",
+        "DOB": "Thursday, 27th April, 1989",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "20258": {
+        "name": "Slade Griffin",
+        "DOB": "Thursday, 17th January, 1991",
+        "POB": "Glen Innes, New South Wales, Australia"
+    },
+    "28451": {
+        "name": "William Kennedy",
+        "DOB": "Friday, 18th April, 1997",
+        "POB": "Bathurst, New South Wales, Australia"
+    },
+    "28452": {
+        "name": "Sam Verrills",
+        "DOB": "Wednesday, 13th January, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20260": {
+        "name": "Kurt Mann",
+        "DOB": "Monday, 1st March, 1993",
+        "POB": "Winton, Queensland, Australia"
+    },
+    "20262": {
+        "name": "Jordan McLean",
+        "DOB": "Tuesday, 8th October, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20259": {
+        "name": "Ben Hampton",
+        "DOB": "Saturday, 29th February, 1992",
+        "POB": "Wagga Wagga, New South Wales, Australia"
+    },
+    "28453": {
+        "name": "Josh Curran",
+        "DOB": "Thursday, 10th June, 1999",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20265": {
+        "name": "Jack Buchanan",
+        "DOB": "Friday, 10th April, 1992",
+        "POB": "Culburra Beach, New South Wales, Australia"
+    },
+    "36646": {
+        "name": "Allan Fitzgibbon",
+        "DOB": "Tuesday, 10th November, 1998",
+        "POB": "Coffs Harbour, New South Wales, Australia"
+    },
+    "20268": {
+        "name": "David Nofoaluma",
+        "DOB": "Sunday, 28th November, 1993",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20269": {
+        "name": "Ava Seumanufagai",
+        "DOB": "Tuesday, 4th June, 1991",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "1586": {
+        "name": "George Rose",
+        "DOB": "Sunday, 13th March, 1983",
+        "POB": "Bathurst, New South Wales, Australia"
+    },
+    "20271": {
+        "name": "Sauaso 'Jesse' Sue",
+        "DOB": "Monday, 20th April, 1992",
+        "POB": "Otahuhu, Auckland, New Zealand"
+    },
+    "28464": {
+        "name": "Hayze Perham",
+        "DOB": "Friday, 2nd July, 1999",
+        "POB": "Taupo, Waikato, New Zealand"
+    },
+    "28465": {
+        "name": "Ronaldo Mulitalo",
+        "DOB": "Wednesday, 17th November, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "1587": {
+        "name": "John Sutton",
+        "DOB": "Monday, 5th November, 1984",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20275": {
+        "name": "Jahrome Hughes",
+        "DOB": "Saturday, 8th October, 1994",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "28463": {
+        "name": "Patrick Herbert",
+        "DOB": "Friday, 10th January, 1997",
+        "POB": "Whakatane, Bay of Plenty, New Zealand"
+    },
+    "20276": {
+        "name": "Mark Ioane",
+        "DOB": "Monday, 3rd December, 1990",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20719": {
+        "name": "David Fusitu'a",
+        "DOB": "Sunday, 16th October, 1994",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20277": {
+        "name": "Cody Nelson",
+        "DOB": "Sunday, 13th November, 1988",
+        "POB": "Mullumbimby, New South Wales, Australia"
+    },
+    "20279": {
+        "name": "John Palavi",
+        "DOB": "Friday, 31st July, 1992",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20281": {
+        "name": "Shannon Boyd",
+        "DOB": "Wednesday, 9th September, 1992",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "20282": {
+        "name": "Mitch Cornish",
+        "DOB": "Thursday, 28th January, 1993",
+        "POB": "Goulburn, New South Wales, Australia"
+    },
+    "20278": {
+        "name": "Luke Page",
+        "DOB": "Saturday, 12th January, 1991",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20286": {
+        "name": "Sami Sauiluma",
+        "DOB": "Thursday, 14th February, 1991",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28479": {
+        "name": "Tom Dearden",
+        "DOB": "Tuesday, 13th March, 2001",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "28480": {
+        "name": "Jesse Arthars",
+        "DOB": "Friday, 7th August, 1998",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20287": {
+        "name": "Paul Vaughan",
+        "DOB": "Tuesday, 23rd April, 1991",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "20290": {
+        "name": "Kelepi Tanginoa",
+        "DOB": "Tuesday, 1st March, 1994",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "28482": {
+        "name": "Oliver Clark",
+        "DOB": "Saturday, 17th August, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20288": {
+        "name": "Jesse Sene-Lefao",
+        "DOB": "Friday, 8th December, 1989",
+        "POB": "Wellington, Wellington, New Zealand"
+    },
+    "20289": {
+        "name": "Vai Toutai",
+        "DOB": "Thursday, 28th January, 1993",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "20292": {
+        "name": "Ngani Laumape",
+        "DOB": "Thursday, 22nd April, 1993",
+        "POB": "Palmerston North, Manawatu-Wanganui, New Zealand"
+    },
+    "1592": {
+        "name": "Keith Galloway",
+        "DOB": "Monday, 2nd September, 1985",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "33751": {
+        "name": "Kaeo Weekes",
+        "DOB": "Wednesday, 6th February, 2002",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "15028": {
+        "name": "Dylan Farrell",
+        "DOB": "Wednesday, 15th May, 1991",
+        "POB": "Nowra, New South Wales, Australia"
+    },
+    "20316": {
+        "name": "Isaac Liu",
+        "DOB": "Friday, 26th April, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "5667": {
+        "name": "Ricky Thorby",
+        "DOB": "Wednesday, 2nd October, 1985",
+        "POB": "Palmerston, Otago, New Zealand"
+    },
+    "30906": {
+        "name": "Simi Sasagi",
+        "DOB": "Tuesday, 24th April, 2001",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "8041": {
+        "name": "Lee Mossop",
+        "DOB": "Tuesday, 17th January, 1989",
+        "POB": "England"
+    },
+    "33756": {
+        "name": "Zac Fulton",
+        "DOB": "Tuesday, 14th August, 2001",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "5670": {
+        "name": "Maurice Blair",
+        "DOB": "Tuesday, 16th October, 1984",
+        "POB": "Maryborough, Queensland, Australia"
+    },
+    "33757": {
+        "name": "Deine Mariner",
+        "DOB": "Friday, 25th April, 2003",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "1906": {
+        "name": "Jacob Lillyman",
+        "DOB": "Wednesday, 7th March, 1984",
+        "POB": "Richmond, Queensland, Australia"
+    },
+    "30908": {
+        "name": "Aaron Schoupp",
+        "DOB": "Friday, 29th June, 2001",
+        "POB": "Figtree, New South Wales, Australia"
+    },
+    "1910": {
+        "name": "Todd Lowrie",
+        "DOB": "Thursday, 14th July, 1983",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "1911": {
+        "name": "Steve Michaels",
+        "DOB": "Tuesday, 13th January, 1987",
+        "POB": "Gold Coast, Queensland, Australia"
+    },
+    "1912": {
+        "name": "Tom Learoyd-Lahrs",
+        "DOB": "Friday, 13th September, 1985",
+        "POB": "Tamworth, New South Wales, Australia"
+    },
+    "34166": {
+        "name": "Khaled Rajab",
+        "DOB": "Tuesday, 26th February, 2002",
+        "POB": "Bankstown, New South Wales, Australia"
+    },
+    "20350": {
+        "name": "Anthony Milford",
+        "DOB": "Monday, 11th July, 1994",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "20351": {
+        "name": "Sitaleki Akauola",
+        "DOB": "Tuesday, 7th April, 1992",
+        "POB": "Manurewa, Auckland, New Zealand"
+    },
+    "20352": {
+        "name": "Peta Hiku",
+        "DOB": "Friday, 4th December, 1992",
+        "POB": "Gisborne, Gisborne, New Zealand"
+    },
+    "1921": {
+        "name": "Matthew Scott",
+        "DOB": "Tuesday, 30th July, 1985",
+        "POB": "Longreach, Queensland, Australia"
+    },
+    "20353": {
+        "name": "Anthony Don",
+        "DOB": "Monday, 21st September, 1987",
+        "POB": "Manly, New South Wales, Australia"
+    },
+    "30911": {
+        "name": "Brad Schneider",
+        "DOB": "Thursday, 15th February, 2001",
+        "POB": "Adelaide, South Australia, Australia"
+    },
+    "23992": {
+        "name": "Tyrone Amey",
+        "DOB": "Saturday, 20th January, 1996",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "5675": {
+        "name": "Beau Ryan",
+        "DOB": "Saturday, 11th May, 1985",
+        "POB": "Wollongong, New South Wales, Australia"
+    },
+    "33762": {
+        "name": "Kade Dykes",
+        "DOB": "Thursday, 31st January, 2002",
+        "POB": "Dubbo, New South Wales, Australia"
+    },
+    "23993": {
+        "name": "Jeremy Marshall-King",
+        "DOB": "Saturday, 2nd December, 1995",
+        "POB": "Whakatane, Bay of Plenty, New Zealand"
+    },
+    "49036": {
+        "name": "Liam Le Blanc",
+        "DOB": "Monday, 13th September, 2004"
+    },
+    "26512": {
+        "name": "Gehamat Shibasaki",
+        "DOB": "Wednesday, 2nd September, 1998",
+        "POB": "Townsville, Queensland, Australia"
+    },
+    "26513": {
+        "name": "Pasami Saulo",
+        "DOB": "Saturday, 1st August, 1998",
+        "POB": "Belmont, New South Wales, Australia"
+    },
+    "321": {
+        "name": "Bronson Harrison",
+        "DOB": "Thursday, 10th October, 1985",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20371": {
+        "name": "Matt Moylan",
+        "DOB": "Sunday, 16th June, 1991",
+        "POB": "Baulkham Hills, New South Wales, Australia"
+    },
+    "26516": {
+        "name": "Oregon Kaufusi",
+        "DOB": "Friday, 20th August, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "26517": {
+        "name": "Ray Stone",
+        "DOB": "Friday, 6th June, 1997",
+        "POB": "Moss Vale, New South Wales, Australia"
+    },
+    "26518": {
+        "name": "Emre Guler",
+        "DOB": "Monday, 19th January, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "26515": {
+        "name": "Mawene Hiroti",
+        "DOB": "Saturday, 6th March, 1999",
+        "POB": "Taranaki, Taranaki, New Zealand"
+    },
+    "26529": {
+        "name": "Kyle Flanagan",
+        "DOB": "Tuesday, 15th September, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "44963": {
+        "name": "Keagan Russell-Smith",
+        "DOB": "Tuesday, 8th July, 2003"
+    },
+    "7718": {
+        "name": "Beau Falloon",
+        "DOB": "Thursday, 21st May, 1987",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20402": {
+        "name": "Peni Terepo",
+        "DOB": "Thursday, 21st November, 1991",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20403": {
+        "name": "Kaysa Pritchard",
+        "DOB": "Thursday, 5th May, 1994",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "32691": {
+        "name": "Soni Luke",
+        "DOB": "Sunday, 25th February, 1996",
+        "POB": "Penrith, New South Wales, Australia"
+    },
+    "32692": {
+        "name": "Harry Rushton",
+        "DOB": "Monday, 13th November, 2000",
+        "POB": "Blackpool, Lancashire, England"
+    },
+    "28598": {
+        "name": "Brian To'o",
+        "DOB": "Tuesday, 18th August, 1998",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "28599": {
+        "name": "Sebastian Kris",
+        "DOB": "Monday, 19th April, 1999",
+        "POB": "Canberra, Australian Capital Territory, Australia"
+    },
+    "28600": {
+        "name": "Cade Cust",
+        "DOB": "Monday, 14th September, 1998",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "28602": {
+        "name": "Mitch Kenny",
+        "DOB": "Thursday, 15th January, 1998",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20411": {
+        "name": "James Hasson",
+        "DOB": "Friday, 1st May, 1992",
+        "POB": "Hillingdon, Greater London, England"
+    },
+    "32698": {
+        "name": "Shaq Mitchell",
+        "DOB": "Tuesday, 19th March, 1996",
+        "POB": "Taree, New South Wales, Australia"
+    },
+    "7721": {
+        "name": "Sam Moa",
+        "DOB": "Thursday, 14th August, 1986",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "7722": {
+        "name": "Joseph 'Sefa' Paulo",
+        "DOB": "Saturday, 2nd January, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28613": {
+        "name": "Brent Naden",
+        "DOB": "Saturday, 30th December, 1995",
+        "POB": "Wellington, New South Wales, Australia"
+    },
+    "28614": {
+        "name": "Connor Tracey",
+        "DOB": "Monday, 17th June, 1996",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28615": {
+        "name": "Billy Brittain",
+        "DOB": "Thursday, 19th May, 1994",
+        "POB": "Brisbane, Queensland, Australia"
+    },
+    "39740": {
+        "name": "Liam Ison",
+        "DOB": "Tuesday, 21st December, 2004"
+    },
+    "5688": {
+        "name": "Bryson Goodwin",
+        "DOB": "Monday, 30th December, 1985",
+        "POB": "Parkes, New South Wales, Australia"
+    },
+    "28619": {
+        "name": "Reuben Cotter",
+        "DOB": "Monday, 28th December, 1998",
+        "POB": "Mackay, Queensland, Australia"
+    },
+    "30668": {
+        "name": "Tyson Smoothy",
+        "DOB": "Wednesday, 7th July, 1999",
+        "POB": "Toowoomba, Queensland, Australia"
+    },
+    "30669": {
+        "name": "Bradley Deitz",
+        "DOB": "Thursday, 9th March, 1995"
+    },
+    "30670": {
+        "name": "Fletcher Baker",
+        "DOB": "Sunday, 26th December, 1999"
+    },
+    "16332": {
+        "name": "Josh Mantellato",
+        "DOB": "Tuesday, 21st April, 1987",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "30672": {
+        "name": "Jackson Topine",
+        "DOB": "Wednesday, 22nd August, 2001",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "30673": {
+        "name": "Trent Loiero",
+        "DOB": "Tuesday, 27th February, 2001",
+        "POB": "Kawana Waters, Queensland, Australia"
+    },
+    "30674": {
+        "name": "Sam Walker",
+        "DOB": "Sunday, 16th June, 2002",
+        "POB": "Leeds, West Yorkshire, England"
+    },
+    "30675": {
+        "name": "Benjamin Marschke",
+        "DOB": "Thursday, 19th June, 1997",
+        "POB": "Bundaberg, Queensland, Australia"
+    },
+    "36819": {
+        "name": "Kurt Donoghoe",
+        "DOB": "Friday, 30th November, 2001",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "30677": {
+        "name": "Dean Hawkins",
+        "DOB": "Wednesday, 10th March, 1999",
+        "POB": "Randwick, New South Wales, Australia"
+    },
+    "1619": {
+        "name": "Daniel Holdsworth",
+        "DOB": "Friday, 27th April, 1984",
+        "POB": "Perth, Western Australia, Australia"
+    },
+    "47249": {
+        "name": "Heath Mason",
+        "DOB": "Wednesday, 1st June, 2005",
+        "POB": "Bowral, New South Wales, Australia"
+    },
+    "32728": {
+        "name": "Trent Peoples",
+        "DOB": "Monday, 22nd June, 1998",
+        "POB": "Campbelltown, New South Wales, Australia"
+    },
+    "49113": {
+        "name": "Blake Steep",
+        "DOB": "Thursday, 28th April, 2005",
+        "POB": "Port Macquarie, New South Wales, Australia"
+    },
+    "28634": {
+        "name": "Tom Amone",
+        "DOB": "Thursday, 19th December, 1996",
+        "POB": "Westmead, New South Wales, Australia"
+    },
+    "28635": {
+        "name": "Dominic Young",
+        "DOB": "Thursday, 9th August, 2001",
+        "POB": "Dewsbury, West Yorkshire, England"
+    },
+    "49114": {
+        "name": "De La Salle Va'a",
+        "DOB": "Tuesday, 16th August, 2005",
+        "POB": "Faga\u02bbalu, American Samoa"
+    },
+    "7727": {
+        "name": "David 'Wolfman' Williams",
+        "DOB": "Monday, 4th August, 1986",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28641": {
+        "name": "KL Iro",
+        "DOB": "Sunday, 20th February, 2000",
+        "POB": "Leeds, West Yorkshire, England"
+    },
+    "28643": {
+        "name": "Steven Marsters",
+        "DOB": "Tuesday, 19th October, 1999",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "28644": {
+        "name": "Troy Dargan",
+        "DOB": "Wednesday, 15th October, 1997",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "36840": {
+        "name": "Riley Jones",
+        "DOB": "Friday, 11th January, 2002",
+        "POB": "Gosford, New South Wales, Australia"
+    },
+    "36841": {
+        "name": "Fletcher Myers",
+        "DOB": "Monday, 12th May, 2003",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "7730": {
+        "name": "Anthony Cherrington",
+        "DOB": "Monday, 21st March, 1988",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28654": {
+        "name": "Isaac Lumelume",
+        "DOB": "Thursday, 16th April, 1998",
+        "POB": "Auburn, New South Wales, Australia"
+    },
+    "28655": {
+        "name": "Brandon Wakeham",
+        "DOB": "Monday, 11th January, 1999",
+        "POB": "Kogarah, New South Wales, Australia"
+    },
+    "31340": {
+        "name": "Kane Bradley",
+        "DOB": "Thursday, 3rd February, 2000",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "20466": {
+        "name": "Suaia Matagi",
+        "DOB": "Wednesday, 23rd March, 1988",
+        "POB": "Auckland, Auckland, New Zealand"
+    },
+    "20467": {
+        "name": "Adam Clydsdale",
+        "DOB": "Saturday, 13th February, 1993",
+        "POB": "Scone, New South Wales, Australia"
+    },
+    "20468": {
+        "name": "Sam Anderson",
+        "DOB": "Monday, 25th March, 1991",
+        "POB": "Newcastle, New South Wales, Australia"
+    },
+    "20470": {
+        "name": "Jake Granville",
+        "DOB": "Tuesday, 7th February, 1989",
+        "POB": "Rockhampton, Queensland, Australia"
+    },
+    "28663": {
+        "name": "Jacob Kiraz",
+        "DOB": "Friday, 23rd November, 2001",
+        "POB": "Sydney, New South Wales, Australia"
+    },
+    "28662": {
+        "name": "James Roumanos",
+        "DOB": "Tuesday, 10th August, 1999",
+        "POB": "Greenacre, New South Wales, Australia"
+    },
+    "28667": {
+        "name": "Xavier Coates",
+        "DOB": "Monday, 12th March, 2001",
+        "POB": "Port Moresby, Central, Papua New Guinea"
+    },
+    "20476": {
+        "name": "Samisoni Langi",
+        "DOB": "Friday, 11th June, 1993",
+        "POB": "Auburn, New South Wales, Australia"
+    }
+}

@@ -1,0 +1,7 @@
+database.db
+backup.db
+backupdb.db
+nrlstats/data/
+fantasymatches/
+matches/
+odd_scraping/raw_html_oddsportal/
