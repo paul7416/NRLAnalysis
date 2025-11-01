@@ -5,3 +5,5 @@ nrlstats/data/
 fantasymatches/
 matches/
 odd_scraping/raw_html_oddsportal/
+data_tarball.gz
+*.swp
